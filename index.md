@@ -32,6 +32,7 @@ sections:
       image: /images/logos.png
       alt: Image alt text
   - resources:
+      title: Events
       subtitle: Book a slot at any event below
       id: resources
 ---
