@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/homepage__banner.jpg
       key_highlights:
         - title: MAKE YOUR LASTING POWER OF ATTORNEY
           description: ""
