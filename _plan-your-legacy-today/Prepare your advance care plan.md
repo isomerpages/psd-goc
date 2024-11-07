@@ -22,7 +22,7 @@ loved ones of decisions they have to live with, do up your Advanced Medical
 Care and Lasting Power of Attorney now while you can.</p>
 <h4>LASTING POWER OF ATTORNEY (LPA)</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C0gyH1riuH0?si=EOoVxRW2VQGLUAoU"></iframe>
+<iframe height="315" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C0gyH1riuH0?si=EOoVxRW2VQGLUAoU"></iframe>
 </div>
 <p>A lasting power of attorney is a beacon of support and reassurance, offering
 a guiding hand during life’s unexpected twists and turns. It’s like appointing
