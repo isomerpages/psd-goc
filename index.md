@@ -35,4 +35,22 @@ sections:
       title: Events
       subtitle: Book a slot at any event below
       id: resources
+  - textcards:
+      title: Events
+      id: textcards
+      description: We often hold events where our facilitators can help you. Book a
+        slot at our upcoming events below
+      cards:
+        - title: Roadshow and Mobile Clinic @ Wisma Geylang Serai
+          description: 25 and 26 May 2024
+          linktext: Learn more
+          url: ""
+        - title: Roadshow and Mobile Clinic @ Yew Tee Point
+          description: 22 and 23 June 2024
+          linktext: Learn more
+          url: ""
+        - title: Roadshow and Mobile Clinic @ Wisma Geylang Serai
+          description: 25 and 26 May 2024
+          linktext: Learn more
+          url: ""
 ---
