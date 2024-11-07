@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: MAKE YOUR LASTING POWER OF ATTORNEY
           description: ""
-          url: /prepare-your-advance-care-plan/
+          url: ""
         - title: PREPARE YOUR ADVANCE CARE PLAN
           description: ""
-          url: ""
+          url: /prepare-your-advance-care-plan/
         - title: CONFIRM YOUR PCF NOMINATION
           description: ""
           url: ""
