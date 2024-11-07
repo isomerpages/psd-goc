@@ -2,6 +2,6 @@ collections:
   plan-your-legacy-today:
     output: true
     order:
-      - We’re here to help.md
       - Prepare your advance care plan.md
       - Wills & CPF Nomination.md
+      - We’re here to help.md
