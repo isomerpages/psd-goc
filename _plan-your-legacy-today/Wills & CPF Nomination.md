@@ -31,7 +31,7 @@ beneficiaries) after he or she passes on; and the manner of distribution
 will be given.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/write_a_will.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/write_a_will.png">
 </div>
 <h4>CPF Nomination</h4>
 <p>By making a CPF nomination, you gain the flexibility to decide who should
@@ -41,6 +41,6 @@ more quickly—generally within five weeks—without any fees charged. This
 expedited process can be crucial during challenging times.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/cpf_nomination.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/cpf_nomination.png">
 </div>
 <p></p>
