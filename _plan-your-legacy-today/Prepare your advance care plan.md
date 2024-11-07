@@ -45,10 +45,10 @@ Your ACP can help make decision-making less stressful for your family and
 ensure that your preferences are heard, even when you can no longer speak
 for yourself.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/guide_acp.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/guide_acp.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/acp_checklist.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/acp_checklist.png">
 </div>
 <p></p>
