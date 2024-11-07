@@ -26,7 +26,7 @@ sections:
       variant: image
   - infopic:
       title: Header will be here
-      subtitle: A SINGAPORE GOVERNMENT DRIVE
+      subtitle: An SG Government Initiative
       id: infopic
       description: Infopic description
       image: /images/logos.png
