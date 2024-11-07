@@ -11,12 +11,9 @@ help ease the burden of caring for you</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/circle.png">
 </div>
-<p><strong>If you are afflicted with Alzheimer's, would you choose to stay at home or in a nursing centre?</strong>
-</p>
-<p><strong>Would you sell your house to fund your medical treatment?</strong>
-</p>
-<p><strong>Would you want to go through the pain of dialysis or live the rest of your days pain-free?</strong>
-</p>
+<h4>If you are afflicted with Alzheimer's, would you choose to stay at home or in a nursing centre?</h4>
+<h4>Would you sell your house to fund your medical treatment?</h4>
+<h4>Would you want to go through the pain of dialysis or live the rest of your days pain-free?</h4>
 <p>If you can’t make these tough decisions yourself, imagine the emotional
 burden you will be placing on your loved ones when they have to because
 you are mentally incapacitated.
