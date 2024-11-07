@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: MAKE YOUR LASTING POWER OF ATTORNEY
           description: ""
-          url: ""
+          url: /prepare-your-advance-care-plan/
         - title: PREPARE YOUR ADVANCE CARE PLAN
           description: ""
           url: ""
