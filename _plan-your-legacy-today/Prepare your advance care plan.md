@@ -21,9 +21,11 @@ you are mentally incapacitated.
 loved ones of decisions they have to live with, do up your Advanced Medical
 Care and Lasting Power of Attorney now while you can.</p>
 <h4>LASTING POWER OF ATTORNEY (LPA)</h4>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C0gyH1riuH0?si=EOoVxRW2VQGLUAoU"></iframe>
 </div>
+<p></p>
 <p>A lasting power of attorney is a beacon of support and reassurance, offering
 a guiding hand during life’s unexpected twists and turns. It’s like appointing
 a trusted friend or family member to be your steadfast ally, empowered
