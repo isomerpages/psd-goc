@@ -29,9 +29,18 @@ wishes to distribute under the will; the recipients of the assets (the
 beneficiaries) after he or she passes on; and the manner of distribution
 – in other words, what percentage of his or her assets each beneficiary
 will be given.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/write_a_will.png">
+</div>
 <h4>CPF Nomination</h4>
 <p>By making a CPF nomination, you gain the flexibility to decide who should
 receive your CPF savings. You can specify one or more nominees, ensuring
 that your wishes are respected. Your nominee(s) will receive your CPF savings
 more quickly—generally within five weeks—without any fees charged. This
 expedited process can be crucial during challenging times.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/cpf_nomination.png">
+</div>
+<p></p>
