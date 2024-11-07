@@ -35,8 +35,9 @@ journey continues smoothly, with someone you trust steering the ship when
 the waters get rough.</p>
 <p></p>
 <h4>ADVANCE CARE PLAN (ACP)</h4>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OvJmtTbXBN4?si=n4FZKx5d45LQ_yPD"></iframe>
+<iframe height="480" width="860" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OvJmtTbXBN4?si=n4FZKx5d45LQ_yPD"></iframe>
 </div>
 <p>Making an ACP helps you to communicate to your loved ones and healthcare
 team about your values and how these values shape your healthcare preferences.
