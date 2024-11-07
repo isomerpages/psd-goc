@@ -22,7 +22,7 @@ sections:
           url: /wills-cpf-nomination/
         - title: FIND OUT MORE ABOUT MAKING YOUR WILL
           description: ""
-          url: ""
+          url: /we-are-here-to-help
       variant: image
   - infopic:
       title: Header will be here
