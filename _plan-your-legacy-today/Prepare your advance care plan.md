@@ -23,7 +23,7 @@ Care and Lasting Power of Attorney now while you can.</p>
 <h4>LASTING POWER OF ATTORNEY (LPA)</h4>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="480" width="860" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C0gyH1riuH0?si=EOoVxRW2VQGLUAoU"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C0gyH1riuH0?si=PEyY9Nc4mhHObgrB"></iframe>
 </div>
 <p></p>
 <p>A lasting power of attorney is a beacon of support and reassurance, offering
@@ -37,7 +37,7 @@ the waters get rough.</p>
 <h4>ADVANCE CARE PLAN (ACP)</h4>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="480" width="860" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OvJmtTbXBN4?si=n4FZKx5d45LQ_yPD"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OvJmtTbXBN4?si=s4K9RYXWiA7tpjhD"></iframe>
 </div>
 <p>Making an ACP helps you to communicate to your loved ones and healthcare
 team about your values and how these values shape your healthcare preferences.
