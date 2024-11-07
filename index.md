@@ -49,4 +49,8 @@ sections:
           description: 25 and 26 May 2024
           linktext: Learn more
           url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
