@@ -31,10 +31,6 @@ sections:
       description: Infopic description
       image: /images/logos.png
       alt: Image alt text
-  - resources:
-      title: Events
-      subtitle: Book a slot at any event below
-      id: resources
   - textcards:
       title: Events
       id: textcards
