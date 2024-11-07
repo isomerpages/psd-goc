@@ -2,6 +2,6 @@ collections:
   home:
     output: true
     order:
-      - folder-page.md
+      - Prepare your advance care plan.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
