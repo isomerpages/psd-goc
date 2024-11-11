@@ -31,6 +31,15 @@ sections:
       description: Infopic description
       image: /images/logos.png
       alt: Image alt text
+  - infobar:
+      title: Plan your legacy today
+      id: infobar
+      description: <div class="bp-youtube">   <iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
+        src="https://www.youtube.com/embed/IaUGJW5OaF0?si=MiUf3XjgAJiUYTnT"
+        height="315" width="560"></iframe>   </div>
   - textcards:
       title: Events
       id: textcards
