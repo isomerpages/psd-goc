@@ -33,24 +33,6 @@ sections:
         video player"
         src="https://www.youtube.com/embed/IaUGJW5OaF0?si=MiUf3XjgAJiUYTnT"
         height="315" width="560"></iframe>   </div>
-  - textcards:
-      title: Events
-      id: textcards
-      description: We often hold events where our facilitators can help you. Book a
-        slot at our upcoming events below
-      cards:
-        - title: Roadshow and Mobile Clinic @ Wisma Geylang Serai
-          description: 25 and 26 May 2024
-          linktext: Learn more
-          url: ""
-        - title: Roadshow and Mobile Clinic @ Yew Tee Point
-          description: 22 and 23 June 2024
-          linktext: Learn more
-          url: ""
-        - title: Roadshow and Mobile Clinic @ Wisma Geylang Serai
-          description: 25 and 26 May 2024
-          linktext: Learn more
-          url: ""
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
