@@ -24,13 +24,6 @@ sections:
           description: ""
           url: /we-are-here-to-help
       variant: image
-  - infopic:
-      title: Header will be here
-      subtitle: An SG Government Initiative
-      id: infopic
-      description: Infopic description
-      image: /images/logos.png
-      alt: Image alt text
   - infobar:
       title: Plan your legacy today
       id: infobar
@@ -62,4 +55,11 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - infopic:
+      title: Header will be here
+      subtitle: An SG Government Initiative
+      id: infopic
+      description: Infopic description
+      image: /images/logos.png
+      alt: Image alt text
 ---
