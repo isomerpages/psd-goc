@@ -2,4 +2,5 @@ collections:
   find-help:
     output: true
     order:
+      - Self Help Resources.md
       - Visit Our Events.md
