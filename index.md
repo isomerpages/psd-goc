@@ -48,6 +48,6 @@ sections:
       title: Infobar
       subtitle: Add informational text
       id: infobar
-      description: <img alt="logo" src="logo.jpg">
+      description: <img alt="Image alt text" src="/images/logos.png">
       button: Button Text
 ---
