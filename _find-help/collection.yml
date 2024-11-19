@@ -2,7 +2,7 @@ collections:
   find-help:
     output: true
     order:
-      - Frequently Asked Questions.md
-      - Talk To Somebody.md
-      - Self Help Resources.md
       - Visit Our Events.md
+      - Self Help Resources.md
+      - Talk To Somebody.md
+      - Frequently Asked Questions.md
