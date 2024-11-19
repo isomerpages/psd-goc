@@ -2,6 +2,6 @@ collections:
   get-started:
     output: true
     order:
-      - I AM READY TO START.md
+      - I Am Ready To Start.md
       - I am unsure how to start.md
       - I am too busy to plan.md
