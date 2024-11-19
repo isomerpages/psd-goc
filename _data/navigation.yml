@@ -1,19 +1,8 @@
 logo: /images/logo.jpg
 links:
   - title: Get Started
-    collection: plan-now
+    collection: get-started
   - title: Explore Tools
-    url: /permalink
-    sublinks:
-      - title: Lasting Power of Attorney
-        url: /permalink
-      - title: Advance Care Plan
-        url: /permalink
-      - title: CPF Nomination
-        url: /permalink
-      - title: Make a Will
-        url: /permalink
-  - title: Visit our Events
-    url: /permalink
+    collection: explore-tools
   - title: Find Help
-    collection: plan-now
+    collection: find-help
