@@ -17,7 +17,7 @@ sections:
         - title: PREPARE YOUR ADVANCE CARE PLAN
           description: ""
           url: /prepare-your-advance-care-plan/
-        - title: CONFIRM YOUR PCF NOMINATION
+        - title: CONFIRM YOUR CPF NOMINATION
           description: ""
           url: /wills-cpf-nomination/
         - title: FIND OUT MORE ABOUT MAKING YOUR WILL
