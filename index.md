@@ -44,4 +44,10 @@ sections:
       description: Infopic description
       image: /images/logos.png
       alt: Image alt text
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <img alt="logo" src="logo.jpg">
+      button: Button Text
 ---
