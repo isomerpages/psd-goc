@@ -1,8 +1,8 @@
 logo: /images/logo.jpg
 links:
-  - title: Get Started
-    collection: get-started
   - title: Plan With These Tools
     collection: plan-with-these-tools
+  - title: Get Started
+    collection: get-started
   - title: Find Help
     collection: find-help
