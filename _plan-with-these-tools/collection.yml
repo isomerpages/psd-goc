@@ -2,7 +2,7 @@ collections:
   plan-with-these-tools:
     output: true
     order:
-      - Lasting Power of Attorney.md
+      - Lasting Power Of Attorney.md
       - Advance Care Plan.md
       - CPF Nomination.md
       - Make a Will.md
