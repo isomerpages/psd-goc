@@ -2,4 +2,5 @@ collections:
   explore-tools:
     output: true
     order:
+      - CPF Nomination.md
       - Make a Will.md
