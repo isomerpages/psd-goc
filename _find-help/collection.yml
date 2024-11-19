@@ -1,4 +1,5 @@
 collections:
   find-help:
     output: true
-    order: []
+    order:
+      - Visit Our Events.md
