@@ -1,4 +1,5 @@
 collections:
   get-started:
     output: true
-    order: []
+    order:
+      - I am ready to start.md
