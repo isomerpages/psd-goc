@@ -45,9 +45,7 @@ sections:
       image: /images/logos.png
       alt: Image alt text
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Supported by
       id: infobar
       description: <img alt="Image alt text" src="/images/logos.png">
-      button: Button Text
 ---
