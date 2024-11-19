@@ -1,4 +1,5 @@
 collections:
   explore-tools:
     output: true
-    order: []
+    order:
+      - Make a Will.md
