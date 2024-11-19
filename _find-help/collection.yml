@@ -2,5 +2,6 @@ collections:
   find-help:
     output: true
     order:
+      - Talk To Somebody.md
       - Self Help Resources.md
       - Visit Our Events.md
