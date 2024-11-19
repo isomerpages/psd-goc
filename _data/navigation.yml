@@ -12,3 +12,14 @@ links:
     url: /permalink
   - title: Find Help
     collection: plan-now
+  - title: Explore Tools
+    url: /permalink
+    sublinks:
+      - title: Lasting Power of Attorney
+        url: /permalink
+      - title: Advance Care Plan
+        url: /permalink
+      - title: CPF Nomination
+        url: /permalink
+      - title: Make a Will
+        url: /permalink
