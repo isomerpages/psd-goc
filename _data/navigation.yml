@@ -1,6 +1,8 @@
 logo: /images/logo.jpg
 links:
-  - title: Plan Now
+  - title: Get Started
     collection: plan-now
-  - title: Contact Us
-    url: /contact-us/
+  - title: Explore Tools
+    collection: plan-now
+  - title: Find Help
+    collection: plan-now
