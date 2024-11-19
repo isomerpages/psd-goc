@@ -2,5 +2,6 @@ collections:
   explore-tools:
     output: true
     order:
+      - Advance Care Plan.md
       - CPF Nomination.md
       - Make a Will.md
