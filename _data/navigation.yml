@@ -6,3 +6,14 @@ links:
     collection: get-started
   - title: Find Help
     collection: find-help
+  - title: Plan your legacy today with
+    url: /
+    sublinks:
+      - title: "LPA: Lasting Power Of Attorney"
+        url: https://mylegacy.life.gov.sg/find-a-service/lpa/
+      - title: "ACP: Advance Care Plan"
+        url: https://mylegacy.life.gov.sg/find-a-service/acp/
+      - title: CPF Nomination
+        url: https://www.cpf.gov.sg/member/tools-and-services/forms-e-applications/make-a-cpf-nomination
+      - title: Will
+        url: https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/
