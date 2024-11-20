@@ -9,7 +9,8 @@ description: ""
 lose mental capacity with a Lasting Power of Attorney.</p>
 <h4><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">Start here</a>.</h4>
 <h4>If you suffer a sudden stroke and lose your mental capacity, would your dependents be able to pay the household bills?</h4>
-<h4>Would you have to sell your house to fund your medical treatment?<br>Should you suffer early-onset dementia, what happens to your bank accounts and investments?</h4>
+<h4>Would you have to sell your house to fund your medical treatment?</h4>
+<h4>Should you suffer early-onset dementia, what happens to your bank accounts and investments?</h4>
 <p>Accidents, illnesses, or age-related conditions can strike at any time.
 An LPA allows you to appoint someone you trust to handle your finances
 and personal matters if you lose mental capacity. Without one, your loved
