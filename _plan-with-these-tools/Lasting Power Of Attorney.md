@@ -18,5 +18,5 @@ ones may face costly court procedures to manage your affairs.</p>
 <p>Empowering someone you trust with the legal authority to make decisions
 on your behalf will also prevent any conflict amongst your family that
 arise from your condition.</p>
-<p></p>
+<h4><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">Start here</a>.</h4>
 <p></p>
