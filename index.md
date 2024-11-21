@@ -22,7 +22,7 @@ sections:
           url: /cpf-nomination
         - title: WILL
           description: ""
-          url: /make-a-will
+          url: /will
       variant: image
   - infobar:
       id: infobar
