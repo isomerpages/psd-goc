@@ -9,12 +9,12 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/homepage__banner.jpg
+      background: /images/hero_banner.jpg
       key_highlights:
         - title: LASTING POWER OF ATTORNEY
           description: ""
           url: /lasting-power-of-attorney
-        - title: ADVANCE CARE PLAN
+        - title: ADVANCE CARE PLANNING
           description: ""
           url: /advance-care-plan
         - title: CPF NOMINATION
@@ -26,16 +26,14 @@ sections:
       variant: image
   - infobar:
       id: infobar
-      description: Sudden death. Terminal illness. Loss of mental capacity. These can
-        happen to any of us. Don’t leave your loved ones struggling to pick up
-        the pieces.
-      button: Plan Your Legacy Today.
-      url: /i-am-ready-to-start
+      description: Sudden death. Terminal illness. Loss of mental capacity. <br>These
+        can happen to any of us. Yet, few of us plan for them. <br>
+      title: Plan Your Legacy Today
   - infobar:
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/OY7gKu_Y3w4?si=Tbmrj1GBe2kZddRD&controls=0"
+        src="https://www.youtube.com/embed/IaUGJW5OaF0?si=2eUd0N5MZmsVJII1"
         height="315" width="560"></iframe>
 ---
