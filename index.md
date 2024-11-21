@@ -48,8 +48,7 @@ sections:
       title: Plan Your Legacy Today
       id: infopic
       description: "This campaign is a multi-agency effort by six agencies: <br>-
-        AIC<br> <br>- CPFB<br> <br>- MOH<br> <br>- MSFD<br> <br>- Public Service
-        Division<br>"
+        AIC<br>- CPFB<br> - MOH<br>- MSFD<br>- Public Service Division<br>"
       image: /images/img_logo.png
       alt: Image alt text
 ---
