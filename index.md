@@ -2,7 +2,7 @@
 layout: homepage
 title: Plan Your Legacy Today
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/logo_my_legacy.png
 permalink: /
 notification: ""
 sections:
