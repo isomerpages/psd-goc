@@ -44,4 +44,12 @@ sections:
       title: Here are some resources to help you on your journey
       subtitle: We’re here to help you
       id: resources
+  - infopic:
+      title: Plan Your Legacy Today
+      id: infopic
+      description: "This campaign is a multi-agency effort by six agencies: <br>-
+        AIC<br> <br>- CPFB<br> <br>- MOH<br> <br>- MSFD<br> <br>- Public Service
+        Division<br>"
+      image: /images/img_logo.png
+      alt: Image alt text
 ---
