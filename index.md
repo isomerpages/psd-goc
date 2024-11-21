@@ -31,6 +31,10 @@ sections:
       title: Plan Your Legacy Today
   - infobar:
       id: infobar
+      description: Don’t leave your loved ones struggling to pick up the pieces. <br>
+        Protect your future and theirs. <br>
+  - infobar:
+      id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
