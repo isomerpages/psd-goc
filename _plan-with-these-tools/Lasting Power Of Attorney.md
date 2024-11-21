@@ -35,22 +35,27 @@ arise from your condition.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
