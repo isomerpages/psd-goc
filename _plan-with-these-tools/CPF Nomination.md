@@ -19,9 +19,9 @@ who you'd want it to. This nomination is the only way that you can decide
 on how your CPF is distributed. Secure your loved ones’ future by making
 a nomination today. It only takes five minutes and will help your intended
 beneficiaries avoid needless complications and delays after your passing.</p>
-<h4></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -38,6 +38,9 @@ beneficiaries avoid needless complications and delays after your passing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_make_a_cpf_nomintaion.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 </tbody>
