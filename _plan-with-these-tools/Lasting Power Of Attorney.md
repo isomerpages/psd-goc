@@ -16,10 +16,10 @@ lose mental capacity with a Lasting Power of Attorney.</p>
 <p>Accidents, illnesses, or age-related conditions can strike at any time.
 An LPA allows you to appoint someone you trust to handle your finances
 and personal matters if you lose mental capacity. Without one, your loved
-ones may face costly court procedures to manage your affairs. &lt;br&gt;Empowering
-someone you trust with the legal authority to make decisions on your behalf
-will also prevent any conflict amongst your family that arise from your
-condition.&lt;br&gt;</p>
+ones may face costly court procedures to manage your affairs.</p>
+<p>Empowering someone you trust with the legal authority to make decisions
+on your behalf will also prevent any conflict amongst your family that
+arise from your condition.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NZ-NEkt44LY?si=H6iynFdUqjiBwFD0"></iframe>
 </div>
@@ -35,19 +35,19 @@ condition.&lt;br&gt;</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png">
 </div>
 </th>
 </tr>
