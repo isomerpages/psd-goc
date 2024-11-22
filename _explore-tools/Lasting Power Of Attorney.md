@@ -33,23 +33,14 @@ arise from your condition.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png"></a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://book.health.gov.sg/lpa"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/lpa"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png"></a>
 </th>
 </tr>
 </tbody>
