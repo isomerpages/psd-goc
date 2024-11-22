@@ -34,22 +34,13 @@ making a will today.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_how_to_write_a_will.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_how_to_write_a_will.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_attend_a_legal_clinic.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_attend_a_legal_clinic.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_watch_a_webinar.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QhbWwXA2xK4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_watch_a_webinar.png"></a>
 </th>
 </tr>
 </tbody>
