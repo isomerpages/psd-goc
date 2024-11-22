@@ -23,7 +23,7 @@ ones and healthcare team. Your ACP makes decision-making less stressful
 for your family and ensure that your preferences are heard, even when you
 can no longer speak for yourself.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nMG4vc_tLwA?si=cBD-m37zPx1Uvf0P"></iframe>
+<iframe style="aspect-ratio: 16 / 9; height: auto;" height="0" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nMG4vc_tLwA?si=cBD-m37zPx1Uvf0P"></iframe>
 </div>
 <h4>Get started on making your ACP today</h4>
 <table style="minWidth: 75px">
