@@ -1,5 +1,5 @@
 collections:
-  plan-with-these-tools:
+  explore-tools:
     output: true
     order:
       - Lasting Power Of Attorney.md
