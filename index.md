@@ -38,7 +38,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/IaUGJW5OaF0?si=2eUd0N5MZmsVJII1"
-        height="315" width="560"></iframe>
+        height="315" width="100%"></iframe>
       title: Plan Your Legacy Today
   - resources:
       title: Here are some resources to help you on your journey
