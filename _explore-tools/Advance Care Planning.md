@@ -35,22 +35,13 @@ can no longer speak for yourself.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_guide_to_making_an_acp.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65487f80a29446001218159e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_guide_to_making_an_acp.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_complete_an_online_draft_acp.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/acp/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_complete_an_online_draft_acp.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_an_acp_facilitator.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_an_acp_facilitator.png"></a>
 </th>
 </tr>
 </tbody>
