@@ -26,8 +26,9 @@ sections:
       variant: image
   - infobar:
       id: infobar
-      description: Sudden death. Terminal illness. Loss of mental capacity. <br>These
-        can happen to any of us. Yet, few of us plan for them. <br>
+      description: Death, illness and mental incapacity can happen to any of us. Yet
+        few of us plan for these.<br>Don’t leave your loved ones struggling to
+        pick up the pieces.
   - infobar:
       id: infobar
       description: Don’t leave your loved ones struggling to pick up the pieces. <br>
