@@ -46,10 +46,8 @@ sections:
       subtitle: We’re here to help you
       id: resources
   - infopic:
-      title: A National Campaign
+      title: Brought to you by
       id: infopic
       image: /images/img_logo.png
       alt: Image alt text
-      description: "This campaign is a multi-agency effort by six agencies: <br>-
-        AIC<br>- CPFB<br>- MOH<br>- MSFD<br>- PSD"
 ---
