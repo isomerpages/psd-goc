@@ -20,7 +20,7 @@ sections:
         - title: CPF NOMINATION
           description: ""
           url: /cpf-nomination
-        - title: WILL
+        - title: WILLS
           description: ""
           url: /wills
       variant: image
