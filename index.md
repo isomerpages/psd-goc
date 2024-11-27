@@ -4,7 +4,7 @@ title: Plan Your Legacy Today
 description: An Isomer site of the Singapore Government
 image: /images/logo_my_legacy.png
 permalink: /
-notification: A Singapore Government initiative
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -29,10 +29,6 @@ sections:
       description: Death, illness and mental incapacity can happen to any of us. Yet
         few of us plan for these.<br>Don’t leave your loved ones struggling to
         pick up the pieces.
-  - infobar:
-      id: infobar
-      description: Don’t leave your loved ones struggling to pick up the pieces. <br>
-        Protect your future and theirs. <br>
   - infobar:
       id: infobar
       description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
