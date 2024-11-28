@@ -21,10 +21,17 @@ the step to prevent conflict and safeguard your loved ones’ future.</p>
 among family members about your healthcare preferences.
 <br><strong>Purpose:</strong> Details your medical preferences for future scenarios.
 <br><strong>What you need:</strong>
-<br>- 15 minutes to prepare on your healthcare preferences using our online
-guide
-<br>- 30 minutes to schedule an appointment with a facilitator and register
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>15 minutes to prepare on your healthcare preferences using our online
+guide</p>
+</li>
+<li>
+<p>30 minutes to schedule an appointment with a facilitator and register
 your ACP online</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -52,8 +59,15 @@ preventing conflict over how and who should manage your affairs.
 <br><strong>Purpose:</strong> Names someone you trust to make decisions for
 you when necessary.
 <br><strong>What you need:</strong>
-<br>- 10 minutes to fill up the LPA application.
-<br>- Schedule an appointment with a Certificate Issuer.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>10 minutes to fill up the LPA application.</p>
+</li>
+<li>
+<p>Schedule an appointment with a Certificate Issuer.</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -80,8 +94,15 @@ ones quickly receives your CPF savings upon your death and eliminates uncertaint
 and potential disagreements over the distribution of your CPF funds.
 <br><strong>Purpose: </strong>Directs your CPF savings to specific individuals.
 <br><strong>What you need:</strong>
-<br>- 5 minutes to complete the process
-<br>- 2 witnesses for your nomination</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 minutes to complete the process</p>
+</li>
+<li>
+<p>2 witnesses for your nomination</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -109,8 +130,12 @@ be distributed upon your death.
 <br><strong>Purpose:</strong> Outlines how your assets are to be distributed
 and dependents cared for.
 <br><strong>What you need:</strong>
-<br>- 2 to 3 hours to make an appointment with a lawyer or draft your own
-Will</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 to 3 hours to make an appointment with a lawyer or draft your own Will</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
