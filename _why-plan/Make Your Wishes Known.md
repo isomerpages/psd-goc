@@ -7,6 +7,10 @@ description: ""
 <h2>Shape your legacy, your way</h2>
 <p>Define your legacy and ensure your wishes are honoured by planning for
 the future with clarity and purpose.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_circle.png">
+</div>
 <p>Your legacy is yours to define. Make sure your voice is heard, even when
 you’re not there to speak. Planning ensures your wishes are respected,
 leaving no room for doubt. Take the first step to shape the future on your
