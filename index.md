@@ -16,7 +16,7 @@ sections:
           url: /lasting-power-of-attorney
         - title: ADVANCE CARE PLANNING
           description: ""
-          url: /advance-care-planning
+          url: /protect-your-loved-ones/
         - title: CPF NOMINATION
           description: ""
           url: /cpf-nomination
