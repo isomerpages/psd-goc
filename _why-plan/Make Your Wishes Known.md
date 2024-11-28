@@ -4,7 +4,7 @@ permalink: /make-your-wishes-known/
 variant: tiptap
 description: ""
 ---
-<h2>Shape your legacy, your way</h2>
+<h2><strong>Shape your legacy, your way</strong></h2>
 <p>Define your legacy and ensure your wishes are honoured by planning for
 the future with clarity and purpose.</p>
 <p></p>
