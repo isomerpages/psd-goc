@@ -36,10 +36,10 @@ your ACP online</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65487f80a29446001218159e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_guide_to_making_an_acp.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/acp/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_guide_to_making_an_acp.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/acp/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_complete_an_online_draft_acp.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65487f80a29446001218159e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_complete_an_online_draft_acp.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_an_acp_facilitator.png"></a>
@@ -71,7 +71,7 @@ financial affairs if you lose mental capacity.
 <p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/lpa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://book.health.gov.sg/lpa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://opg-eservice.msf.gov.sg/OPGO/Login.aspx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png"></a>
 </th>
 </tr>
 </tbody>
@@ -128,7 +128,7 @@ Will</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_attend_a_legal_clinic.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?si=zJm_XKXZKdLFG4fT&amp;v=QhbWwXA2xK4&amp;feature=youtu.be"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_watch_a_webinar.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QhbWwXA2xK4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_watch_a_webinar.png"></a>
 </th>
 </tr>
 </tbody>
