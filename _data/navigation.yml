@@ -3,7 +3,7 @@ links:
   - title: Why Plan
     collection: why-plan
   - title: Find Help
-    url: /
+    url: https://mylegacy.life.gov.sg/frequently-asked-questions/
     sublinks:
       - title: Frequently Asked Questions
         url: https://mylegacy.life.gov.sg/frequently-asked-questions/
@@ -12,7 +12,7 @@ links:
       - title: Talk to someone
         url: https://mylegacy.life.gov.sg/find-a-service/life-planning-service/
   - title: Get Started
-    url: /
+    url: https://mylegacy.life.gov.sg/find-a-service/lpa/
     sublinks:
       - title: "LPA: Lasting Power Of Attorney"
         url: https://mylegacy.life.gov.sg/find-a-service/lpa/
