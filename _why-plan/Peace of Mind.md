@@ -91,7 +91,7 @@ without delays.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/content/dam/web/member/account-services/documents/A_guide_to_Nom_Scheme_1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_read_more_on_cpf_nominations.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-cpf-nomination/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_read_more_on_cpf_nominations.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_make_a_cpf_nomintaion.png"></a>
