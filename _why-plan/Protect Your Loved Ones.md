@@ -18,16 +18,14 @@ Let your care and foresight shape a secure foundation for the people you
 hold dear.</p>
 <h4>Take action today with any of the four tools below:</h4>
 <p><strong>Advance Care Plan (ACP)</strong>
-</p>
-<p><strong>How It Protects Loved Ones:</strong> Relieves loved ones from the
-emotional burden of making medical decisions on your behalf.</p>
-<p><strong>Purpose:</strong> Documents your care preferences in case of future
-incapacity.</p>
-<p><strong>What you need:</strong>
-</p>
-<p>- 15 minutes to prepare on your healthcare preferences using our online
-guide</p>
-<p>- 30 minutes to schedule an appointment with a facilitator and register
+<br><strong>How It Protects Loved Ones:</strong> Relieves loved ones from the
+emotional burden of making medical decisions on your behalf.
+<br><strong>Purpose:</strong> Documents your care preferences in case of future
+incapacity.
+<br><strong>What you need:</strong>
+<br>- 15 minutes to prepare on your healthcare preferences using our online
+guide
+<br>- 30 minutes to schedule an appointment with a facilitator and register
 your ACP online</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -51,15 +49,13 @@ your ACP online</p>
 </table>
 <p></p>
 <p><strong>Lasting Power of Attorney (LPA)</strong>
-</p>
-<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones can
-access your resources to care for you and themselves in difficult times.</p>
-<p><strong>Purpose:</strong> Appoints someone to manage your personal and
-financial affairs if you lose mental capacity.</p>
-<p><strong>What you need:</strong>
-</p>
-<p>- 10 minutes to fill up the LPA application form.</p>
-<p>- Schedule an appointment with a Certificate Issuer</p>
+<br><strong>How It Protects Loved Ones:</strong> Ensures your loved ones can
+access your resources to care for you and themselves in difficult times.
+<br><strong>Purpose:</strong> Appoints someone to manage your personal and
+financial affairs if you lose mental capacity.
+<br><strong>What you need:</strong>
+<br>- 10 minutes to fill up the LPA application form.
+<br>- Schedule an appointment with a Certificate Issuer</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -82,14 +78,12 @@ financial affairs if you lose mental capacity.</p>
 </table>
 <p></p>
 <p><strong>CPF Nomination</strong>
-</p>
-<p><strong>How It Protects Loved Ones:</strong> Guarantees your CPF savings
-are distributed as intended, providing financial security for your family.</p>
-<p><strong>Purpose:</strong> Directs your CPF savings to specific beneficiaries.</p>
-<p><strong>What you need:</strong>
-</p>
-<p>- 5 minutes to complete the process</p>
-<p>- 2 witnesses for your nomination</p>
+<br><strong>How It Protects Loved Ones:</strong> Guarantees your CPF savings
+are distributed as intended, providing financial security for your family.
+<br><strong>Purpose:</strong> Directs your CPF savings to specific beneficiaries.
+<br><strong>What you need:</strong>
+<br>- 5 minutes to complete the process
+<br>- 2 witnesses for your nomination</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -111,16 +105,13 @@ are distributed as intended, providing financial security for your family.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>Will</strong>
-</p>
-<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
-the inheritance and support you wish to provide.</p>
-<p><strong>Purpose:</strong> Specifies how your assets are distributed and
-who takes care of your dependents.</p>
-<p><strong>What you need:</strong>
-</p>
-<p>- 2 to 3 hours to make an appointment with a lawyer or draft your own
+<br><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
+the inheritance and support you wish to provide.
+<br><strong>Purpose:</strong> Specifies how your assets are distributed and
+who takes care of your dependents.
+<br><strong>What you need:</strong>
+<br>- 2 to 3 hours to make an appointment with a lawyer or draft your own
 Will</p>
 <table style="minWidth: 75px">
 <colgroup>
