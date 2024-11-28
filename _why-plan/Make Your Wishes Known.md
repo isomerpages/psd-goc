@@ -22,10 +22,17 @@ explicit, ensuring they are honoured.
 <br><strong>Purpose:</strong> Records your healthcare preferences for end-of-life
 situations.
 <br><strong>What you need:</strong>
-<br>- 15 minutes to prepare on your healthcare preferences using our online
-guide
-<br>- 30 minutes to schedule an appointment with a facilitator and register
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>15 minutes to prepare on your healthcare preferences using our online
+guide</p>
+</li>
+<li>
+<p>30 minutes to schedule an appointment with a facilitator and register
 your ACP online</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -52,8 +59,15 @@ with your values and priorities during incapacity.
 <br><strong>Purpose:</strong> Appoints a trusted person to act on your behalf
 if you cannot.
 <br><strong>What you need:</strong>
-<br>- 10 minutes to fill up the LPA application.
-<br>- Schedule an appointment with a Certificate Issuer.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>10 minutes to fill up the LPA application.</p>
+</li>
+<li>
+<p>Schedule an appointment with a Certificate Issuer.</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -79,8 +93,15 @@ if you cannot.
 intended beneficiaries, avoiding misinterpretation.
 <br><strong>Purpose:</strong> Specifies who will receive your CPF savings.
 <br><strong>What you need:</strong>
-<br>- 5 minutes to complete the process
-<br>- 2 witnesses for your nomination</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 minutes to complete the process</p>
+</li>
+<li>
+<p>2 witnesses for your nomination</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -107,8 +128,12 @@ how you want your assets and responsibilities handled after your passing.
 <br><strong>Purpose:</strong> Documents the distribution of your estate and
 guardianship of dependents.
 <br><strong>What you need:</strong>
-<br>- 2 to 3 hours to make an appointment with a lawyer or draft your own
-Will</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 to 3 hours to make an appointment with a lawyer or draft your own Will</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
