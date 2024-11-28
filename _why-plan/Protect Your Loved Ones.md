@@ -4,28 +4,31 @@ permalink: /protect-your-loved-ones/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Take Control of Your Future Care Today</strong></h2>
-<p>Free your loved ones from the burden of making medical decisions for you
-by making an <strong>Advance Care Plan</strong>
-</p>
-<h4></h4>
+<h2><strong>Safeguard those you care about</strong></h2>
+<p>Life's uncertainties are inevitable, but proactive planning secures a
+stable future for those you cherish.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_advance_care_planning.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_lasting_power_of_attorney.png">
 </div>
-<h4>If you are afflicted with Alzheimer's, would you choose to stay at home or in a nursing centre?</h4>
-<h4>Should you have end-stage cancer, would you prefer a pain- free treatment or is your priority to prolong your life?</h4>
-<h4>Would you want to go through the pain of dialysis or live the rest of your days pain-free?</h4>
-<p>Accidents and sudden illnesses can happen any time, robbing you of the
-ability to communicate your wishes or leaving you mentally incapacitated.
-Making an Advance Care Plan (ACP) when you're healthy and of sound mind
-helps you to convey your values and healthcare preferences to your loved
-ones and healthcare team. Your ACP makes decision-making less stressful
-for your family and ensure that your preferences are heard, even when you
-can no longer speak for yourself.</p>
-<div class="iframe-wrapper">
-<iframe style="aspect-ratio: 16 / 9; height: auto;" height="0" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nMG4vc_tLwA?si=cBD-m37zPx1Uvf0P"></iframe>
-</div>
-<h4>Get started on making your ACP today</h4>
+<p>Life is full of unexpected twists, but planning your legacy ensures your
+loved ones are always protected. By making thoughtful decisions now, you
+can safeguard their financial stability, emotional well-being, and future.
+Let your care and foresight shape a secure foundation for the people you
+hold dear.</p>
+<h4>Take action today with any of the four tools below:</h4>
+<p><strong>Advance Care Plan (ACP)</strong>
+</p>
+<p><strong>How It Protects Loved Ones:</strong> Relieves loved ones from the
+emotional burden of making medical decisions on your behalf.</p>
+<p><strong>Purpose:</strong> Documents your care preferences in case of future
+incapacity.</p>
+<p><strong>What you need:</strong>
+</p>
+<p>- 15 minutes to prepare on your healthcare preferences using our online
+guide</p>
+<p>- 30 minutes to schedule an appointment with a facilitator and register
+your ACP online</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -46,4 +49,37 @@ can no longer speak for yourself.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Lasting Power of Attorney (LPA)</strong>
+</p>
+<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones can
+access your resources to care for you and themselves in difficult times.</p>
+<p><strong>Purpose:</strong> Appoints someone to manage your personal and
+financial affairs if you lose mental capacity.</p>
+<p><strong>What you need:</strong>
+</p>
+<p>- 10 minutes to fill up the LPA application form.</p>
+<p>- Schedule an appointment with a Certificate Issuer</p>
 <p></p>
+<p></p>
+<p><strong>CPF Nomination</strong>
+</p>
+<p><strong>How It Protects Loved Ones:</strong> Guarantees your CPF savings
+are distributed as intended, providing financial security for your family.</p>
+<p><strong>Purpose:</strong> Directs your CPF savings to specific beneficiaries.</p>
+<p><strong>What you need:</strong>
+</p>
+<p>- 5 minutes to complete the process</p>
+<p>- 2 witnesses for your nomination</p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>Will</strong>
+</p>
+<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
+the inheritance and support you wish to provide.</p>
+<p><strong>Purpose:</strong> Specifies how your assets are distributed and
+who takes care of your dependents.</p>
+<p><strong>What you need:</strong>
+</p>
+<p>- 2 to 3 hours to make an appointment with a lawyer or draft your own
+Will</p>
