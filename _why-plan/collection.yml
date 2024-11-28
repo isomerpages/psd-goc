@@ -2,7 +2,7 @@ collections:
   why-plan:
     output: true
     order:
-      - Lasting Power Of Attorney.md
       - Protect Your Loved Ones.md
+      - Lasting Power Of Attorney.md
       - CPF Nomination.md
       - Wills.md
