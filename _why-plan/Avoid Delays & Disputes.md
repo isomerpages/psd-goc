@@ -5,19 +5,20 @@ variant: tiptap
 description: ""
 ---
 <h2>Maintain Unity with Thoughtful Planning</h2>
-<p>Legacy planning ensures your intentions are clear, preserving harmony
-and preventing conflict.</p>
-<h4></h4>
+<p>Legacy planning ensures your intentions are clear, allows your loved ones
+to have quick access to your savings, preserving harmony and preventing
+conflict.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_will.png">
 </div>
-<p>Disputes can tear families apart, especially when plans are unclear. Legacy
-planning helps you make your intentions known and avoid misunderstandings.
-Take the step to prevent conflict and keep your family’s harmony intact.</p>
+<p>Delays and disputes can tear families apart when plans are unclear and
+there are delays in access to funds in the event of mishaps. Legacy planning
+helps you make your intentions known and avoid misunderstandings. Take
+the step to prevent conflict and safeguard your loved ones’ future.</p>
 <h4>Take action today with any of the four tools below:</h4>
 <p><strong>Advance Care Plan (ACP)</strong>
-<br><strong>How It Avoids Disputes:</strong> Reduces misunderstandings among
-family members about your healthcare wishes.
+<br><strong>How It Avoids Delays &amp; Disputes:</strong> Reduce misunderstandings
+among family members about your healthcare preferences.
 <br><strong>Purpose:</strong> Details your medical preferences for future scenarios.
 <br><strong>What you need:</strong>
 <br>- 15 minutes to prepare on your healthcare preferences using our online
@@ -45,8 +46,9 @@ your ACP online</p>
 </tbody>
 </table>
 <p><strong>Lasting Power of Attorney (LPA)</strong>
-<br><strong>How It Avoids Disputes: </strong>Prevents conflicts over who should
-manage your affairs in challenging situations.
+<br><strong>How It Avoids Delays &amp; Disputes: </strong>Ensure your loved
+ones have immediate access to your savings should you lose mental capacity,
+preventing conflict over how and who should manage your affairs.
 <br><strong>Purpose:</strong> Names someone you trust to make decisions for
 you when necessary.
 <br><strong>What you need:</strong>
@@ -61,23 +63,21 @@ you when necessary.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/content/dam/web/member/account-services/documents/A_guide_to_Nom_Scheme_1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/lpa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://opg-eservice.msf.gov.sg/OPGO/Login.aspx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://book.health.gov.sg/lpa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png"></a>
 </th>
 </tr>
 </tbody>
 </table>
 <p><strong>CPF Nomination</strong>
-<br><strong>How It Avoids Disputes:</strong> Eliminates uncertainty and potential
-disagreements over the distribution of your CPF funds.
+<br><strong>How It Avoids Delays &amp; Disputes:</strong> Ensure your loved
+ones quickly receives your CPF savings upon your death and eliminates uncertainty
+and potential disagreements over the distribution of your CPF funds.
 <br><strong>Purpose: </strong>Directs your CPF savings to specific individuals.
 <br><strong>What you need:</strong>
 <br>- 5 minutes to complete the process
@@ -103,8 +103,9 @@ disagreements over the distribution of your CPF funds.
 </tbody>
 </table>
 <p><strong>Will</strong>
-<br><strong>How It Avoids Disputes:</strong> Prevents disputes by clearly stating
-your intentions for your estate.
+<br><strong>How It Avoids Delays &amp; Disputes:</strong> Prevent delays and
+disputes by clearly stating your intentions for how your assets are to
+be distributed upon your death.
 <br><strong>Purpose:</strong> Outlines how your assets are to be distributed
 and dependents cared for.
 <br><strong>What you need:</strong>
