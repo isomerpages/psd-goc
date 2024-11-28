@@ -52,9 +52,8 @@ future by knowing someone you trust will act in your best interests.
 <br><strong>Purpose:</strong> Appoints a trusted individual to make decisions
 on your behalf if needed.
 <br><strong>What you need:</strong>
-</p>
-<p>- 10 minutes to fill up the LPA application.</p>
-<p>- Schedule an appointment with a Certificate Issuer.</p>
+<br>- 10 minutes to fill up the LPA application.
+<br>- Schedule an appointment with a Certificate Issuer.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
