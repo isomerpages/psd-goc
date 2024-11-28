@@ -13,16 +13,16 @@ sections:
       key_highlights:
         - title: LASTING POWER OF ATTORNEY
           description: ""
-          url: /lasting-power-of-attorney
+          url: https://mylegacy.life.gov.sg/find-a-service/lpa/
         - title: ADVANCE CARE PLANNING
           description: ""
-          url: /protect-your-loved-ones/
+          url: https://mylegacy.life.gov.sg/find-a-service/acp/
         - title: CPF NOMINATION
           description: ""
-          url: /cpf-nomination
+          url: https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination
         - title: WILL
           description: ""
-          url: /wills
+          url: https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/
       variant: image
   - infobar:
       id: infobar
