@@ -7,9 +7,8 @@ description: ""
 <h2><strong>Plan your gesture of love today</strong></h2>
 <p>A well-planned legacy is a timeless act of love, offering care and easing
 burdens for your cherished ones.</p>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_cpf_nomination.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_cpf_nomination_v2.jpg">
 </div>
 <p>A well-planned legacy is a lasting gift of love. It shows thoughtfulness
 and care, easing the burden on those you cherish the most. Express your
@@ -42,13 +41,13 @@ your ACP online</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/acp/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_guide_to_making_an_acp.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/acp/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_making_an_acp.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65487f80a29446001218159e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_complete_an_online_draft_acp.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65487f80a29446001218159e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_making_online_draft_acp.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_a_facilitator.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_facilitator_acp.png"></a>
 </th>
 </tr>
 </tbody>
