@@ -8,8 +8,9 @@ description: ""
 <p>Legacy planning ensures your intentions are clear, allows your loved ones
 to have quick access to your savings, preserving harmony and preventing
 conflict.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_will.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_will_update.jpg">
 </div>
 <p>Delays and disputes can tear families apart when plans are unclear and
 there are delays in access to funds in the event of mishaps. Legacy planning
