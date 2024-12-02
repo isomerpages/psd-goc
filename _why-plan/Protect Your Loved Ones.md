@@ -9,7 +9,7 @@ description: ""
 stable future for those you cherish.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_lasting_power_of_attorney.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_lastingpower_update.jpg">
 </div>
 <p>Life is full of unexpected twists, but planning your legacy ensures your
 loved ones are always protected. By making thoughtful decisions now, you
