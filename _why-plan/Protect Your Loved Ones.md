@@ -18,8 +18,9 @@ Let your care and foresight shape a secure foundation for the people you
 hold dear.</p>
 <h4>Take action today with any of the four tools below:</h4>
 <p><strong>Advance Care Plan (ACP)</strong>
-<br><strong>How It Protects Loved Ones:</strong> Relieves loved ones from the
-emotional burden of making medical decisions on your behalf.
+<br><strong>How It Protects Loved Ones:</strong> Gives clarity to your loved
+ones on your healthcare preferences, reducing the guilt they experience
+from making medical decisions on your behalf.
 <br><strong>Purpose:</strong> Documents your care preferences in case of future
 incapacity.
 <br><strong>What you need:</strong>
