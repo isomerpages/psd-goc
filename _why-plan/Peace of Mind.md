@@ -9,7 +9,7 @@ description: ""
 provided for, freeing you from worry.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/img_advance_care_planning.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_advance_care_planning_v2.jpg">
 </div>
 <p>Planning your legacy gives you control over what lies ahead. With a clear
 roadmap, you’ll feel confident knowing that your wishes will be honoured
