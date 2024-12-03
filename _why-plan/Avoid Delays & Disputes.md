@@ -16,9 +16,9 @@ conflict.</p>
 there are delays in access to funds in the event of mishaps. Legacy planning
 helps you make your intentions known and avoid misunderstandings. Take
 the step to prevent conflict and safeguard your loved ones’ future.</p>
-<h4>Take action today with any of the four tools below:</h4>
-<p><strong>Advance Care Plan (ACP)</strong>
-<br><strong>How It Avoids Delays &amp; Disputes:</strong> Reduce misunderstandings
+<h3>Take action today with any of the four tools below:</h3>
+<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>How It Avoids Delays &amp; Disputes:</strong> Reduce misunderstandings
 among family members about your healthcare preferences.
 <br><strong>Purpose:</strong> Details your medical preferences for future scenarios.
 <br><strong>What you need:</strong>
@@ -53,8 +53,8 @@ your ACP online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Lasting Power of Attorney (LPA)</strong>
-<br><strong>How It Avoids Delays &amp; Disputes: </strong>Ensure your loved
+<h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>How It Avoids Delays &amp; Disputes: </strong>Ensure your loved
 ones have immediate access to your savings should you lose mental capacity,
 preventing conflict over how and who should manage your affairs.
 <br><strong>Purpose:</strong> Names someone you trust to make decisions for
@@ -89,8 +89,8 @@ you when necessary.
 </tr>
 </tbody>
 </table>
-<p><strong>CPF Nomination</strong>
-<br><strong>How It Avoids Delays &amp; Disputes:</strong> Ensure your loved
+<h4><strong>CPF Nomination</strong></h4>
+<p><strong>How It Avoids Delays &amp; Disputes:</strong> Ensure your loved
 ones quickly receives your CPF savings upon your death and eliminates uncertainty
 and potential disagreements over the distribution of your CPF funds.
 <br><strong>Purpose: </strong>Directs your CPF savings to specific individuals.
@@ -124,8 +124,8 @@ and potential disagreements over the distribution of your CPF funds.
 </tr>
 </tbody>
 </table>
-<p><strong>Will</strong>
-<br><strong>How It Avoids Delays &amp; Disputes:</strong> Prevent delays and
+<h4><strong>Will</strong></h4>
+<p><strong>How It Avoids Delays &amp; Disputes:</strong> Prevent delays and
 disputes by clearly stating your intentions for how your assets are to
 be distributed upon your death.
 <br><strong>Purpose:</strong> Outlines how your assets are to be distributed
