@@ -15,9 +15,9 @@ provided for, freeing you from worry.</p>
 roadmap, you’ll feel confident knowing that your wishes will be honoured
 and that your family will be taken care of. Say goodbye to uncertainty
 and hello to peace of mind for the road ahead.</p>
-<h4>Take action today with any of the four tools below:</h4>
-<p><strong>Advance Care Plan (ACP)</strong>
-<br><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
+<h3>Take action today with any of the four tools below:</h3>
+<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
 wishes for medical treatment will be respected.
 <br><strong>Purpose:</strong> Outlines your healthcare preferences should you
 become unable to communicate.
@@ -53,8 +53,8 @@ your ACP online.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Lasting Power of Attorney (LPA)</strong>
-<br><strong>How It Brings Peace of Mind:</strong> Reduces worries about the
+<h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>How It Brings Peace of Mind:</strong> Reduces worries about the
 future by knowing someone you trust will act in your best interests.
 <br><strong>Purpose:</strong> Appoints a trusted individual to make decisions
 on your behalf if needed.
@@ -88,8 +88,8 @@ on your behalf if needed.
 </tr>
 </tbody>
 </table>
-<p><strong>CPF Nomination</strong>
-<br><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
+<h4><strong>CPF Nomination</strong></h4>
+<p><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
 retirement savings will benefit those you care about.
 <br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
 without delays.
@@ -123,8 +123,8 @@ without delays.
 </tr>
 </tbody>
 </table>
-<p><strong>Will</strong>
-<br><strong>How It Brings Peace of Mind:</strong> Ensures clarity and reduces
+<h4><strong>Will</strong></h4>
+<p><strong>How It Brings Peace of Mind:</strong> Ensures clarity and reduces
 uncertainty about the handling of your assets and responsibilities.
 <br><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
 after death.
