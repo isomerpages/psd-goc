@@ -15,9 +15,9 @@ the future with clarity and purpose.</p>
 you’re not there to speak. Planning ensures your wishes are respected,
 leaving no room for doubt. Take the first step to shape the future on your
 terms.</p>
-<h4>Take action today with any of the four tools below:</h4>
-<p><strong>Advance Care Plan (ACP)</strong>
-<br><strong>How It Makes Your Wishes Known:</strong> Makes your medical preferences
+<h3>Take action today with any of the four tools below:</h3>
+<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>How It Makes Your Wishes Known:</strong> Makes your medical preferences
 explicit, ensuring they are honoured.
 <br><strong>Purpose:</strong> Records your healthcare preferences for end-of-life
 situations.
@@ -53,8 +53,8 @@ your ACP online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Lasting Power of Attorney (LPA)</strong>
-<br><strong>How It Makes Your Wishes Known:</strong> Ensures decisions align
+<h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>How It Makes Your Wishes Known:</strong> Ensures decisions align
 with your values and priorities during incapacity.
 <br><strong>Purpose:</strong> Appoints a trusted person to act on your behalf
 if you cannot.
@@ -88,8 +88,8 @@ if you cannot.
 </tr>
 </tbody>
 </table>
-<p><strong>CPF Nomination</strong>
-<br><strong>How It Makes Your Wishes Known:</strong> Clearly communicates your
+<h4><strong>CPF Nomination</strong></h4>
+<p><strong>How It Makes Your Wishes Known:</strong> Clearly communicates your
 intended beneficiaries, avoiding misinterpretation.
 <br><strong>Purpose:</strong> Specifies who will receive your CPF savings.
 <br><strong>What you need:</strong>
@@ -122,8 +122,8 @@ intended beneficiaries, avoiding misinterpretation.
 </tr>
 </tbody>
 </table>
-<p><strong>Will</strong>
-<br><strong>How It Makes Your Wishes Known:</strong> Leaves no doubt about
+<h4><strong>Will</strong></h4>
+<p><strong>How It Makes Your Wishes Known:</strong> Leaves no doubt about
 how you want your assets and responsibilities handled after your passing.
 <br><strong>Purpose:</strong> Documents the distribution of your estate and
 guardianship of dependents.
