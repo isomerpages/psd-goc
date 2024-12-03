@@ -91,7 +91,7 @@ behalf if you’re unable to do so.
 </tbody>
 </table>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
+<p><strong>How It Becomes a Gift of Love:</strong> Gives assurance that your
 retirement savings will benefit those you care about.
 <br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
 without delays.
@@ -126,7 +126,7 @@ without delays.
 </tbody>
 </table>
 <h4><strong>Will</strong></h4>
-<p><strong>How It Brings Peace of Mind: </strong>Ensures clarity and reduces
+<p><strong>How It Becomes a Gift of Love: </strong>Ensures clarity and reduces
 uncertainty about the handling of your assets and responsibilities.
 <br><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
 after death.
