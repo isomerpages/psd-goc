@@ -25,12 +25,15 @@ among family members about your healthcare preferences.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>15 minutes to prepare on your healthcare preferences using our online
+<p>15-30 minutes to prepare your healthcare preferences using our online
 guide</p>
 </li>
 <li>
-<p>30 minutes to schedule an appointment with a facilitator and register
+<p>10 minutes to schedule an appointment with a facilitator and register
 your ACP online</p>
+</li>
+<li>
+<p>ACP facilitation sessions typically takes 1-2 hours.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
