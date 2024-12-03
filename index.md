@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/PSD_Herobanner_v4.jpg
+      background: /images/Herobanner_V5.jpg
       key_highlights:
         - title: LASTING POWER OF ATTORNEY
           description: ""
