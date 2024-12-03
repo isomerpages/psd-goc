@@ -14,9 +14,9 @@ burdens for your cherished ones.</p>
 and care, easing the burden on those you cherish the most. Express your
 love not just through words, but through meaningful actions that will resonate
 for years to come.</p>
-<h4>Take action today with any of the four tools below:</h4>
-<p><strong>Advance Care Plan (ACP)</strong>
-<br><strong>How It Becomes a Gift of Love:</strong> Offers guidance to your
+<h3>Take action today with any of the four tools below:</h3>
+<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>How It Becomes a Gift of Love:</strong> Offers guidance to your
 family during emotionally challenging times, easing their burden.
 <br><strong>Purpose:</strong> Shares your healthcare values and preferences
 with loved ones.
@@ -52,8 +52,8 @@ your ACP online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Lasting Power of Attorney (LPA)</strong>
-<br><strong>How It Becomes a Gift of Love:</strong> Demonstrates trust and
+<h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>How It Becomes a Gift of Love:</strong> Demonstrates trust and
 love by choosing someone who will make important decisions on your behalf.
 <br><strong>Purpose:</strong> Designates someone to care for your needs if
 you’re unable to do so.
@@ -87,8 +87,8 @@ you’re unable to do so.
 </tr>
 </tbody>
 </table>
-<p><strong>CPF Nomination</strong>
-<br><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
+<h4><strong>CPF Nomination</strong></h4>
+<p><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
 retirement savings will benefit those you care about.
 <br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
 without delays.
@@ -122,8 +122,8 @@ without delays.
 </tr>
 </tbody>
 </table>
-<p><strong>Will</strong>
-<br><strong>How It Brings Peace of Mind: </strong>Ensures clarity and reduces
+<h4><strong>Will</strong></h4>
+<p><strong>How It Brings Peace of Mind: </strong>Ensures clarity and reduces
 uncertainty about the handling of your assets and responsibilities.
 <br><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
 after death.
