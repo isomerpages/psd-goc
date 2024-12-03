@@ -18,19 +18,22 @@ terms.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
 <p><strong>How It Makes Your Wishes Known:</strong> Makes your medical preferences
-explicit, ensuring they are honoured.
-<br><strong>Purpose:</strong> Records your healthcare preferences for end-of-life
-situations.
+explicit, so that they may be honoured.
+<br><strong>Purpose:</strong> Records your healthcare preferences for potential
+end-of-life situations.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>15 minutes to prepare on your healthcare preferences using our online
+<p>15-30 minutes to prepare your healthcare preferences using our online
 guide</p>
 </li>
 <li>
-<p>30 minutes to schedule an appointment with a facilitator and register
+<p>10 minutes to schedule an appointment with a facilitator and register
 your ACP online</p>
+</li>
+<li>
+<p>ACP facilitation sessions typically takes 1-2 hours.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -54,8 +57,8 @@ your ACP online</p>
 </tbody>
 </table>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>How It Makes Your Wishes Known:</strong> Ensures decisions align
-with your values and priorities during incapacity.
+<p><strong>How It Makes Your Wishes Known:</strong> Ensures decisions made
+on your behalf align with who you choose and trust during mental incapacity.
 <br><strong>Purpose:</strong> Appoints a trusted person to act on your behalf
 if you cannot.
 <br><strong>What you need:</strong>
