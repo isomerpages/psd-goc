@@ -18,19 +18,22 @@ and hello to peace of mind for the road ahead.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
 <p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
-wishes for medical treatment will be respected.
+healthcare preferences have been communicated and will be respected.
 <br><strong>Purpose:</strong> Outlines your healthcare preferences should you
-become unable to communicate.
+lose mental capacity.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>15 minutes to prepare on your healthcare preferences using our online
-guide.</p>
+<p>15-30 minutes to prepare your healthcare preferences using our online
+guide</p>
 </li>
 <li>
-<p>30 minutes to schedule an appointment with a facilitator and register
-your ACP online.</p>
+<p>10 minutes to schedule an appointment with a facilitator and register
+your ACP online</p>
+</li>
+<li>
+<p>ACP facilitation sessions typically takes 1-2 hours.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -55,9 +58,10 @@ your ACP online.</p>
 </table>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>How It Brings Peace of Mind:</strong> Reduces worries about the
-future by knowing someone you trust will act in your best interests.
+future by knowing someone you trust has been given the right to act in
+your best interests.
 <br><strong>Purpose:</strong> Appoints a trusted individual to make decisions
-on your behalf if needed.
+on your behalf in the case of mental incapacity.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -90,7 +94,7 @@ on your behalf if needed.
 </table>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
-retirement savings will benefit those you care about.
+CPF savings will benefit those you care about.
 <br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
 without delays.
 <br><strong>What you need:</strong>
