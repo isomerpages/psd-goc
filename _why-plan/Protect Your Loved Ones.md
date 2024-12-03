@@ -18,10 +18,9 @@ Let your care and foresight shape a secure foundation for the people you
 hold dear.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
-<p>
-<br>How It Protects Loved Ones: Gives clarity to your loved ones on your healthcare
-preferences, reducing the guilt they experience from making medical decisions
-on your behalf.
+<p><strong>How It Protect Loved Ones: </strong>Gives clarity to your loved
+ones on your healthcare preferences, reducing the guilt they experience
+from making medical decisions on your behalf.
 <br><strong>Purpose:</strong> Documents your care preferences in case of future
 incapacity.
 <br><strong>What you need:</strong>
@@ -57,8 +56,8 @@ your ACP online</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Lasting Power of Attorney (LPA)</strong>
-<br><strong>How It Protects Loved Ones:</strong> Ensures your loved ones can
+<h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones can
 access your resources to care for you and themselves in difficult times.
 <br><strong>Purpose:</strong> Appoints someone to manage your personal and
 financial affairs if you lose mental capacity.
@@ -93,8 +92,8 @@ financial affairs if you lose mental capacity.
 </tbody>
 </table>
 <p></p>
-<p><strong>CPF Nomination</strong>
-<br><strong>How It Protects Loved Ones:</strong> Guarantees your CPF savings
+<h4><strong>CPF Nomination</strong></h4>
+<p><strong>How It Protects Loved Ones:</strong> Guarantees your CPF savings
 are distributed as intended, providing financial security for your family.
 <br><strong>Purpose:</strong> Directs your CPF savings to specific beneficiaries.
 <br><strong>What you need:</strong>
@@ -128,8 +127,8 @@ are distributed as intended, providing financial security for your family.
 </tbody>
 </table>
 <p></p>
-<p><strong>Will</strong>
-<br><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
+<h4><strong>Will</strong></h4>
+<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
 the inheritance and support you wish to provide.
 <br><strong>Purpose:</strong> Specifies how your assets are distributed and
 who takes care of your dependents.
