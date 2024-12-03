@@ -21,18 +21,21 @@ hold dear.</p>
 <p><strong>How It Protect Loved Ones: </strong>Gives clarity to your loved
 ones on your healthcare preferences, reducing the guilt they experience
 from making medical decisions on your behalf.
-<br><strong>Purpose:</strong> Documents your care preferences in case of future
-incapacity.
+<br><strong>Purpose:</strong> Documents your values and future healthcare preferences
+in case of mental incapacity.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>15 minutes to prepare on your healthcare preferences using our online
+<p>15-30 minutes to prepare your healthcare preferences using our online
 guide</p>
 </li>
 <li>
-<p>30 minutes to schedule an appointment with a facilitator and register
+<p>10 minutes to schedule an appointment with a facilitator and register
 your ACP online</p>
+</li>
+<li>
+<p>ACP facilitation sessions typically takes 1-2 hours.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -57,8 +60,9 @@ your ACP online</p>
 </table>
 <p></p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones can
-access your resources to care for you and themselves in difficult times.
+<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones have
+the legal right to make decisions on your behalf, including access to financial
+accounts, to care for you and themselves in difficult times.
 <br><strong>Purpose:</strong> Appoints someone to manage your personal and
 financial affairs if you lose mental capacity.
 <br><strong>What you need:</strong>
@@ -93,9 +97,10 @@ financial affairs if you lose mental capacity.
 </table>
 <p></p>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>How It Protects Loved Ones:</strong> Guarantees your CPF savings
-are distributed as intended, providing financial security for your family.
-<br><strong>Purpose:</strong> Directs your CPF savings to specific beneficiaries.
+<p><strong>How It Protects Loved Ones:</strong> Ensures your CPF savings are
+distributed as intended, providing financial security for your family.
+<br><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
+choose, swiftly and conveniently.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
