@@ -58,7 +58,8 @@ your ACP online</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Guide to making an ACP</a>
+</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones have
 the legal right to make decisions on your behalf, including access to financial
