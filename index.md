@@ -26,9 +26,9 @@ sections:
       variant: image
   - infobar:
       id: infobar
-      description: Death, illness and mental incapacity can happen to any of us. Yet
-        few of us plan for these.<br>Don’t leave your loved ones struggling to
-        pick up the pieces.
+      description: Sudden death and mental incapacity can happen to any of us. Yet few
+        of us plan for these.<br>Don’t leave your loved ones struggling to pick
+        up the pieces.
   - infobar:
       id: infobar
       description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
