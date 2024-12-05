@@ -19,9 +19,9 @@ hold dear.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
 <p><strong>How It Protects Loved Ones: </strong>Gives clarity to your loved
-ones on your healthcare preferences, reducing the guilt they experience
+ones on your healthcare preferences, reducing the stress they experience
 from making medical decisions on your behalf.
-<br><strong>Purpose:</strong> Documents your values and future healthcare preferences
+<br><strong>Purpose:</strong> Documents your future healthcare preferences
 in case of mental incapacity.
 <br><strong>What you need:</strong>
 </p>
@@ -64,7 +64,8 @@ financial affairs if you lose mental capacity.
 </p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your CPF savings are
-distributed as intended, providing financial security for your family.
+distributed as intended, providing financial security for your family and/or
+loved ones.
 <br><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
 choose, swiftly and conveniently.
 <br><strong>What you need:</strong>
