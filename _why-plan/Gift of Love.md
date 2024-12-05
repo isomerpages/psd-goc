@@ -36,10 +36,8 @@ your ACP online</p>
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">GUIDE TO MAKING AN ACP</a>
-</p>
-<p><a href="https://form.gov.sg/65487f80a29446001218159e" rel="noopener nofollow" target="_blank">COMPLETE AN ONLINE DRAFT ACP</a>
-</p>
-<p><a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">FIND A FACILITATOR</a>
+<br><a href="https://form.gov.sg/65487f80a29446001218159e" rel="noopener nofollow" target="_blank">COMPLETE AN ONLINE DRAFT ACP</a>
+<br><a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">FIND A FACILITATOR</a>
 </p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>How It Becomes a Gift of Love:</strong> Demonstrates trust and
@@ -57,10 +55,8 @@ behalf if you’re unable to do so.
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
-</p>
-<p><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
-</p>
-<p><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
+<br><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
+<br><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>How It Becomes a Gift of Love:</strong> Gives assurance that your
@@ -78,8 +74,7 @@ without delays.
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-cpf-nomination/" rel="noopener nofollow" target="_blank">READ MORE ON CPF NOMINATIONS</a>
-</p>
-<p><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">MAKE A CPF NOMINATION</a>
+<br><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">MAKE A CPF NOMINATION</a>
 </p>
 <h4><strong>Will</strong></h4>
 <p><strong>How It Becomes a Gift of Love: </strong>Ensures clarity and reduces
@@ -94,9 +89,7 @@ after death.
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">HOW TO WRITE A WILL</a>
-</p>
-<p><a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/" rel="noopener nofollow" target="_blank">ATTEND A LEGAL CLINIC</a>
-</p>
-<p><a href="https://www.youtube.com/watch?v=QhbWwXA2xK4" rel="noopener nofollow" target="_blank">WATCH A WEBINAR</a>
+<br><a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/" rel="noopener nofollow" target="_blank">ATTEND A LEGAL CLINIC</a>
+<br><a href="https://www.youtube.com/watch?v=QhbWwXA2xK4" rel="noopener nofollow" target="_blank">WATCH A WEBINAR</a>
 </p>
 <p></p>
