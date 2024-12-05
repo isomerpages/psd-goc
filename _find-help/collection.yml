@@ -1,0 +1,8 @@
+collections:
+  find-help:
+    output: true
+    order:
+      - Visit Our Events.md
+      - Self Help Resources.md
+      - Talk To Somebody.md
+      - Frequently Asked Questions.md

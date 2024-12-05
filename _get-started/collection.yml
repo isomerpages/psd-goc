@@ -1,0 +1,7 @@
+collections:
+  get-started:
+    output: true
+    order:
+      - I Am Ready To Start.md
+      - I Am Too Busy To Plan.md
+      - I Am Unsure How To Start.md

@@ -1,32 +1,50 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Plan Your Legacy Today
+description: An Isomer site of the Singapore Government
+image: /images/logo_my_legacyv2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Hero title
+      subtitle: Hero subtitle
+      background: /images/Herobanner_V5.jpg
+      key_highlights:
+        - title: LASTING POWER OF ATTORNEY
+          description: ""
+          url: https://mylegacy.life.gov.sg/find-a-service/lpa/
+        - title: ADVANCE CARE PLANNING
+          description: ""
+          url: https://mylegacy.life.gov.sg/find-a-service/acp/
+        - title: CPF NOMINATION
+          description: ""
+          url: https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination
+        - title: WILL
+          description: ""
+          url: https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/
+      variant: image
+  - infobar:
+      id: infobar
+      description: Sudden death and mental incapacity can happen to any of us. Yet few
+        of us plan for these.<br>Don’t leave your loved ones struggling to pick
+        up the pieces.
+  - infobar:
+      id: infobar
+      description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/IaUGJW5OaF0?si=2eUd0N5MZmsVJII1"
+        style="aspect-ratio: 16 / 9; height: auto;" height="0"
+        width="100%"></iframe>'
+      title: Plan Your Legacy Today
+  - resources:
+      title: Here are some resources to help you on your journey
+      subtitle: We’re here to help you
+      id: resources
+  - infopic:
+      title: Brought to you by
+      id: infopic
+      image: /images/img_logo.png
+      alt: Image alt text
 ---
-
