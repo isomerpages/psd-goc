@@ -9,7 +9,7 @@ description: ""
 the future with clarity and purpose.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/make_your_wishes_known.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="make your wishes known" src="/images/make_your_wishes_known.jpg">
 </div>
 <p>Your legacy is yours to define. Make sure your voice is heard, even when
 you’re not there to speak. Planning ensures your wishes are respected,
