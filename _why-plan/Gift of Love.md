@@ -8,7 +8,7 @@ description: ""
 <p>A well-planned legacy is a timeless act of love, offering care and easing
 burdens for your cherished ones.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_cpf_nomination_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="gift of love" src="/images/img_cpf_nomination_v2.jpg">
 </div>
 <p>A well-planned legacy is a lasting gift of love. It shows thoughtfulness
 and care, easing the burden on those you cherish the most. Express your
