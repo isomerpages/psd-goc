@@ -12,7 +12,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/Herobanner_V5.jpg
+      background: /images/herobanner_v6.jpg
       key_highlights:
         - title: LASTING POWER OF ATTORNEY
           description: ""
