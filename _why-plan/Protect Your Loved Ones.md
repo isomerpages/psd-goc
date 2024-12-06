@@ -20,9 +20,8 @@ shape a secure foundation for the people you hold dear.</p>
 of you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
 ones on how to care for you, reducing the stress they may experience from
-making medical decisions on your behalf.
-<br>
-<br><strong>What you need:</strong>
+making medical decisions on your behalf.</p>
+<p><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
