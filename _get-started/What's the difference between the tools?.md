@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>The four tools work together to address two types of situations.</p>
-<p><strong>If you lose mental capacity</strong>
-</p>
+<p>If you lose mental capacity</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Planning</a> (ACP)
