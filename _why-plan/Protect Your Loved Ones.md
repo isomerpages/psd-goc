@@ -14,14 +14,14 @@ loved ones are protected.</p>
 <p>By making thoughtful decisions now, you can safeguard their financial
 stability, emotional well-being, and future. Let your care and foresight
 shape a secure foundation for the people you hold dear.</p>
-<h3>Take action today with these tools:</h3>
+<h3>Take action today with these tools.</h3>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Documents your healthcare preferences in case
 of you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
 ones on how to care for you, reducing the stress they may experience from
 making medical decisions on your behalf.</p>
-<p><strong>What you need:</strong>
+<p><strong>Steps:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
