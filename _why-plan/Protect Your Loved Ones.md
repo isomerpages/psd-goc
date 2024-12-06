@@ -42,7 +42,7 @@ your trusted persons.</p>
 </p>
 <p></p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Documents your healthcare preferences in case
+<p><strong>Purpose:</strong> Document your healthcare preferences in case
 of you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
 ones on how to care for you, reducing the stress they may experience from
@@ -65,8 +65,8 @@ register your plan.</p>
 <p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
 <p></p>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
-choose.</p>
+<p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
+distributed when you pass on.</p>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your CPF savings are
 distributed swiftly and conveniently, providing financial security for
 your family and/or loved ones.
