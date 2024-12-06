@@ -32,10 +32,11 @@ you may have about your medical care.</p>
 </p>
 <p>Step 2: Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
 register your plan. You can meet your facilitator online or in person.</p>
+<p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
 <h4>Will (2 hours to start)</h4>
 <p>Decide what happens to your money, property and possessions after your
 death. Make an appointment or draft your own will.</p>
-<p></p>
+<p>Here's <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">how</a>.</p>
 <p></p>
 <p></p>
 <p></p>
