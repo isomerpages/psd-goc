@@ -25,20 +25,19 @@ making medical decisions on your behalf.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Create your Advance Care Plan (20 minutes).</p>
+<p>Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (20
+minutes).</p>
 </li>
 <li>
-<p>Schedule an appointment with an ACP facilitator to register your plan
-(10 minutes).</p>
+<p>Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
+register your plan (10 minutes).</p>
 </li>
 <li>
 <p>Meet your facilitator online or in person.</p>
 </li>
 </ul>
-<p><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">GUIDE TO MAKING AN ACP</a>
-<br><a href="https://form.gov.sg/65487f80a29446001218159e" rel="noopener nofollow" target="_blank">COMPLETE AN ONLINE DRAFT ACP</a>
-<br><a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">FIND A FACILITATOR</a>
-</p>
+<p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
+<p></p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones have
 the legal right to make decisions on your behalf, including access to financial
