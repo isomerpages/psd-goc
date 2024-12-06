@@ -52,7 +52,6 @@ sections:
       image: /images/img_logo.png
       alt: Image alt text
   - infobar:
-      subtitle: NOT SURE HOW TO START?
       id: infobar
       description: '<iframe title="Embedded Form" style="width: 100%; height: 750px;
         border: none;"
