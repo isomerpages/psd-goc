@@ -29,10 +29,10 @@ sections:
       variant: image
   - infobar:
       id: infobar
-      description: Sudden death and mental incapacity can happen to any of us. Yet few
-        of us plan for these.<br>Don’t leave your loved ones struggling to pick
-        up the pieces.
-      subtitle: WHY PLAN?
+      description: Yet few of us plan for these.<br>Don’t leave your loved ones
+        struggling to pick up the pieces.
+      subtitle: Why plan?
+      title: Sudden death and mental incapacity can happen to any of us.
   - infobar:
       id: infobar
       description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
