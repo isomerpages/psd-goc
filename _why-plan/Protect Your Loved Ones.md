@@ -16,8 +16,8 @@ stability, emotional well-being, and future. Let your care and foresight
 shape a secure foundation for the people you hold dear.</p>
 <h3>Take action today with these tools.</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>Purpose:</strong> Appoints someone to manage your personal and
-financial affairs if you lose mental capacity.</p>
+<p><strong>Purpose:</strong> Appoint trusted persons to make decisions on
+your behalf in the event that you lose mental capacity.</p>
 <p><strong>How it protects loved ones:</strong> Ensures your loved ones have
 the legal right to make decisions on your care and access your financial
 accounts to manage daily expenses.</p>
