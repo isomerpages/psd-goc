@@ -51,4 +51,8 @@ sections:
       id: infopic
       image: /images/img_logo.png
       alt: Image alt text
+  - infobar:
+      title: Take Our Quiz [testing]
+      id: infobar
+      description: <div data-tf-live="01JED733N5KMJAC5C510BK4KMQ"></div>
 ---
