@@ -45,8 +45,9 @@ your trusted persons.</p>
 <p><strong>Purpose:</strong> Document your healthcare preferences in case
 of you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
-ones on how to care for you, reducing the stress they may experience from
-making medical decisions on your behalf.</p>
+ones on how to care for you when you are not able to speak for yourself.
+This will reduce the stress they may experience from making medical decisions
+on your behalf.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
