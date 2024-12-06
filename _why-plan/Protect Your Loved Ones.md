@@ -28,7 +28,8 @@ accounts to manage daily expenses.</p>
 <p>Step 1 - Complete a form (10 minutes).</p>
 </li>
 <li>
-<p>Schedule an appointment with a Certificate Issuer</p>
+<p>Step 2 - Schedule an appointment with a Certificate Issuer to certify
+your LPA.</p>
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
@@ -45,12 +46,12 @@ making medical decisions on your behalf.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (20
+<p>Step 1 - Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (30
 minutes).</p>
 </li>
 <li>
 <p>Step 2 - Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
-register your plan (10 minutes).</p>
+register your plan.</p>
 </li>
 <li>
 <p>Step 3 - Meet your facilitator online or in person.</p>
