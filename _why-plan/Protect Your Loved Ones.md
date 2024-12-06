@@ -23,14 +23,23 @@ the legal right to make decisions on your care and access your financial
 accounts to manage daily expenses.</p>
 <p><strong>What to do:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Step 1 - Complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
 minutes).</p>
+</li>
+<li>
 <p>Step 2 - Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
 certify your LPA.</p>
+</li>
+<li>
 <p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
 the purpose of the LPA and the scope of authority you have conferred on
 your trusted persons.</p>
-<p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</p>
+</li>
+</ul>
+<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+</p>
 <p></p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Documents your healthcare preferences in case
