@@ -15,7 +15,7 @@ loved ones are protected.</p>
 stability, emotional well-being, and future. Let your care and foresight
 shape a secure foundation for the people you hold dear.</p>
 <h3>Take action today with these tools:</h3>
-<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Documents your healthcare preferences in case
 of you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
