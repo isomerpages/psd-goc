@@ -76,19 +76,9 @@ for your loved ones. Without a CPF nomination, it can take up to six months
 for the Public Trustee’s Office to identify which of your family members
 are eligible to claim your savings. An administrative fee will also be
 deducted from your savings.</p>
-<p><strong>What to do:</strong>
+<p><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> (5 minutes).</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Step 1: 5 minutes to complete the process</p>
-</li>
-<li>
-<p>2 witnesses for your nomination</p>
-</li>
-</ul>
-<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-cpf-nomination/" rel="noopener nofollow" target="_blank">READ MORE ON CPF NOMINATIONS</a>
-<br><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">MAKE A CPF NOMINATION</a>
-</p>
+<p></p>
 <h4><strong>Will</strong></h4>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
 the inheritance and support you wish to provide.
