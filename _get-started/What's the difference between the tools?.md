@@ -42,7 +42,6 @@ savings. An administrative fee will also be deducted from your savings.</p>
 </ul>
 <blockquote>
 <p>Sudden death and loss of mental capacity can happen to any of us. Don't
-wait till it's too late. Plan your legacy today with one of the four tools
-above.</p>
+wait till it's too late. Plan your legacy today.</p>
 </blockquote>
 <p></p>
