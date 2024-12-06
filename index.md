@@ -55,7 +55,7 @@ sections:
         - title: Know the difference
           description: Why start with these 4 tools?
           linktext: Learn more
-          url: ""
+          url: /whats-the-difference-between-the-tools/
         - title: Card
           description: Card description
           linktext: Learn more
