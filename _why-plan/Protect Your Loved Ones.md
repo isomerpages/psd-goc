@@ -85,11 +85,11 @@ are to be distributed, and who to take care of your dependants after your
 death.</p>
 <p><strong>How it protects loved ones:</strong> Ensure your loved ones are
 provided for when you have passed on.</p>
-<p><strong>What you need:</strong>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2 to 3 hours to make an appointment with a lawyer or draft your own Will</p>
+<p>Make an appointment with a lawyer or draft your own will.</p>
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">HOW TO WRITE A WILL</a>
