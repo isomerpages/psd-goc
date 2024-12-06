@@ -21,8 +21,8 @@ minutes to start)</p>
 that you lose mental capacity. These decisions cover your personal welfare,
 property and bank accounts.</p>
 <p>Step 1: Take 10 minutes to complete Form 1.</p>
-<p>Step 2: Schedule an appointment with a Certificate Issuer to certify your
-LPA.</p>
+<p>Step 2: Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
+certify your LPA.</p>
 <p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Planning</a> </strong>(30
 minutes to start)</p>
 <p>Share your preferences so that your doctors and those you trust can tailor
