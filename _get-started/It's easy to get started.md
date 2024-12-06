@@ -11,18 +11,18 @@ ensure your wishes are known, and save your loved ones from stress and
 uncertainty tomorrow.</p>
 <p>You don’t have to do everything at once. Start when you can, and do one
 tool at a time. Here is some information to guide you on your journey.</p>
-<p><strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">CPF Nomination</a> </strong>(5
-minutes to start)</p>
+<p><strong>CPF Nomination </strong>(5 minutes to start)</p>
 <p>Decide how you'd like your CPF savings to be distributed when you pass
-on. All you need is two persons to witness your nomination online.</p>
-<p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney (LPA)</a></strong> (10
-minutes to start)</p>
+on. All you need is two persons to witness your nomination online. Start
+<a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a>.</p>
+<p><strong>Lasting Power of Attorney (LPA)</strong> (10 minutes to start)</p>
 <p>Appoint trusted persons to make decisions on your behalf in the event
 that you lose mental capacity. These decisions cover your personal welfare,
 property and bank accounts.</p>
-<p>Step 1: Complete Form 1.</p>
+<p>Step 1: Complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a>.</p>
 <p>Step 2: Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
 certify your LPA.</p>
+<p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</p>
 <p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Planning</a> </strong>(30
 minutes to start)</p>
 <p>Share your preferences so that your doctors and those you trust can tailor
