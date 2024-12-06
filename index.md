@@ -51,4 +51,11 @@ sections:
       id: infopic
       image: /images/img_logo.png
       alt: Image alt text
+  - infobar:
+      title: Try Our Starter Quiz
+      subtitle: NOT SURE HOW TO START?
+      id: infobar
+      description: '<iframe title="Embedded Form" style="width: 100%; height: 500px;
+        border: none;"
+        src="https://form.gov.sg/6752939e7921808b8c1fd552"></iframe>'
 ---
