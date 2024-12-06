@@ -11,11 +11,10 @@ ensure your wishes are known, and save your loved ones from stress and
 uncertainty tomorrow.</p>
 <p>You don’t have to do everything at once. Start when you can, and do one
 tool at a time. Here is some information to guide you on your journey.</p>
-<p><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">CPF Nomination</a><strong> </strong>(5
-minutes)</p>
+<h4><strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">CPF Nomination</a> </strong>(5 minutes)</h4>
 <p>Decide how you'd like your CPF savings to be distributed when you pass
 on. All you need is two persons to witness your nomination online.</p>
-<p><a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney</a> (10
+<p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney</a></strong> (10
 minutes)</p>
 <p>Appoint trusted persons to help you make decisions on your behalf in the
 event you lose mental capacity.</p>
