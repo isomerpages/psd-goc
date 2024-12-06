@@ -9,7 +9,7 @@ description: ""
 the future with clarity and purpose.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_circle_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/make_your_wishes_known_2.jpg">
 </div>
 <p>Your legacy is yours to define. Make sure your voice is heard, even when
 you’re not there to speak. Planning ensures your wishes are respected,
@@ -36,26 +36,10 @@ your ACP online</p>
 <p>ACP facilitation sessions typically takes 1-2 hours.</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/acp/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_guide_to_making_an_acp.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65487f80a29446001218159e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_complete_an_online_draft_acp.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_a_facilitator.png"></a>
-</th>
-</tr>
-</tbody>
-</table>
+<p><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">GUIDE TO MAKING AN ACP</a>
+<br><a href="https://form.gov.sg/65487f80a29446001218159e" rel="noopener nofollow" target="_blank">COMPLETE AN ONLINE DRAFT ACP</a>
+<br><a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">FIND A FACILITATOR</a>
+</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>How It Makes Your Wishes Known:</strong> Ensures decisions made
 on your behalf align with who you choose and trust during mental incapacity.
@@ -71,26 +55,10 @@ if you cannot.
 <p>Schedule an appointment with a Certificate Issuer.</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_read_more_about_an_lpa.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/find-a-service/lpa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_fill_up_the_lpa_application.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://book.health.gov.sg/lpa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_find_a_certificate_issuer.png"></a>
-</th>
-</tr>
-</tbody>
-</table>
+<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
+<br><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
+<br><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
+</p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>How It Makes Your Wishes Known:</strong> Clearly communicates your
 intended beneficiaries, avoiding misinterpretation.
@@ -105,26 +73,9 @@ intended beneficiaries, avoiding misinterpretation.
 <p>2 witnesses for your nomination</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-cpf-nomination/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_read_more_on_cpf_nominations.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_make_a_cpf_nomintaion.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
+<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-cpf-nomination/" rel="noopener nofollow" target="_blank">READ MORE ON CPF NOMINATIONS</a>
+<br><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">MAKE A CPF NOMINATION</a>
+</p>
 <h4><strong>Will</strong></h4>
 <p><strong>How It Makes Your Wishes Known:</strong> Leaves no doubt about
 how you want your assets and responsibilities handled after your passing.
@@ -137,24 +88,8 @@ guardianship of dependents.
 <p>2 to 3 hours to make an appointment with a lawyer or draft your own Will</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_how_to_write_a_will.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_attend_a_legal_clinic.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=QhbWwXA2xK4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/btn_watch_a_webinar.png"></a>
-</th>
-</tr>
-</tbody>
-</table>
+<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">HOW TO WRITE A WILL</a>
+<br><a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/" rel="noopener nofollow" target="_blank">ATTEND A LEGAL CLINIC</a>
+<br><a href="https://www.youtube.com/watch?v=QhbWwXA2xK4" rel="noopener nofollow" target="_blank">WATCH A WEBINAR</a>
+</p>
 <p></p>

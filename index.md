@@ -1,7 +1,10 @@
 ---
 layout: homepage
 title: Plan Your Legacy Today
-description: An Isomer site of the Singapore Government
+description: Plan your legacy today. Sudden death and mental incapacity can
+  happen to any of us. Yet few of us plan for these. Don’t leave your loved ones
+  struggling to pick up the pieces. Take action with Lasting Power of Attorney,
+  CPF Nomination, Advance Care Planning, and Wills.
 image: /images/logo_my_legacyv2.png
 permalink: /
 notification: ""
@@ -9,7 +12,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/Herobanner_V5.jpg
+      background: /images/herobanner_v6.jpg
       key_highlights:
         - title: LASTING POWER OF ATTORNEY
           description: ""
@@ -26,9 +29,10 @@ sections:
       variant: image
   - infobar:
       id: infobar
-      description: Sudden death and mental incapacity can happen to any of us. Yet few
-        of us plan for these.<br>Don’t leave your loved ones struggling to pick
-        up the pieces.
+      description: Yet few of us plan for these.<br>Don’t leave your loved ones
+        struggling to pick up the pieces.
+      subtitle: Why plan?
+      title: Sudden death and mental incapacity can happen to any of us.
   - infobar:
       id: infobar
       description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
@@ -37,11 +41,34 @@ sections:
         src="https://www.youtube.com/embed/IaUGJW5OaF0?si=2eUd0N5MZmsVJII1"
         style="aspect-ratio: 16 / 9; height: auto;" height="0"
         width="100%"></iframe>'
-      title: Plan Your Legacy Today
+      title: Plan your legacy today
+  - textcards:
+      title: Here are resources to guide you on your journey
+      subtitle: It's easy to start
+      id: textcards
+      cards:
+        - title: Know the difference
+          description: Why start with these 4 tools?
+          linktext: Learn more
+          url: /whats-the-difference-between-the-tools/
+        - title: Step-by-step guide
+          description: It only takes a few minutes to start planning for the unexpected.
+          linktext: Learn more
+          url: /it-s-easy-to-get-started/
+        - title: 5 reasons to start planning
+          description: Make your wishes known. Avoid delays and disputes. Protect your
+            loved ones.
+          linktext: Learn more
+          url: /protect-your-loved-ones/
   - resources:
-      title: Here are some resources to help you on your journey
-      subtitle: We’re here to help you
+      title: Here are some resources to start you on your journey
+      subtitle: We’re here to help
       id: resources
+  - infobar:
+      id: infobar
+      description: '<iframe title="Embedded Form" style="width: 100%; height: 750px;
+        border: none;"
+        src="https://form.gov.sg/6752939e7921808b8c1fd552"></iframe>'
   - infopic:
       title: Brought to you by
       id: infopic

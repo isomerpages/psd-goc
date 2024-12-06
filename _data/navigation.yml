@@ -2,6 +2,19 @@ logo: /images/logo_my_legacyv2.png
 links:
   - title: Why Plan
     collection: why-plan
+  - title: Get Started
+    url: /whats-the-difference-between-the-tools
+    sublinks:
+      - title: 🔎 Overview
+        url: /whats-the-difference-between-the-tools/
+      - title: "LPA: Lasting Power Of Attorney"
+        url: https://mylegacy.life.gov.sg/find-a-service/lpa/
+      - title: "ACP: Advance Care Planning"
+        url: https://mylegacy.life.gov.sg/find-a-service/acp/
+      - title: CPF Nomination
+        url: https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination
+      - title: Will
+        url: https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/
   - title: Find Help
     url: https://mylegacy.life.gov.sg/frequently-asked-questions/
     sublinks:
@@ -13,14 +26,3 @@ links:
         url: https://mylegacy.life.gov.sg/find-a-service/life-planning-service/
       - title: Contact Us
         url: https://mylegacy.life.gov.sg/contact/
-  - title: Get Started
-    url: https://mylegacy.life.gov.sg/find-a-service/lpa/
-    sublinks:
-      - title: "LPA: Lasting Power Of Attorney"
-        url: https://mylegacy.life.gov.sg/find-a-service/lpa/
-      - title: "ACP: Advance Care Plan"
-        url: https://mylegacy.life.gov.sg/find-a-service/acp/
-      - title: CPF Nomination
-        url: https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination
-      - title: Will
-        url: https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/

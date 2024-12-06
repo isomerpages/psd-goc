@@ -7,9 +7,9 @@ description: ""
 <h2><strong>Why Planning Matters (Even When You’re Busy)</strong></h2>
 <p>We understand that life can get hectic, and finding time to plan for the
 future may seem impossible. But taking small, manageable steps today can
-save your loved ones from stress and uncertainty tomorrow. You don’t have
-to do everything at once — start where you can, and we’re here to guide
-you every step of the way.</p>
+save your loved ones from stress and uncertainty tomorrow.</p>
+<p>You don’t have to do everything at once. Start when you can. We’re here
+to guide you every step of the way.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>

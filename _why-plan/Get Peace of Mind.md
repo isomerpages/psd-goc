@@ -1,26 +1,26 @@
 ---
-title: Avoid Delays & Disputes
-permalink: /avoid-delay-and-disputes/
+title: Get Peace of Mind
+permalink: /peace-of-mind/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Maintain Unity with Thoughtful Planning</strong></h2>
-<p>Legacy planning ensures your intentions are clear, allows your loved ones
-to have quick access to your savings, preserving harmony and preventing
-conflict.</p>
+<h2><strong>Relieve your anxieties of the future today</strong></h2>
+<p>Legacy planning ensures your wishes are honoured and your loved ones are
+provided for, freeing you from worry.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="avoid delays and disputes" src="/images/img_will_update.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="peace of mind" src="/images/peace_of_mind.jpg">
 </div>
-<p>Delays and disputes can tear families apart when plans are unclear and
-there are delays in access to funds in the event of mishaps. Legacy planning
-helps you make your intentions known and avoid misunderstandings. Take
-the step to prevent conflict and safeguard your loved ones’ future.</p>
+<p>Planning your legacy gives you control over what lies ahead. With a clear
+roadmap, you’ll feel confident knowing that your wishes will be honoured
+and that your family will be taken care of. Say goodbye to uncertainty
+and hello to peace of mind for the road ahead.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
-<p><strong>How It Avoids Delays &amp; Disputes:</strong> Reduce misunderstandings
-among family members about your healthcare preferences.
-<br><strong>Purpose:</strong> Details your medical preferences for future scenarios.
+<p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
+healthcare preferences have been communicated and will be respected.
+<br><strong>Purpose:</strong> Outlines your healthcare preferences should you
+lose mental capacity.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -41,11 +41,11 @@ your ACP online</p>
 <br><a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">FIND A FACILITATOR</a>
 </p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>How It Avoids Delays &amp; Disputes: </strong>Ensure your loved
-ones have immediate access to your savings should you lose mental capacity,
-preventing conflict over how and who should manage your affairs.
-<br><strong>Purpose:</strong> Names someone you trust to make decisions for
-you when necessary.
+<p><strong>How It Brings Peace of Mind:</strong> Reduces worries about the
+future by knowing someone you trust has been given the right to act in
+your best interests.
+<br><strong>Purpose:</strong> Appoints a trusted individual to make decisions
+on your behalf in the case of mental incapacity.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -61,10 +61,10 @@ you when necessary.
 <br><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>How It Avoids Delays &amp; Disputes:</strong> Ensure your loved
-ones quickly receives your CPF savings upon your death and eliminates uncertainty
-and potential disagreements over the distribution of your CPF funds.
-<br><strong>Purpose: </strong>Directs your CPF savings to specific individuals.
+<p><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
+CPF savings will benefit those you care about.
+<br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
+without delays.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -79,11 +79,10 @@ and potential disagreements over the distribution of your CPF funds.
 <br><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">MAKE A CPF NOMINATION</a>
 </p>
 <h4><strong>Will</strong></h4>
-<p><strong>How It Avoids Delays &amp; Disputes:</strong> Prevent delays and
-disputes by clearly stating your intentions for how your assets are to
-be distributed upon your death.
-<br><strong>Purpose:</strong> Outlines how your assets are to be distributed
-and dependents cared for.
+<p><strong>How It Brings Peace of Mind:</strong> Ensures clarity and reduces
+uncertainty about the handling of your assets and responsibilities.
+<br><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
+after death.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
