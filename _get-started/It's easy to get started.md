@@ -15,7 +15,7 @@ tool at a time. Here is some information to guide you on your journey.</p>
 <p>Decide how you'd like your CPF savings to be distributed when you pass
 on. All you need is two persons to witness your nomination online. Start
 <a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a>.</p>
-<p><strong>Lasting Power of Attorney (LPA)</strong> (10 minutes to start)</p>
+<h4><strong>Lasting Power of Attorney (LPA)</strong> (10 minutes to start)</h4>
 <p>Appoint trusted persons to make decisions on your behalf in the event
 that you lose mental capacity. These decisions include your personal welfare,
 property and bank accounts.</p>
