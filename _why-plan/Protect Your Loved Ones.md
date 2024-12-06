@@ -43,7 +43,7 @@ your trusted persons.</p>
 <p></p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Document your healthcare preferences in case
-of you lose mental capacity.</p>
+you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
 ones on how to care for you when you are not able to speak for yourself.
 This will reduce the stress they may experience from making medical and
