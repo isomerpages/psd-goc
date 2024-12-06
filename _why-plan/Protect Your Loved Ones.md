@@ -31,6 +31,9 @@ accounts to manage daily expenses.</p>
 <p>Step 2 - Schedule an appointment with a Certificate Issuer to certify
 your LPA.</p>
 </li>
+<li>
+<p>Step 3 - Meet</p>
+</li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
 <br><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
@@ -54,7 +57,7 @@ minutes).</p>
 register your plan.</p>
 </li>
 <li>
-<p>Step 3 - Meet your facilitator online or in person.</p>
+<p>Step 3 - Meet your ACP facilitator online or in person.</p>
 </li>
 </ul>
 <p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
