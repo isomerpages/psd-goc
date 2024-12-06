@@ -23,13 +23,12 @@ property and bank accounts.</p>
 <p>Step 2: Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
 certify your LPA.</p>
 <p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</p>
-<p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Planning</a> </strong>(30
-minutes to start)</p>
+<p><strong>Advance Care Planning </strong>(30 minutes to start)</p>
 <p>Share your preferences so that your doctors and those you trust can tailor
 your care and treatment accordingly, when you are not able to speak for
 yourself. It includes indicating the activities you enjoy, and worries
 you may have about your medical care.</p>
-<p>Step 1: Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> 
+<p>Step 1: Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a>
 </p>
 <p>Step 2:</p>
 <p>Will (2 hours to start)</p>
