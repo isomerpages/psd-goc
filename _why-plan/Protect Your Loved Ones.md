@@ -70,7 +70,7 @@ plan.</p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
 distributed when you pass on.</p>
-<p><strong>How It Protects Loved Ones:</strong> Ensures your CPF savings are
+<p><strong>How it protects loved ones:</strong> Ensures your CPF savings are
 distributed swiftly and conveniently, providing financial security for
 your family and/or loved ones.
 <br><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
