@@ -43,7 +43,7 @@ sections:
         width="100%"></iframe>'
       title: Plan Your Legacy Today
   - resources:
-      title: Here are some resources to help you on your journey
+      title: Here are some resources to start you on your journey
       subtitle: We’re here to help
       id: resources
   - infobar:
