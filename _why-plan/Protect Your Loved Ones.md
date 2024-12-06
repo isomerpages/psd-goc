@@ -81,7 +81,7 @@ minutes).</p>
 <p></p>
 <h4><strong>Will</strong></h4>
 <p><strong>Purpose:</strong> Specify how your money, property and possessions
-are to be distributed, and who to take care of your dependents after your
+are to be distributed, and who to take care of your dependants after your
 death.</p>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
 the inheritance and support you wish to provide.
