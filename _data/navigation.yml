@@ -2,17 +2,6 @@ logo: /images/logo_my_legacyv2.png
 links:
   - title: Why Plan
     collection: why-plan
-  - title: Find Help
-    url: https://mylegacy.life.gov.sg/frequently-asked-questions/
-    sublinks:
-      - title: Frequently Asked Questions
-        url: https://mylegacy.life.gov.sg/frequently-asked-questions/
-      - title: Resources
-        url: /resources
-      - title: Talk to someone
-        url: https://mylegacy.life.gov.sg/find-a-service/life-planning-service/
-      - title: Contact Us
-        url: https://mylegacy.life.gov.sg/contact/
   - title: Get Started
     url: https://mylegacy.life.gov.sg/find-a-service/lpa/
     sublinks:
@@ -26,3 +15,14 @@ links:
         url: https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination
       - title: Will
         url: https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/
+  - title: Find Help
+    url: https://mylegacy.life.gov.sg/frequently-asked-questions/
+    sublinks:
+      - title: Frequently Asked Questions
+        url: https://mylegacy.life.gov.sg/frequently-asked-questions/
+      - title: Resources
+        url: /resources
+      - title: Talk to someone
+        url: https://mylegacy.life.gov.sg/find-a-service/life-planning-service/
+      - title: Contact Us
+        url: https://mylegacy.life.gov.sg/contact/
