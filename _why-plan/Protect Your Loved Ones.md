@@ -74,8 +74,7 @@ distributed when you pass on.</p>
 distributed swiftly and conveniently in cash, and provide financial security
 for your loved ones. Without a CPF nomination, it can take up to six months
 for the Public Trustee’s Office to identify which of your family members
-are eligible to claim your savings. An administrative fee will also be
-deducted from your savings.</p>
+are eligible to claim your savings.</p>
 <p><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <p></p>
