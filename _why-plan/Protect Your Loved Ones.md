@@ -15,6 +15,26 @@ loved ones are protected.</p>
 stability, emotional well-being, and future. Let your care and foresight
 shape a secure foundation for the people you hold dear.</p>
 <h3>Take action today with these tools.</h3>
+<h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>Purpose:</strong> Appoints someone to manage your personal and
+financial affairs if you lose mental capacity.</p>
+<p><strong>How it protects loved ones:</strong> Ensures your loved ones have
+the legal right to make decisions on your care and access your financial
+accounts to manage daily expenses.</p>
+<p><strong>What you need:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>10 minutes to fill up the LPA application form.</p>
+</li>
+<li>
+<p>Schedule an appointment with a Certificate Issuer</p>
+</li>
+</ul>
+<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
+<br><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
+<br><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
+</p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Documents your healthcare preferences in case
 of you lose mental capacity.</p>
@@ -38,26 +58,7 @@ register your plan (10 minutes).</p>
 </ul>
 <p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
 <p></p>
-<h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>Purpose:</strong> Appoints someone to manage your personal and
-financial affairs if you lose mental capacity.</p>
-<p><strong>How it protects loved ones:</strong> Ensures your loved ones have
-the legal right to make decisions on your care and access your financial
-accounts to manage daily expenses.</p>
-<p><strong>What you need:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>10 minutes to fill up the LPA application form.</p>
-</li>
-<li>
-<p>Schedule an appointment with a Certificate Issuer</p>
-</li>
-</ul>
-<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
-<br><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
-<br><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
-</p>
+<h4></h4>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your CPF savings are
 distributed as intended, providing financial security for your family and/or
