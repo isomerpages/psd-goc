@@ -25,14 +25,14 @@ making medical decisions on your behalf.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Create your Advance Care Plan online (30 minutes)</p>
+<p>Create your Advance Care Plan (20 minutes).</p>
 </li>
 <li>
-<p>10 minutes to Schedule an appointment with a facilitator and register
-your ACP online</p>
+<p>Schedule an appointment with an ACP facilitator to register your plan
+(10 minutes).</p>
 </li>
 <li>
-<p>ACP facilitation sessions typically takes 1-2 hours.</p>
+<p>Meet your facilitator online or in person.</p>
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">GUIDE TO MAKING AN ACP</a>
