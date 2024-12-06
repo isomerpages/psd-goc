@@ -25,14 +25,17 @@ accounts to manage daily expenses.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Complete a form (10 minutes).</p>
+<p>Step 1 - Complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
+minutes).</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with a Certificate Issuer to certify
-your LPA.</p>
+<p>Step 2 - Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
+certify your LPA.</p>
 </li>
 <li>
-<p>Step 3 - Meet the Certificate Issuer.</p>
+<p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
+the purpose of the LPA and the scope of authority you have conferred on
+your trusted persons.</p>
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
