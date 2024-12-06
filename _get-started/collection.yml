@@ -2,6 +2,7 @@ collections:
   get-started:
     output: true
     order:
+      - What's the difference between the tools?.md
       - I Am Ready To Start.md
       - I Am Too Busy To Plan.md
       - I Am Unsure How To Start.md
