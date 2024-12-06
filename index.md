@@ -54,6 +54,7 @@ sections:
   - infobar:
       title: Take our quiz!
       id: infobar
-      description: <div data-tf-live="01JED733N5KMJAC5C510BK4KMQ"></div>
+      description: <iframe frameborder="0" height="500" width="100%"
+        src="https://form.typeform.com/to/01JED859YK8NBFCAZ6A47DKW2W"> </iframe>
       subtitle: Not sure what to start with?
 ---
