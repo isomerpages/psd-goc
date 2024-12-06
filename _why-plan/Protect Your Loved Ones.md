@@ -56,6 +56,8 @@ register your plan.</p>
 <p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
 <p></p>
 <h4><strong>CPF Nomination</strong></h4>
+<p><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
+choose, swiftly and conveniently.</p>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your CPF savings are
 distributed as intended, providing financial security for your family and/or
 loved ones.
