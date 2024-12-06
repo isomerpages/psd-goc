@@ -41,10 +41,9 @@ register your plan (10 minutes).</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoints someone to manage your personal and
 financial affairs if you lose mental capacity.</p>
-<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones have
-the legal right to make decisions on your behalf, including access to financial
-accounts, to care for you and themselves in difficult times.
-<br>
+<p><strong>How it protects loved ones:</strong> Ensures your loved ones have
+the legal right to make decisions on your care and access your financial
+accounts to manage daily expenses.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
