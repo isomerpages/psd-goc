@@ -11,9 +11,11 @@ uncertainty tomorrow.</p>
 <p>You don’t have to do everything at once. Start when you can, and do one
 tool at a time.</p>
 <p>Here is some information to guide you on your journey.</p>
-<p><strong>CPF Nomination</strong>
+<p><strong>CPF Nomination (Estimated time required: 5 minutes)</strong>
 </p>
-<p>Estimated time: 5 minutes</p>
+<p>Decide how you'd like your CPF savings to be distributed when you pass
+on.</p>
+<p></p>
 <p>All you need is two trusted persons to witness your nomination.</p>
 <p></p>
 <p></p>
