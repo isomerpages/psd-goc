@@ -62,10 +62,10 @@ sections:
       id: textcards
       description: Text card description
       cards:
-        - title: Card
-          description: Card description
+        - title: Step-by-step guide
+          description: It only takes a few minutes to start planning for the unexpected.
           linktext: Learn more
-          url: ""
+          url: /it-s-easy-to-get-started/
         - title: Card
           description: Card description
           linktext: Learn more
