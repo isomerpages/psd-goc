@@ -39,11 +39,12 @@ register your plan (10 minutes).</p>
 <p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
 <p></p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>Purpose:</strong> Appoints someone to manage your personal and
+financial affairs if you lose mental capacity.</p>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones have
 the legal right to make decisions on your behalf, including access to financial
 accounts, to care for you and themselves in difficult times.
-<br><strong>Purpose:</strong> Appoints someone to manage your personal and
-financial affairs if you lose mental capacity.
+<br>
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
