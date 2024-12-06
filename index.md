@@ -56,10 +56,11 @@ sections:
           description: Why start with these 4 tools?
           linktext: Learn more
           url: /whats-the-difference-between-the-tools/
-        - title: Card
-          description: Card description
+        - title: Why plan at all?
+          description: Make your wishes known. Avoid delays and disputes. Protect your
+            loved ones.
           linktext: Learn more
-          url: ""
+          url: /protect-your-loved-ones/
   - resources:
       title: Here are some resources to start you on your journey
       subtitle: We’re here to help
