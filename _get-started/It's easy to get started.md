@@ -15,12 +15,20 @@ tool at a time. Here is some information to guide you on your journey.</p>
 minutes to start)</p>
 <p>Decide how you'd like your CPF savings to be distributed when you pass
 on. All you need is two persons to witness your nomination online.</p>
-<p><strong>Lasting Power of Attorney</strong> (10 minutes to start)</p>
+<p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney</a></strong> (10
+minutes to start)</p>
 <p>Appoint trusted persons to make decisions on your behalf in the event
 that you lose mental capacity. These decisions cover your personal welfare,
 property and bank accounts.</p>
 <p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Planning</a> </strong>(30
 minutes to start)</p>
+<p>Share your preferences so that your doctors and those you trust can tailor
+your care and treatment accordingly, when you are not able to speak for
+yourself. It includes indicating the activities you enjoy, and worries
+you may have about your medical care.</p>
+<p>Will (2 hours to start)</p>
+<p>decide what happens to your money, property and possessions after your
+deathMake an appointment or draft your own will.</p>
 <p></p>
 <p></p>
 <p></p>
