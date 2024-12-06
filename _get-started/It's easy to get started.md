@@ -17,7 +17,7 @@ on. All you need is two persons to witness your nomination online.</p>
 <p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney</a></strong> (10
 minutes)</p>
 <p>Appoint trusted persons to make decisions on your behalf in the event
-that you lose mental capacity. These decisions include your personal welfare,
+that you lose mental capacity. These decisions cover your personal welfare,
 property and bank accounts.</p>
 <p></p>
 <p></p>
