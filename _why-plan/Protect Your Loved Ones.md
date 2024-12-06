@@ -46,8 +46,8 @@ your trusted persons.</p>
 of you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
 ones on how to care for you when you are not able to speak for yourself.
-This will reduce the stress they may experience from making medical decisions
-on your behalf.</p>
+This will reduce the stress they may experience from making medical and
+other decisions on your behalf.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
