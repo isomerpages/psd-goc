@@ -46,7 +46,6 @@ sections:
       title: Here are resources to guide you on your journey
       subtitle: It's easy to start
       id: textcards
-      description: Text card description
       cards:
         - title: Step-by-step guide
           description: It only takes a few minutes to start planning for the unexpected.
