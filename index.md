@@ -54,7 +54,7 @@ sections:
   - infobar:
       subtitle: NOT SURE HOW TO START?
       id: infobar
-      description: '<iframe title="Embedded Form" style="width: 100%; height: 500px;
+      description: '<iframe title="Embedded Form" style="width: 100%; height: 1000px;
         border: none;"
         src="https://form.gov.sg/6752939e7921808b8c1fd552"></iframe>'
 ---
