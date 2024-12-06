@@ -21,11 +21,11 @@ your behalf in the event that you lose mental capacity.</p>
 <p><strong>How it protects loved ones:</strong> Ensure your loved ones have
 the legal right to make decisions on your care and access your financial
 accounts to manage daily expenses.</p>
-<p><strong>What you need:</strong>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 minutes to fill up the LPA application form.</p>
+<p>Complete a form (10 minutes).</p>
 </li>
 <li>
 <p>Schedule an appointment with a Certificate Issuer</p>
@@ -45,15 +45,15 @@ making medical decisions on your behalf.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (20
+<p>Step 1 - Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (20
 minutes).</p>
 </li>
 <li>
-<p>Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
+<p>Step 2 - Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
 register your plan (10 minutes).</p>
 </li>
 <li>
-<p>Meet your facilitator online or in person.</p>
+<p>Step 3 - Meet your facilitator online or in person.</p>
 </li>
 </ul>
 <p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
