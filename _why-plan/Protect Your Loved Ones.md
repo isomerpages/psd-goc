@@ -71,16 +71,16 @@ plan.</p>
 <p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
 distributed when you pass on.</p>
 <p><strong>How it protects loved ones:</strong> Ensure your CPF savings are
-distributed swiftly and conveniently, and provide financial security for
-your loved ones. Without a CPF nomination, it can take up to six months
+distributed swiftly and conveniently in cash, and provide financial security
+for your loved ones. Without a CPF nomination, it can take up to six months
 for the Public Trustee’s Office to identify which of your family members
 are eligible to claim your savings. An administrative fee will also be
 deducted from your savings.</p>
-<p><strong>What you need:</strong>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>5 minutes to complete the process</p>
+<p>Step 1: 5 minutes to complete the process</p>
 </li>
 <li>
 <p>2 witnesses for your nomination</p>
