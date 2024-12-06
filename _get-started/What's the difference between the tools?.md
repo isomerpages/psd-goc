@@ -39,8 +39,5 @@ Office to identify which of your family members are eligible to claim your
 savings. An administrative fee will also be deducted from your savings.</p>
 </li>
 </ul>
-<blockquote>
-<p>Sudden death and loss of mental capacity can happen to any of us. Don't
-wait till it's too late. Plan your legacy today.</p>
-</blockquote>
+<h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today.</h4>
 <p></p>
