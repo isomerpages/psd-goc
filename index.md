@@ -56,4 +56,22 @@ sections:
       id: infopic
       image: /images/img_logo.png
       alt: Image alt text
+  - textcards:
+      title: Here are resources to guide you on your journey
+      subtitle: It's easy to start
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
