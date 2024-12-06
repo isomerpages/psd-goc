@@ -43,8 +43,8 @@ register your plan (10 minutes).</p>
 financial affairs if you lose mental capacity.</p>
 <p><strong>How it protects loved ones:</strong> Ensures your loved ones have
 the legal right to make decisions on your care and access your financial
-accounts to manage daily expenses.
-<br><strong>What you need:</strong>
+accounts to manage daily expenses.</p>
+<p><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
