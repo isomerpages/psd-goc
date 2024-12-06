@@ -4,19 +4,22 @@ permalink: /it-s-easy-to-get-started/
 variant: tiptap
 description: ""
 ---
+<h2>One step at a time</h2>
 <p>We understand that life can get hectic, and finding time to plan for the
 future may seem impossible. But taking small, manageable steps today will
 ensure your wishes are known, and save your loved ones from stress and
 uncertainty tomorrow.</p>
 <p>You don’t have to do everything at once. Start when you can, and do one
-tool at a time.</p>
-<p>Here is some information to guide you on your journey.</p>
-<p><strong>CPF Nomination (5 minutes)</strong>
+tool at a time. Here is some information to guide you on your journey.</p>
+<p><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">CPF Nomination</a><strong> (5 minutes)</strong>
 </p>
 <p>Decide how you'd like your CPF savings to be distributed when you pass
-on.</p>
+on. All you need is two persons to witness your nomination online.</p>
+<p>Lasting Power of Attorney (10 minutes)</p>
+<p>Appoint trusted persons to help you make decisions on your behalf in the
+event you lose mental capacity.</p>
 <p></p>
-<p>All you need is two trusted persons to witness your nomination.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
