@@ -60,10 +60,12 @@ minutes).</p>
 register your plan.</p>
 </li>
 <li>
-<p>Step 3 - Meet your ACP facilitator online or in person.</p>
+<p>Step 3 - Meet your ACP facilitator online or in person to discuss your
+plan.</p>
 </li>
 </ul>
-<p>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</p>
+<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+</p>
 <p></p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
