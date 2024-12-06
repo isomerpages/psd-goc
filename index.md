@@ -44,7 +44,7 @@ sections:
       title: Plan Your Legacy Today
   - resources:
       title: Here are some resources to help you on your journey
-      subtitle: We’re here to help you
+      subtitle: We’re here to help
       id: resources
   - infopic:
       title: Brought to you by
