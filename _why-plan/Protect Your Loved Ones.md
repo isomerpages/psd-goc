@@ -5,18 +5,16 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Safeguard those you care about</strong></h2>
-<p>Life's uncertainties are inevitable, but proactive planning secures a
-stable future for those you cherish.</p>
+<p>Life is full of unexpected twists, but planning your legacy ensures your
+loved ones are protected.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="protect your loved ones" src="/images/protect_your_loved_one.jpg">
 </div>
-<p>Life is full of unexpected twists, but planning your legacy ensures your
-loved ones are always protected. By making thoughtful decisions now, you
-can safeguard their financial stability, emotional well-being, and future.
-Let your care and foresight shape a secure foundation for the people you
-hold dear.</p>
-<h3>Take action today with any of the four tools below:</h3>
+<p>By making thoughtful decisions now, you can safeguard their financial
+stability, emotional well-being, and future. Let your care and foresight
+shape a secure foundation for the people you hold dear.</p>
+<h3>Take action today with these tools:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
 <p><strong>How It Protects Loved Ones: </strong>Gives clarity to your loved
 ones on your healthcare preferences, reducing the stress they experience
