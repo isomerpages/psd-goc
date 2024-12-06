@@ -42,6 +42,24 @@ sections:
         style="aspect-ratio: 16 / 9; height: auto;" height="0"
         width="100%"></iframe>'
       title: Plan Your Legacy Today
+  - textcards:
+      title: Here are resources to guide you on your journey
+      subtitle: It's easy to start
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Step-by-step guide
+          description: It only takes a few minutes to start planning for the unexpected.
+          linktext: Learn more
+          url: /it-s-easy-to-get-started/
+        - title: Know the difference
+          description: Why start with these 4 tools?
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - resources:
       title: Here are some resources to start you on your journey
       subtitle: We’re here to help
@@ -56,22 +74,4 @@ sections:
       id: infopic
       image: /images/img_logo.png
       alt: Image alt text
-  - textcards:
-      title: Here are resources to guide you on your journey
-      subtitle: It's easy to start
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Step-by-step guide
-          description: It only takes a few minutes to start planning for the unexpected.
-          linktext: Learn more
-          url: /it-s-easy-to-get-started/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
