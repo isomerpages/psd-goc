@@ -51,10 +51,4 @@ sections:
       id: infopic
       image: /images/img_logo.png
       alt: Image alt text
-  - infobar:
-      title: Take our quiz!
-      id: infobar
-      description: <iframe frameborder="0" height="500" width="100%"
-        src="https://form.typeform.com/to/01JED859YK8NBFCAZ6A47DKW2W"> </iframe>
-      subtitle: Not sure what to start with?
 ---
