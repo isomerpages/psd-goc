@@ -13,8 +13,8 @@ loved ones are protected.</p>
 </div>
 <p>By making thoughtful decisions now, you can safeguard their financial
 stability, emotional well-being, and future. Let your care and foresight
-shape a secure foundation for the people you hold dear.</p>
-<h3>Take action today with these tools.</h3>
+shape a secure foundation for the people you hold dear. Take action today
+with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoint trusted persons to make decisions on
 your behalf in the event that you lose mental capacity.</p>
