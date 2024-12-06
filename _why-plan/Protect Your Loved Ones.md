@@ -25,7 +25,7 @@ accounts to manage daily expenses.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Complete a form (10 minutes).</p>
+<p>Step 1 - Complete a form (10 minutes).</p>
 </li>
 <li>
 <p>Schedule an appointment with a Certificate Issuer</p>
