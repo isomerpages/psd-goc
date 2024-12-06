@@ -56,7 +56,7 @@ sections:
           linktext: Learn more
           url: /it-s-easy-to-get-started/
         - title: 5 reasons to start planning
-          description: Make your wishes known. Avoid delays and disputes. Protect your
+          description: Make your wishes know. Avoid delays and disputes. Protect your
             loved ones.
           linktext: Learn more
           url: /protect-your-loved-ones/
