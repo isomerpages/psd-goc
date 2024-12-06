@@ -57,10 +57,10 @@ register your plan.</p>
 <p></p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
-choose, swiftly and conveniently.</p>
+choose.</p>
 <p><strong>How It Protects Loved Ones:</strong> Ensures your CPF savings are
-distributed as intended, providing financial security for your family and/or
-loved ones.
+distributed swiftly and conveniently, providing financial security for
+your family and/or loved ones.
 <br><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
 choose, swiftly and conveniently.
 <br><strong>What you need:</strong>
