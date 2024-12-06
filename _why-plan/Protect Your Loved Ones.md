@@ -16,11 +16,12 @@ stability, emotional well-being, and future. Let your care and foresight
 shape a secure foundation for the people you hold dear.</p>
 <h3>Take action today with these tools:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
-<p><strong>How It Protects Loved Ones: </strong>Gives clarity to your loved
+<p><strong>Purpose:</strong> Documents your healthcare preferences in case
+of you lose mental capacity.</p>
+<p><strong>How it protects loved ones: </strong>Gives clarity to your loved
 ones on your healthcare preferences, reducing the stress they experience
 from making medical decisions on your behalf.
-<br><strong>Purpose:</strong> Documents your future healthcare preferences
-in case of mental incapacity.
+<br>
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
