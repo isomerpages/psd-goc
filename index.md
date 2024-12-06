@@ -46,14 +46,14 @@ sections:
       title: Here are some resources to help you on your journey
       subtitle: We’re here to help
       id: resources
-  - infopic:
-      title: Brought to you by
-      id: infopic
-      image: /images/img_logo.png
-      alt: Image alt text
   - infobar:
       id: infobar
       description: '<iframe title="Embedded Form" style="width: 100%; height: 750px;
         border: none;"
         src="https://form.gov.sg/6752939e7921808b8c1fd552"></iframe>'
+  - infopic:
+      title: Brought to you by
+      id: infopic
+      image: /images/img_logo.png
+      alt: Image alt text
 ---
