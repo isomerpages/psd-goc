@@ -38,6 +38,7 @@ the purpose of the LPA and the scope of authority you have conferred on
 your trusted persons.</p>
 </li>
 </ul>
+<p>Start now.</p>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
 <br><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
 <br><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
