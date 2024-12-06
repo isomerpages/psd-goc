@@ -4,7 +4,7 @@ permalink: /it-s-easy-to-get-started/
 variant: tiptap
 description: ""
 ---
-<h2>One step at a time</h2>
+<h2>Step-by-step guide</h2>
 <p>We understand that life can get hectic, and finding time to plan for the
 future may seem impossible. But taking small, manageable steps today will
 ensure your wishes are known, and save your loved ones from stress and
