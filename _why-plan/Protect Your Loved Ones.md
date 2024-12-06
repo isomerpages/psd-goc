@@ -32,7 +32,7 @@ accounts to manage daily expenses.</p>
 your LPA.</p>
 </li>
 <li>
-<p>Step 3 - Meet</p>
+<p>Step 3 - Meet the Certificate Issuer.</p>
 </li>
 </ul>
 <p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
