@@ -83,10 +83,9 @@ minutes).</p>
 <p><strong>Purpose:</strong> Specify how your money, property and possessions
 are to be distributed, and who to take care of your dependants after your
 death.</p>
-<p><strong>How It Protects Loved Ones:</strong> Ensures your loved ones receive
-the inheritance and support you wish to provide.
-<br>
-<br><strong>What you need:</strong>
+<p><strong>How it protects loved ones:</strong> Ensure your loved ones are
+provided for when you have passed on.</p>
+<p><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
