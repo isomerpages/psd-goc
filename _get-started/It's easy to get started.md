@@ -15,11 +15,14 @@ tool at a time. Here is some information to guide you on your journey.</p>
 minutes to start)</p>
 <p>Decide how you'd like your CPF savings to be distributed when you pass
 on. All you need is two persons to witness your nomination online.</p>
-<p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney</a></strong> (10
+<p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney (LPA)</a></strong> (10
 minutes to start)</p>
 <p>Appoint trusted persons to make decisions on your behalf in the event
 that you lose mental capacity. These decisions cover your personal welfare,
 property and bank accounts.</p>
+<p>Step 1: Take 10 minutes to complete Form 1.</p>
+<p>Step 2: Schedule an appointment with a Certificate Issuer to certify your
+LPA.</p>
 <p><strong><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Planning</a> </strong>(30
 minutes to start)</p>
 <p>Share your preferences so that your doctors and those you trust can tailor
