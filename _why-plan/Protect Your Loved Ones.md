@@ -25,11 +25,10 @@ making medical decisions on your behalf.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>15-30 minutes to prepare your healthcare preferences using our online
-guide</p>
+<p>Create your Advance Care Plan online (30 minutes)</p>
 </li>
 <li>
-<p>10 minutes to schedule an appointment with a facilitator and register
+<p>10 minutes to Schedule an appointment with a facilitator and register
 your ACP online</p>
 </li>
 <li>
