@@ -44,7 +44,7 @@ your trusted persons.</p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Document your healthcare preferences in case
 you lose mental capacity.</p>
-<p><strong>How it protects loved ones: </strong>Gives clarity to your loved
+<p><strong>How it protects loved ones: </strong>Give clarity to your loved
 ones on how to care for you when you are not able to speak for yourself.
 This will reduce the stress they may experience from making medical and
 other decisions on your behalf.</p>
@@ -70,12 +70,12 @@ plan.</p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
 distributed when you pass on.</p>
-<p><strong>How it protects loved ones:</strong> Ensures your CPF savings are
-distributed swiftly and conveniently, providing financial security for
+<p><strong>How it protects loved ones:</strong> Ensure your CPF savings are
+distributed swiftly and conveniently, and provide financial security for
 your family and/or loved ones.
-<br><strong>Purpose:</strong> Disburses your CPF savings to beneficiaries you
-choose, swiftly and conveniently.
-<br><strong>What you need:</strong>
+<br>
+</p>
+<p><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
