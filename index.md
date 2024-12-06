@@ -52,7 +52,8 @@ sections:
       image: /images/img_logo.png
       alt: Image alt text
   - infobar:
-      title: Take Our Quiz [testing]
+      title: Take our quiz!
       id: infobar
       description: <div data-tf-live="01JED733N5KMJAC5C510BK4KMQ"></div>
+      subtitle: Not sure what to start with?
 ---
