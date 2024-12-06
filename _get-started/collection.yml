@@ -1,5 +1,5 @@
 collections:
-  get-started-overview:
+  get-started:
     output: true
     order:
       - What's the difference between the tools?.md
