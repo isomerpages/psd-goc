@@ -41,7 +41,7 @@ sections:
         src="https://www.youtube.com/embed/IaUGJW5OaF0?si=2eUd0N5MZmsVJII1"
         style="aspect-ratio: 16 / 9; height: auto;" height="0"
         width="100%"></iframe>'
-      title: Plan Your Legacy Today
+      title: Plan your legacy today
   - textcards:
       title: Here are resources to guide you on your journey
       subtitle: It's easy to start
