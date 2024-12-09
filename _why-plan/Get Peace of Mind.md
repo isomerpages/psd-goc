@@ -18,9 +18,10 @@ and hello to peace of mind for the road ahead.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
 <p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
-healthcare preferences have been communicated and will be respected.
-<br><strong>Purpose:</strong> Outlines your healthcare preferences should you
-lose mental capacity.
+healthcare preferences have been communicated to your loved ones and decisions
+made will be in your best interest.
+<br><strong>Purpose:</strong> Outlines your future healthcare preferences should
+you lose mental capacity.
 <br><strong>What you need:</strong>
 </p>
 <ul data-tight="true" class="tight">
