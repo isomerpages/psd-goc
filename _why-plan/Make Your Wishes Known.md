@@ -17,11 +17,11 @@ leaving no room for doubt. Take the first step to shape the future on your
 terms.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>How It Makes Your Wishes Known:</strong> Ensures decisions are
-made by someone you trust should you lose mental capacity.
-<br><strong>Purpose:</strong> Allows you to appoint someone you trust to make
-decisions on your behalf if you lose the mental capacity to do so.
-<br><strong>What to do:</strong>
+<p><strong>Purpose: </strong>Allows you to appoint someone you trust to make
+decisions on your behalf if you lose the mental capacity to do so.</p>
+<p><strong>How It Makes Your Wishes Known: </strong>Ensures decisions are
+made by someone you trust should you lose mental capacity.</p>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,11 +41,11 @@ your trusted persons.</p>
 <p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>Purpose:</strong> Records your healthcare preferences for potential
+end-of-life or mental incapacity situations.</p>
 <p><strong>How It Makes Your Wishes Known:</strong> Makes your medical preferences
-explicit, so that they may be honoured.
-<br><strong>Purpose:</strong> Records your healthcare preferences for potential
-end-of-life or mental incapacity situations.
-<br><strong>What to do:</strong>
+explicit, so that they may be honoured.</p>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -64,16 +64,16 @@ plan.</p>
 <p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
+<p><strong>Purpose:</strong> Specifies who will receive your CPF savings.</p>
 <p><strong>How It Makes Your Wishes Known:</strong> Clearly communicates your
-intended beneficiaries, avoiding misinterpretation.
-<br><strong>Purpose:</strong> Specifies who will receive your CPF savings.
-<br><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
+intended beneficiaries, avoiding misinterpretation.</p>
+<p><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
+<p><strong>Purpose:</strong> Documents the distribution of your estate and
+guardianship of dependents.</p>
 <p><strong>How It Makes Your Wishes Known:</strong> Leaves no doubt about
-how you want your assets and responsibilities handled after your passing.
-<br><strong>Purpose:</strong> Documents the distribution of your estate and
-guardianship of dependents.
-<br><strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
+how you want your assets and responsibilities handled after your passing.</p>
+<p><strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
