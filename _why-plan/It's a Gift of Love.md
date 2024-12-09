@@ -16,11 +16,11 @@ love not just through words, but through meaningful actions that will resonate
 for years to come.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>Purpose:</strong> Allows you to appoint someone you trust to make
+decisions on your behalf if you lose the mental capacity to do so.</p>
 <p><strong>How It Becomes a Gift of Love:</strong> Demonstrate trust and love
-by appointing your trusted person to make important decsions for you.
-<br><strong>Purpose:</strong> Allows you to appoint someone you trust to make
-decisions on your behalf if you lose the mental capacity to do so.
-<br><strong>What to do:</strong>
+by appointing your trusted person to make important decsions for you.</p>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,12 +40,12 @@ your trusted persons.</p>
 <p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>Purpose:</strong> Shares your healthcare values and preferences
+with loved ones.</p>
 <p><strong>How It Becomes a Gift of Love:</strong> Offers guidance on your
 healthcare preferences to your family during emotionally challenging times,
-easing their burden.
-<br><strong>Purpose:</strong> Shares your healthcare values and preferences
-with loved ones.
-<br><strong>What to do:</strong>
+easing their burden.</p>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -64,17 +64,17 @@ plan.</p>
 <p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
+<p><strong>Purpose:</strong> Ensures your CPF savings go to the right people
+without delays.</p>
 <p><strong>How It Becomes a Gift of Love:</strong> Gives assurance that your
-retirement savings will benefit those you care about.
-<br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
-without delays.
-<br><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
+retirement savings will benefit those you care about.</p>
+<p><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
+<p><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
+after death.</p>
 <p><strong>How It Becomes a Gift of Love: </strong>Ensures clarity and reduces
-uncertainty about the handling of your assets and responsibilities.
-<br><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
-after death.
-<br><strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
+uncertainty about the handling of your assets and responsibilities.</p>
+<p><strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
