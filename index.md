@@ -60,10 +60,6 @@ sections:
             loved ones.
           linktext: Learn more
           url: /protect-your-loved-ones/
-  - resources:
-      title: Here are some resources to start you on your journey
-      subtitle: We’re here to help
-      id: resources
   - infobar:
       id: infobar
       description: '<iframe title="Embedded Form" style="width: 100%; height: 750px;
