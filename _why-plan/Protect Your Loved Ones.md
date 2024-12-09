@@ -84,14 +84,6 @@ are to be distributed, and who to take care of your dependants after your
 death.</p>
 <p><strong>How it protects loved ones:</strong> Ensures your loved ones are
 provided for when you have passed on.</p>
-<p><strong>What to do:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Make an appointment with a lawyer or draft your own will.</p>
-</li>
-</ul>
-<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">HOW TO WRITE A WILL</a>
-<br><a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/" rel="noopener nofollow" target="_blank">ATTEND A LEGAL CLINIC</a>
+<p>Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 <br><a href="https://www.youtube.com/watch?v=QhbWwXA2xK4" rel="noopener nofollow" target="_blank">WATCH A WEBINAR</a>
 </p>
