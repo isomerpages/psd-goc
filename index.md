@@ -54,7 +54,7 @@ sections:
         - title: Step-by-step guide
           description: It only takes a few minutes to start planning for the unexpected.
           linktext: Learn more
-          url: /it-s-easy-to-get-started/
+          url: /its-easy-to-get-started/
         - title: 5 reasons to start planning
           description: Make your wishes known. Avoid delays and disputes. Protect your
             loved ones.

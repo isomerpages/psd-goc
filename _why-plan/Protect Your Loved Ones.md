@@ -18,19 +18,19 @@ with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoint trusted persons to make decisions on
 your behalf in the event that you lose mental capacity.</p>
-<p><strong>How it protects loved ones:</strong> Ensure your loved ones have
-the legal right to make decisions on your care and access your financial
-accounts to manage daily expenses.</p>
+<p><strong>How it protects loved ones:</strong> Ensures your loved ones have
+the legal right to make personal welfare decisions for you and access your
+financial accounts to manage daily expenses.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
-minutes).</p>
+<p>Step 1 - Decide who you would be appointing as your Donee(s) and complete
+a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
+minutes)</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
-certify your LPA.</p>
+<p>Step 2 - Schedule an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to certify your LPA.</p>
 </li>
 <li>
 <p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
@@ -42,12 +42,11 @@ your trusted persons.</p>
 </p>
 <p></p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Document your healthcare preferences in case
-you lose mental capacity.</p>
-<p><strong>How it protects loved ones: </strong>Give clarity to your loved
-ones on how to care for you when you are not able to speak for yourself.
-This will reduce the stress they may experience from making medical and
-other decisions on your behalf.</p>
+<p><strong>Purpose:</strong> Documents your future healthcare preferences
+in case you lose mental capacity.</p>
+<p><strong>How it protects loved ones: </strong>Gives clarity to your loved
+ones on your healthcare preferences, reducing the stress they experience
+from making medical decsions on your behalf.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -70,8 +69,8 @@ plan.</p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
 distributed when you pass on.</p>
-<p><strong>How it protects loved ones:</strong> Ensure your CPF savings are
-distributed swiftly and conveniently in cash, and provide financial security
+<p><strong>How it protects loved ones:</strong> Ensures your CPF savings are
+distributed swiftly and conveniently in cash, providing financial security
 for your loved ones. Without a CPF nomination, it can take up to six months
 for the Public Trustee’s Office to identify which of your family members
 are eligible to claim your savings.</p>
@@ -82,16 +81,7 @@ minutes).</p>
 <p><strong>Purpose:</strong> Specify how your money, property and possessions
 are to be distributed, and who to take care of your dependants after your
 death.</p>
-<p><strong>How it protects loved ones:</strong> Ensure your loved ones are
+<p><strong>How it protects loved ones:</strong> Ensures your loved ones are
 provided for when you have passed on.</p>
-<p><strong>What to do:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Make an appointment with a lawyer or draft your own will.</p>
-</li>
-</ul>
-<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">HOW TO WRITE A WILL</a>
-<br><a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/" rel="noopener nofollow" target="_blank">ATTEND A LEGAL CLINIC</a>
-<br><a href="https://www.youtube.com/watch?v=QhbWwXA2xK4" rel="noopener nofollow" target="_blank">WATCH A WEBINAR</a>
+<p>Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
