@@ -19,10 +19,11 @@ the step to prevent conflict and safeguard your loved ones’ future.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>How It Avoids Delays &amp; Disputes: </strong>Ensure your loved
-ones have immediate access to your savings should you lose mental capacity,
+ones have quick access to your savings should you lose mental capacity,
 preventing conflict over how and who should manage your affairs.
-<br><strong>Purpose:</strong> Names someone you trust to make decisions for
-you when necessary.
+<br><strong>Purpose:</strong> Allows you to appoint someone you trust to make
+decisions in your personal welfare and property &amp; affairs matters if
+you lose the mental capacity to do so.
 <br><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
