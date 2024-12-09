@@ -71,33 +71,13 @@ plan.</p>
 CPF savings will benefit those you care about.
 <br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
 without delays.
-<br><strong>What you need:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>5 minutes to complete the process</p>
-</li>
-<li>
-<p>2 witnesses for your nomination</p>
-</li>
-</ul>
-<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-cpf-nomination/" rel="noopener nofollow" target="_blank">READ MORE ON CPF NOMINATIONS</a>
-<br><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">MAKE A CPF NOMINATION</a>
-</p>
+<br><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
+minutes).</p>
 <h4><strong>Will</strong></h4>
 <p><strong>How It Brings Peace of Mind:</strong> Ensures clarity and reduces
 uncertainty about the handling of your assets and responsibilities.
 <br><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
-after death.
-<br><strong>What you need:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2 to 3 hours to make an appointment with a lawyer or draft your own Will</p>
-</li>
-</ul>
-<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">HOW TO WRITE A WILL</a>
-<br><a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore/" rel="noopener nofollow" target="_blank">ATTEND A LEGAL CLINIC</a>
-<br><a href="https://www.youtube.com/watch?v=QhbWwXA2xK4" rel="noopener nofollow" target="_blank">WATCH A WEBINAR</a>
+after death.</p>
+<p>Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
