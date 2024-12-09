@@ -17,11 +17,11 @@ and that your family will be taken care of. Say goodbye to uncertainty
 and hello to peace of mind for the road ahead.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
+<p><strong>Purpose: </strong>Appoints a trusted individual to make decisions
+on your behalf in the case of mental incapacity.</p>
 <p><strong>How It Brings Peace of Mind:</strong> Reduces worries about the
 future by knowing someone you trust has been given the right to act in
-your best interests.
-<br><strong>Purpose:</strong> Appoints a trusted individual to make decisions
-on your behalf in the case of mental incapacity.</p>
+your best interests.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -42,11 +42,11 @@ your trusted persons.</p>
 <p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>Purpose:</strong> Outlines your future healthcare preferences should
+you lose mental capacity.</p>
 <p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
 healthcare preferences have been communicated to your loved ones and decisions
-made will be in your best interest.
-<br><strong>Purpose:</strong> Outlines your future healthcare preferences should
-you lose mental capacity.</p>
+made will be in your best interest.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -66,17 +66,18 @@ plan.</p>
 <p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
+<p><strong>Purpose:</strong> Ensures your CPF savings go to the right people
+without delays.</p>
 <p><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
 CPF savings will benefit those you care about.
-<br><strong>Purpose:</strong> Ensures your CPF savings go to the right people
-without delays.
+<br>
 <br><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
-<p><strong>How It Brings Peace of Mind:</strong> Ensures clarity and reduces
-uncertainty about the handling of your assets and responsibilities.
-<br><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
+<p><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
 after death.</p>
+<p><strong>How It Brings Peace of Mind:</strong> Ensures clarity and reduces
+uncertainty about the handling of your assets and responsibilities.</p>
 <p>Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
