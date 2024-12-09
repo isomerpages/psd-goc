@@ -30,8 +30,7 @@ a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofol
 minutes)</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to certify your
-LPA.</p>
+<p>Step 2 - Schedule an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to certify your LPA.</p>
 </li>
 <li>
 <p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
@@ -85,5 +84,4 @@ death.</p>
 <p><strong>How it protects loved ones:</strong> Ensures your loved ones are
 provided for when you have passed on.</p>
 <p>Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
-<br><a href="https://www.youtube.com/watch?v=QhbWwXA2xK4" rel="noopener nofollow" target="_blank">WATCH A WEBINAR</a>
 </p>
