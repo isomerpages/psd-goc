@@ -17,10 +17,10 @@ leaving no room for doubt. Take the first step to shape the future on your
 terms.</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>How It Makes Your Wishes Known:</strong> Ensures decisions made
-on your behalf align with who you choose and trust during mental incapacity.
-<br><strong>Purpose:</strong> Appoints a trusted person to act on your behalf
-if you cannot.
+<p><strong>How It Makes Your Wishes Known:</strong> Ensures decisions are
+made by someone you trust should you lose mental capacity.
+<br><strong>Purpose:</strong> Allows you to appoint someone you trust to make
+decisions on your behalf if you lose the mental capacity to do so.
 <br><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -44,7 +44,7 @@ your trusted persons.</p>
 <p><strong>How It Makes Your Wishes Known:</strong> Makes your medical preferences
 explicit, so that they may be honoured.
 <br><strong>Purpose:</strong> Records your healthcare preferences for potential
-end-of-life situations.
+end-of-life or mental incapacity situations.
 <br><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
