@@ -16,50 +16,55 @@ roadmap, you’ll feel confident knowing that your wishes will be honoured
 and that your family will be taken care of. Say goodbye to uncertainty
 and hello to peace of mind for the road ahead.</p>
 <h3>Take action today with any of the four tools below:</h3>
-<h4><strong>Advance Care Plan (ACP)</strong></h4>
-<p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
-healthcare preferences have been communicated to your loved ones and decisions
-made will be in your best interest.
-<br><strong>Purpose:</strong> Outlines your future healthcare preferences should
-you lose mental capacity.
-<br><strong>What you need:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>15-30 minutes to prepare your healthcare preferences using our online
-guide</p>
-</li>
-<li>
-<p>10 minutes to schedule an appointment with a facilitator and register
-your ACP online</p>
-</li>
-<li>
-<p>ACP facilitation sessions typically takes 1-2 hours.</p>
-</li>
-</ul>
-<p><a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">GUIDE TO MAKING AN ACP</a>
-<br><a href="https://form.gov.sg/65487f80a29446001218159e" rel="noopener nofollow" target="_blank">COMPLETE AN ONLINE DRAFT ACP</a>
-<br><a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">FIND A FACILITATOR</a>
-</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>How It Brings Peace of Mind:</strong> Reduces worries about the
 future by knowing someone you trust has been given the right to act in
 your best interests.
 <br><strong>Purpose:</strong> Appoints a trusted individual to make decisions
-on your behalf in the case of mental incapacity.
-<br><strong>What you need:</strong>
+on your behalf in the case of mental incapacity.</p>
+<p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 minutes to fill up the LPA application.</p>
+<p>Step 1 - Decide who you would be appointing as your Donee(s) and complete
+a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
+minutes)</p>
 </li>
 <li>
-<p>Schedule an appointment with a Certificate Issuer.</p>
+<p>Step 2 - Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
+certify your LPA.</p>
+</li>
+<li>
+<p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
+the purpose of the LPA and the scope of authority you have conferred on
+your trusted persons.</p>
 </li>
 </ul>
-<p><a href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney" rel="noopener nofollow" target="_blank">READ MORE ABOUT AN LPA</a>
-<br><a href="https://mylegacy.life.gov.sg/find-a-service/lpa" rel="noopener nofollow" target="_blank">FILL UP THE LPA APPLICATION</a>
-<br><a href="https://book.health.gov.sg/lpa" rel="noopener nofollow" target="_blank">FIND A CERTIFICATE ISSUER</a>
+<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+</p>
+<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
+healthcare preferences have been communicated to your loved ones and decisions
+made will be in your best interest.
+<br><strong>Purpose:</strong> Outlines your future healthcare preferences should
+you lose mental capacity.</p>
+<p><strong>What to do:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Step 1 - Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (30
+minutes).</p>
+</li>
+<li>
+<p>Step 2 - Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
+register your plan.</p>
+</li>
+<li>
+<p>Step 3 - Meet your ACP facilitator online or in person to discuss your
+plan.</p>
+</li>
+</ul>
+<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>How It Brings Peace of Mind:</strong> Gives assurance that your
