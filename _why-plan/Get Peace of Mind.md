@@ -31,8 +31,7 @@ a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofol
 minutes)</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with a <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
-certify your LPA.</p>
+<p>Step 2 - Schedule an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to certify your LPA.</p>
 </li>
 <li>
 <p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
