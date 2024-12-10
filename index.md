@@ -51,15 +51,15 @@ sections:
           description: What's the difference between our 4 tools, and do you need all 4?
           linktext: Learn more
           url: /whats-the-difference-between-the-tools/
-        - title: Step-by-step guide
-          description: It only takes a few minutes to start planning for the unexpected.
-          linktext: Learn more
-          url: /its-easy-to-get-started/
         - title: 5 reasons to start planning
           description: Make your wishes known. Avoid delays and disputes. Protect your
             loved ones.
           linktext: Learn more
           url: /protect-your-loved-ones/
+        - title: Step-by-step guide
+          description: It only takes a few minutes to start planning for the unexpected.
+          linktext: Learn more
+          url: /its-easy-to-get-started/
   - infobar:
       id: infobar
       description: '<iframe title="Embedded Form" style="width: 100%; height: 750px;
