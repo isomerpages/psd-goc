@@ -21,7 +21,7 @@ for yourself.</p>
 <p>The <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney</a> (LPA)
 gives one or more persons you choose and trust the legal right to make
 decisions on your behalf when necessary. These decisions cover your personal
-welfare, property and bank accounts.</p>
+welfare, property and finances.</p>
 </li>
 </ul>
 <p>Choose the same trusted persons to speak on your behalf in both your LPA
