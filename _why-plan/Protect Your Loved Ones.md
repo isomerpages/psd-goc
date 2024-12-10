@@ -70,10 +70,10 @@ plan.</p>
 <p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
 distributed when you pass on.</p>
 <p><strong>How it protects loved ones:</strong> Ensure your CPF savings are
-distributed swiftly and conveniently in cash, providing financial security
-for your loved ones. Without a CPF nomination, it can take up to six months
-for the Public Trustee’s Office to identify which of your family members
-are eligible to claim your savings.</p>
+distributed swiftly and conveniently in cash, and provide your loved ones
+with financial security. Without a CPF nomination, it can take up to six
+months for the Public Trustee’s Office to identify which of your family
+members are eligible to claim your savings.</p>
 <p><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <p></p>
