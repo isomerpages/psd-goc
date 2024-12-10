@@ -4,7 +4,10 @@ permalink: /whats-the-difference-between-the-tools/
 variant: tiptap
 description: ""
 ---
-<p>The four tools work together to address two types of situations.</p>
+<p>Legacy planning involves documenting your preferences and decisions on
+various matters pertaining to your care, welfare, finances, etc. so that
+these are known and respected if you lose mental capacity or pass on.</p>
+<p>Our four tools work together to address two types of situations.</p>
 <p><strong>If you lose mental capacity</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -18,7 +21,7 @@ for yourself.</p>
 <p>The <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">Lasting Power of Attorney</a> (LPA)
 gives one or more persons you choose and trust the legal right to make
 decisions on your behalf when necessary. These decisions cover your personal
-welfare, property and bank accounts.</p>
+welfare, property and finances.</p>
 </li>
 </ul>
 <p>Choose the same trusted persons to speak on your behalf in both your LPA
@@ -37,8 +40,8 @@ your CPF savings are distributed according to your wishes. It also allows
 your loved ones to quickly receive your CPF savings upon your death. Without
 a CPF nomination, it can take up to six months for the Public Trustee’s
 Office to identify which of your family members are eligible to claim your
-savings. An administrative fee will also be deducted from your savings.</p>
+savings.</p>
 </li>
 </ul>
-<h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today.</h4>
+<h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today. Start with our <a href="https://www.planyourlegacy.gov.sg/its-easy-to-get-started/" rel="noopener nofollow" target="_blank">Step-by-Step Guide</a>.</h4>
 <p></p>

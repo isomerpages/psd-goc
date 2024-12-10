@@ -4,7 +4,7 @@ permalink: /peace-of-mind/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Relieve your anxieties of the future today</strong></h2>
+<h2><strong>Relieve your anxieties about the future today</strong></h2>
 <p>Legacy planning ensures your wishes are honoured and your loved ones are
 provided for, freeing you from worry.</p>
 <p></p>
@@ -14,14 +14,14 @@ provided for, freeing you from worry.</p>
 <p>Planning your legacy gives you control over what lies ahead. With a clear
 roadmap, you’ll feel confident knowing that your wishes will be honoured
 and that your family will be taken care of. Say goodbye to uncertainty
-and hello to peace of mind for the road ahead.</p>
-<h3>Take action today with any of the four tools below:</h3>
+and hello to peace of mind for the road ahead. Take action today with these
+tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>Purpose: </strong>Appoints a trusted individual to make decisions
-on your behalf in the case of mental incapacity.</p>
-<p><strong>How It Brings Peace of Mind:</strong> Reduces worries about the
-future by knowing someone you trust has been given the right to act in
-your best interests.</p>
+<p><strong>Purpose: </strong>Appoint trusted persons to make decisions on
+your behalf in the event that you lose mental capacity.</p>
+<p><strong>How it brings peace of mind:</strong> Knowing someone you trust
+has been given the legal right to act in your best interests will reduce
+your worries about the future.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
