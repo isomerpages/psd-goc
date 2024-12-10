@@ -4,7 +4,7 @@ permalink: /peace-of-mind/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Relieve your anxieties of the future today</strong></h2>
+<h2><strong>Relieve your anxieties about the future today</strong></h2>
 <p>Legacy planning ensures your wishes are honoured and your loved ones are
 provided for, freeing you from worry.</p>
 <p></p>
