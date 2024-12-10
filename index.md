@@ -40,7 +40,9 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/IaUGJW5OaF0?si=2eUd0N5MZmsVJII1"
         style="aspect-ratio: 16 / 9; height: auto;" height="0"
-        width="100%"></iframe>'
+        width="100%"></iframe><br><em>Legacy planning ensures your wishes for
+        care, welfare, and finances are respected if you lose mental capacity or
+        pass on.</em>'
       title: Plan your legacy today
   - textcards:
       title: Here are resources to guide you on your journey
