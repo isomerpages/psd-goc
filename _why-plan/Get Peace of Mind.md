@@ -17,9 +17,9 @@ and that your family will be taken care of. Say goodbye to uncertainty
 and hello to peace of mind for the road ahead. Take action today with these
 tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>Purpose: </strong>Appoint a trusted individual to make decisions
-on your behalf in case of mental incapacity.</p>
-<p><strong>How It Brings Peace of Mind:</strong> Reduce worries about the
+<p><strong>Purpose: </strong>Appoint trusted persons to make decisions on
+your behalf in the event that you lose mental capacity.</p>
+<p><strong>How it brings peace of mind:</strong> Reduce worries about the
 future by knowing someone you trust has been given the right to act in
 your best interests.</p>
 <p><strong>What to do:</strong>
