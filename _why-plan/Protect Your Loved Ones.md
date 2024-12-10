@@ -42,8 +42,8 @@ your trusted persons (also known as Donees).</p>
 </p>
 <p></p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Documents your future healthcare preferences
-in case you lose mental capacity.</p>
+<p><strong>Purpose:</strong> Document your future healthcare preferences in
+case you lose mental capacity.</p>
 <p><strong>How it protects loved ones: </strong>Gives clarity to your loved
 ones on your healthcare preferences, reducing the stress they experience
 from making medical decsions on your behalf.</p>
