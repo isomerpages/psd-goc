@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.msf.gov.sg/what-we-do/opg/resources/guides
+external: https://planyourlegacy.gov.sg/files/lpa_infographic_2022.pdf
 ---

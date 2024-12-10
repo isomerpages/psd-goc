@@ -5,8 +5,10 @@ links:
   - title: Get Started
     url: /whats-the-difference-between-the-tools
     sublinks:
-      - title: 🔎 Overview
+      - title: Know the 4 Tools
         url: /whats-the-difference-between-the-tools/
+      - title: Step-by-Step Guide
+        url: its-easy-to-get-started/
       - title: "LPA: Lasting Power Of Attorney"
         url: https://mylegacy.life.gov.sg/find-a-service/lpa/
       - title: "ACP: Advance Care Planning"
@@ -24,7 +26,5 @@ links:
         url: /resources
       - title: Talk to someone
         url: https://mylegacy.life.gov.sg/find-a-service/life-planning-service/
-      - title: Contact Us
-        url: https://mylegacy.life.gov.sg/contact/
   - title: Contact Us
     url: https://mylegacy.life.gov.sg/contact/
