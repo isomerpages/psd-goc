@@ -40,7 +40,7 @@ your CPF savings are distributed according to your wishes. It also allows
 your loved ones to quickly receive your CPF savings upon your death. Without
 a CPF nomination, it can take up to six months for the Public Trustee’s
 Office to identify which of your family members are eligible to claim your
-savings. An administrative fee will also be deducted from your savings.</p>
+savings. An administrative fee will also be charged.</p>
 </li>
 </ul>
 <h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today.</h4>
