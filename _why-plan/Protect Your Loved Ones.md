@@ -26,7 +26,8 @@ financial accounts to manage daily expenses.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Step 1 - Decide who you want to appoint to make decisions on your behalf
-(known as Donees) and complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10 minutes).</p>
+and complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
+minutes).</p>
 </li>
 <li>
 <p>Step 2 - Schedule an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to certify your LPA.</p>
@@ -34,7 +35,7 @@ financial accounts to manage daily expenses.</p>
 <li>
 <p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
 the purpose of the LPA and the scope of authority you have conferred on
-your trusted persons.</p>
+your trusted persons (also known as Donees).</p>
 </li>
 </ul>
 <p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
