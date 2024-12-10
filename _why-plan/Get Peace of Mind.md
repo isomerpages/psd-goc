@@ -14,8 +14,8 @@ provided for, freeing you from worry.</p>
 <p>Planning your legacy gives you control over what lies ahead. With a clear
 roadmap, you’ll feel confident knowing that your wishes will be honoured
 and that your family will be taken care of. Say goodbye to uncertainty
-and hello to peace of mind for the road ahead.</p>
-<h3>Take action today with any of the four tools below:</h3>
+and hello to peace of mind for the road ahead. Take action today with these
+tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose: </strong>Appoints a trusted individual to make decisions
 on your behalf in the case of mental incapacity.</p>
