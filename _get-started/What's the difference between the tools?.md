@@ -43,5 +43,5 @@ Office to identify which of your family members are eligible to claim your
 savings.</p>
 </li>
 </ul>
-<h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today. Start with our <a href="https://www.planyourlegacy.gov.sg/its-easy-to-get-started/" rel="noopener nofollow" target="_blank">Step-by-Step Guide</a>. </h4>
+<h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today. Start with our <a href="https://www.planyourlegacy.gov.sg/its-easy-to-get-started/" rel="noopener nofollow" target="_blank">Step-by-Step Guide</a>.</h4>
 <p></p>
