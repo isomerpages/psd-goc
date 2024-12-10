@@ -81,7 +81,7 @@ minutes).</p>
 <p><strong>Purpose:</strong> Specify how your money, property and possessions
 are to be distributed, and who to take care of your dependants after your
 death.</p>
-<p><strong>How it protects loved ones:</strong> Ensures your loved ones are
+<p><strong>How it protects loved ones:</strong> Ensure your loved ones are
 provided for when you have passed on.</p>
 <p>Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
