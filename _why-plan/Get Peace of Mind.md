@@ -19,9 +19,9 @@ tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose: </strong>Appoint trusted persons to make decisions on
 your behalf in the event that you lose mental capacity.</p>
-<p><strong>How it brings peace of mind:</strong> Reduce worries about the
-future by knowing someone you trust has been given the right to act in
-your best interests.</p>
+<p><strong>How it brings peace of mind:</strong> Knowing someone you trust
+has been given the legal right to act in your best interests will reduce
+your worries about the future.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
