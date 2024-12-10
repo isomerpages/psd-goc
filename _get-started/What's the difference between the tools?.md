@@ -4,6 +4,9 @@ permalink: /whats-the-difference-between-the-tools/
 variant: tiptap
 description: ""
 ---
+<p>Legacy planning involves documenting your preferences and decisions on
+various matters pertaining to your care, welfare, finances, etc. so that
+these are known and respected if you lose mental capacity or pass on.</p>
 <p>The four tools work together to address two types of situations.</p>
 <p><strong>If you lose mental capacity</strong>
 </p>
