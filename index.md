@@ -47,8 +47,8 @@ sections:
       subtitle: It's easy to start
       id: textcards
       cards:
-        - title: Know the difference
-          description: Why start with these 4 tools?
+        - title: What is legacy panning?
+          description: What's the difference between our 4 tools, and do you need all 4?
           linktext: Learn more
           url: /whats-the-difference-between-the-tools/
         - title: Step-by-step guide
