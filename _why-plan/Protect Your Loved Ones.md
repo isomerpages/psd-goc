@@ -18,7 +18,7 @@ with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoint trusted persons to make decisions on
 your behalf in the event that you lose mental capacity.</p>
-<p><strong>How it protects loved ones:</strong> Ensures your loved ones have
+<p><strong>How it protects loved ones:</strong> Ensure your loved ones have
 the legal right to make personal welfare decisions for you and access your
 financial accounts to manage daily expenses.</p>
 <p><strong>What to do:</strong>
