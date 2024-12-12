@@ -49,7 +49,7 @@ sections:
       subtitle: It's easy to start
       id: textcards
       cards:
-        - title: What is legacy panning?
+        - title: What is legacy planning?
           description: What's the difference between our 4 tools, and do you need all 4?
           linktext: Learn more
           url: /whats-the-difference-between-the-tools/
