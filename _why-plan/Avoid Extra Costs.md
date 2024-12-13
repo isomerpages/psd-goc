@@ -63,7 +63,7 @@ the purpose of the LPA and the scope of authority you have conferred on
 your trusted persons.</p>
 </li>
 </ul>
-<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Document your medical preferences for future
@@ -103,7 +103,7 @@ register your plan.</p>
 plan.</p>
 </li>
 </ul>
-<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose: </strong>Directs your CPF savings to specific individuals.</p>
@@ -129,7 +129,7 @@ depending on the complexity.</p>
 your family.</p>
 </li>
 </ul>
-<p><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
+<p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
 <p><strong>Purpose:</strong> Outlines how your assets are to be distributed
@@ -158,6 +158,6 @@ services.</p>
 distribution.</p>
 </li>
 </ul>
-<p><strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
+<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
