@@ -13,7 +13,7 @@ prolonged decision-making. Taking action now can save significant costs
 and safeguard their future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="avoid delays and disputes" src="/images/img_will_update.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="protect your loved ones" src="/images/protect_your_loved_one.jpg">
 </div>
 <p></p>
 <h3>Take action today with any of the four tools below:</h3>
