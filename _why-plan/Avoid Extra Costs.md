@@ -151,8 +151,7 @@ services.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dying without a will (intestate): Court proceedings and legal fees may
-cost <strong>$2,000 to $10,000 or more</strong>.</p>
+<p>Dying without a will: Court proceedings and legal fees may cost <strong>$2,000 to $10,000 or more</strong>.</p>
 </li>
 <li>
 <p>Family disputes can lead to additional legal fees and delays in asset
