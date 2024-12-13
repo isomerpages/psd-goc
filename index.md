@@ -38,7 +38,7 @@ sections:
       description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/IaUGJW5OaF0?si=2eUd0N5MZmsVJII1"
+        src="https://www.youtube.com/embed/HEotqRxSCbc?si=7AjOFidBO7kPbQ-e"
         style="aspect-ratio: 16 / 9; height: auto;" height="0"
         width="100%"></iframe><br><em>Legacy planning ensures your wishes for
         care, welfare, and finances are respected if you lose mental capacity or
@@ -49,7 +49,7 @@ sections:
       subtitle: It's easy to start
       id: textcards
       cards:
-        - title: What is legacy panning?
+        - title: What is legacy planning?
           description: What's the difference between our 4 tools, and do you need all 4?
           linktext: Learn more
           url: /whats-the-difference-between-the-tools/
