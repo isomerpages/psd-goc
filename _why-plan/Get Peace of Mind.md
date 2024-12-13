@@ -78,6 +78,6 @@ minutes).</p>
 after death.</p>
 <p><strong>How It Brings Peace of Mind:</strong> Ensures clarity and reduces
 uncertainty about the handling of your assets and responsibilities.</p>
-<p>➡️ Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
+<p>➡️ <strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
