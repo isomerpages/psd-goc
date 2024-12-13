@@ -2,5 +2,4 @@ collections:
   find-help:
     output: true
     order:
-      - Talk To Somebody.md
       - Frequently Asked Questions.md
