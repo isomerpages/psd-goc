@@ -23,7 +23,7 @@ your personal welfare, property, and affairs if you lose mental capacity.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Quickly grant loved
 ones access to your savings and avoid costly legal disputes over who should
 manage your affairs.</p>
-<p><strong>Costs Now:</strong>
+<p><strong>How Much It Costs Now:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,7 +35,7 @@ manage your affairs.</p>
 on the issuer.</p>
 </li>
 </ul>
-<p><strong>Potential Costs Later:</strong>
+<p><strong>What If You Don't Do It?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -70,14 +70,19 @@ your trusted persons.</p>
 scenarios.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Clarifies your preferences,
 reducing misunderstandings and potentially costly prolonged treatments.</p>
-<p><strong>Costs Now:</strong>
+<p><strong>How Much It Costs Now:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Consultation with an ACP facilitator: <strong>Free</strong> at most hospitals.</p>
+<p>The process of ACP is free, although some providers may charge a nominal
+fee for facilitating an ACP, so do ask about any fees in advance.</p>
+</li>
+<li>
+<p>You may visit&nbsp;<a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener" target="_blank"><u>the ACP Directory</u></a>&nbsp;for
+a list of ACP providers.</p>
 </li>
 </ul>
-<p><strong>Potential Costs Later:</strong>
+<p><strong>What If You Don't Do It?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,14 +115,14 @@ plan.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Ensure your loved ones
 receive your CPF savings quickly, preventing disputes and additional administrative
 costs.</p>
-<p><strong>Costs Now:</strong>
+<p><strong>How Much It Costs Now:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Free</strong> for CPF members.</p>
 </li>
 </ul>
-<p><strong>Potential Costs Later:</strong>
+<p><strong>What If You Don't Do It?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -136,7 +141,7 @@ minutes).</p>
 and dependents cared for.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Clearly state your
 intentions to ensure quick asset distribution and prevent costly disputes.</p>
-<p><strong>Costs Now:</strong>
+<p><strong>How Much It Costs Now:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -147,7 +152,7 @@ services.</p>
 <p>More complex wills may cost <strong>$1,000 or more</strong>.</p>
 </li>
 </ul>
-<p><strong>Potential Costs Later:</strong>
+<p><strong>What If You Don't Do It?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
