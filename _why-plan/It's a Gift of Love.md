@@ -40,7 +40,8 @@ your trusted persons (also known as Donees).</p>
 </p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Communicate your healthcare and personal care
-preferences for when you lose mental capacity or cannot speak for yourself.</p>
+preferences for a situation when you lose mental capacity or cannot speak
+for yourself.</p>
 <p><strong>How it becomes a gift of love:</strong> Provide your family guidance
 during emotionally challenging times, easing their burden.</p>
 <p><strong>What to do:</strong>
