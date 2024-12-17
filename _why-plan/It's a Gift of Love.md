@@ -38,9 +38,9 @@ your trusted persons (also known as Donees).</p>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
-<h4><strong>Advance Care Plan (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Shares your healthcare values and preferences
-with loved ones.</p>
+<h4><strong>Advance Care Planning (ACP)</strong></h4>
+<p><strong>Purpose:</strong> Communicate your healthcare and personal care
+preferences when you can't speak for yourself.</p>
 <p><strong>How It Becomes a Gift of Love:</strong> Offers guidance on your
 healthcare preferences to your family during emotionally challenging times,
 easing their burden.</p>
