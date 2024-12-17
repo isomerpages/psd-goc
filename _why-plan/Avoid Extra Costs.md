@@ -65,7 +65,6 @@ funds.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
