@@ -65,29 +65,7 @@ funds.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Cost of planning:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>LPA application fee: <strong>$75 (waived for Singaporeans)</strong>
-</p>
-</li>
-<li>
-<p>Certification by Certificate Issuer: <strong>$25 to $80</strong>, depending
-on the issuer.</p>
-</li>
-</ul>
-<p><strong>Cost of not planning:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Court applications to appoint a deputy if no LPA is in place: <strong>$3,000 to $10,000 or more</strong>.</p>
-</li>
-<li>
-<p>Additional legal and administrative fees due to delays in accessing your
-funds.</p>
-</li>
-</ul>
+<p></p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
