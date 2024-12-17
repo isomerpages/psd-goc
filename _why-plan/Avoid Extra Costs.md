@@ -19,9 +19,11 @@ costs and safeguard their future. Take action today with one of these tools.</p>
 <p><strong>Purpose:</strong> Appoint someone you trust to make decisions regarding
 your personal welfare, property and affairs in the event that you lose
 mental capacity.</p>
-<p><strong>How it reduces extra costs: </strong>Avoid costly legal disputes
-over who should manage your affairs. Grant your loved ones the legal right
-to access your savings if necessary to manage daily expenses.</p>
+<p><strong>How it reduces extra costs: </strong>Without an LPA in place,<strong> </strong>those
+caring for you will have to apply for the legal right to manage your affairs.
+In the event that they are unable to manage daily expenses, they will have
+to apply for the right to access your savings. Avoid costly court applications
+and legal disputes over who should manage your affairs.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
