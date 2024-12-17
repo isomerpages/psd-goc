@@ -20,37 +20,22 @@ costs and safeguard their future. Take action today with one of these tools.</p>
 your personal welfare, property and affairs in the event that you lose
 mental capacity.</p>
 <p><strong>How it reduces extra costs: </strong>Without an LPA in place,<strong> </strong>those
-caring for you will have to apply for the legal right to manage your affairs.
-In the event that they are unable to manage daily expenses, they will have
-to apply for the right to access your savings. Avoid costly court applications
+caring for you will have to apply for the legal right to manage your affairs
+and access your savings to fund daily expenses. Avoid costly court applications
 and legal disputes over who should manage your affairs.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Cost of planning</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Cost of not planning</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><strong>Cost of planning:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>LPA application fee: <strong>$75 (waived for Singaporeans)</strong>.</p>
+<p>LPA application fee - <strong>$75 (waived for Singaporeans)</strong>.</p>
 </li>
 <li>
-<p>Certification by Certificate Issuer: <strong>$25 to $80</strong>, depending
+<p>Certification by Certificate Issuer - <strong>$25 to $80</strong>, depending
 on the issuer.</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Cost of not planning:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Court applications to appoint a deputy if no LPA is in place: <strong>$3,000 to $10,000 or more</strong>.</p>
@@ -60,10 +45,6 @@ on the issuer.</p>
 funds.</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -83,7 +64,7 @@ your trusted persons.</p>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
-<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Document your medical preferences for future
 scenarios.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Clarifies your preferences,
