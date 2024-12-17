@@ -23,8 +23,8 @@ you and those you cherish when you are unable to do so.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Decide who you would be appointing as your Donee(s) and complete
-a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
+<p>Step 1 - Decide who you want to appoint to make decisions on your behalf
+and complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
 minutes)</p>
 </li>
 <li>
@@ -33,7 +33,7 @@ minutes)</p>
 <li>
 <p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
 the purpose of the LPA and the scope of authority you have conferred on
-your trusted persons.</p>
+your trusted persons (also known as Donees).</p>
 </li>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
