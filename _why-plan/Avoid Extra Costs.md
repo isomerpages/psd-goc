@@ -5,18 +5,16 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Avoid Extra Costs. Plan Ahead.</strong></h2>
-<p>Legacy planning preserves harmony and helps avoid unnecessary costs by
-ensuring quick access to funds and reducing the financial and emotional
-toll of delays and disputes. Without proper planning, your loved ones may
-face high legal fees, administrative charges, and medical costs due to
-prolonged decision-making. Taking action now can save significant costs
-and safeguard their future.</p>
+<p>Legacy planning allows you and your loved ones to avoid unnecessary costs,
+and reduce the financial and emotional toll of delays and disputes.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="protect your loved ones" src="/images/protect_your_loved_one.jpg">
 </div>
 <p></p>
-<h3>Take action today with any of the four tools below:</h3>
+<p>Without legacy planning, your loved ones may face high legal fees, administrative
+charges, and medical costs due to prolonged decision-making. Save significant
+costs and safeguard their future. Take action today with one of these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoint someone you trust to make decisions regarding
 your personal welfare, property, and affairs if you lose mental capacity.</p>
