@@ -42,7 +42,7 @@ your trusted persons (also known as Donees).</p>
 <p><strong>Purpose:</strong> Communicate your healthcare and personal care
 preferences in the event that you lose mental capacity or cannot speak
 for yourself.</p>
-<p><strong>How it becomes a gift of love:</strong> Provides your family guidance
+<p><strong>How it becomes a gift of love:</strong> Provide your family guidance
 during emotionally challenging times, easing their burden.</p>
 <p><strong>What to do:</strong>
 </p>
