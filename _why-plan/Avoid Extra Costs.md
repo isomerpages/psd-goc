@@ -21,7 +21,7 @@ your personal welfare, property and affairs in the event that you lose
 mental capacity.</p>
 <p><strong>How it reduces extra costs: </strong>Avoid costly legal disputes
 over who should manage your affairs. Grant your loved ones the legal right
-to access to your savings if needed to manage daily expenses.</p>
+to access your savings if necessary to manage daily expenses.</p>
 <p><strong>How Much It Costs Now:</strong>
 </p>
 <ul data-tight="true" class="tight">
