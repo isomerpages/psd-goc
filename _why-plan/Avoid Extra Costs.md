@@ -42,8 +42,7 @@ and legal disputes over who should manage your affairs.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>LPA application fee: <strong>$75 (waived for Singaporeans)</strong>
-</p>
+<p>LPA application fee: <strong>$75 (waived for Singaporeans)</strong>.</p>
 </li>
 <li>
 <p>Certification by Certificate Issuer: <strong>$25 to $80</strong>, depending
@@ -69,8 +68,8 @@ funds.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Decide who you would be appointing as your Donee(s) and complete
-a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
+<p>Step 1 - Decide who you want to appoint to make decisions on your behalf
+and complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
 minutes)</p>
 </li>
 <li>
