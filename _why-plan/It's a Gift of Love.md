@@ -41,7 +41,7 @@ your trusted persons (also known as Donees).</p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Communicate your healthcare and personal care
 preferences when you can't speak for yourself.</p>
-<p><strong>How It Becomes a Gift of Love:</strong> Offers guidance on your
+<p><strong>How it becomes a gift of love:</strong> Offers guidance on your
 healthcare preferences to your family during emotionally challenging times,
 easing their burden.</p>
 <p><strong>What to do:</strong>
