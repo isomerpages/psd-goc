@@ -72,8 +72,9 @@ your family members are eligible to claim your savings.</p>
 <p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
-<p><strong>Purpose:</strong> Details the allocation of your estate and responsibilities
-after death.</p>
+<p><strong>Purpose:</strong> Specify how your money, property and possessions
+are to be distributed, and who to take care of your dependants after your
+death.</p>
 <p><strong>How It Becomes a Gift of Love: </strong>Ensures clarity and reduces
 uncertainty about the handling of your assets and responsibilities.</p>
 <p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
