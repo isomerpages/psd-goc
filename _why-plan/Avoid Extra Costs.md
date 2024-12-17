@@ -22,6 +22,57 @@ mental capacity.</p>
 <p><strong>How it reduces extra costs: </strong>Avoid costly legal disputes
 over who should manage your affairs. Grant your loved ones the legal right
 to access your savings if necessary to manage daily expenses.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Cost of planning</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cost of not planning</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>LPA application fee: <strong>$75 (waived for Singaporeans)</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Court applications to appoint a deputy if no LPA is in place: <strong>$3,000 to $10,000 or more</strong>.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Certification by Certificate Issuer: <strong>$25 to $80</strong>, depending
+on the issuer.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Additional legal and administrative fees due to delays in accessing your
+funds.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Cost of planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
