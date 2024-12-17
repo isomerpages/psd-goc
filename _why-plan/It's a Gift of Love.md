@@ -11,8 +11,7 @@ and care, easing the burden on those you cherish the most.</p>
 <img style="width: 100%" height="auto" width="100%" alt="gift of love" src="/images/img_cpf_nomination_v2.jpg">
 </div>
 <p>Express your love not just through words, but through meaningful actions
-that will resonate for years to come.</p>
-<h3>Take action today with any of the four tools below:</h3>
+that will resonate for years to come. Take action today with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Allows you to appoint someone you trust to make
 decisions on your behalf if you lose the mental capacity to do so.</p>
