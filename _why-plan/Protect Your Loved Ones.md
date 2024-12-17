@@ -38,9 +38,8 @@ the purpose of the LPA and the scope of authority you have conferred on
 your trusted persons (also known as Donees).</p>
 </li>
 </ul>
-<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
-<p></p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Document your future healthcare preferences in
 case you lose mental capacity.</p>
@@ -63,7 +62,7 @@ register your plan.</p>
 plan.</p>
 </li>
 </ul>
-<p><strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <p></p>
 <h4><strong>CPF Nomination</strong></h4>
@@ -74,7 +73,7 @@ distributed swiftly and conveniently in cash, and provide your loved ones
 with financial security. Without a CPF nomination, it can take up to six
 months for the Public Trustee’s Office to identify which of your family
 members are eligible to claim your savings.</p>
-<p><strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
+<p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <p></p>
 <h4><strong>Will</strong></h4>
@@ -83,5 +82,5 @@ are to be distributed, and who to take care of your dependants after your
 death.</p>
 <p><strong>How it protects loved ones:</strong> Ensure your loved ones are
 provided for when you have passed on.</p>
-<p>Learn more about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
+<p>➡️ <strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>

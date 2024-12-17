@@ -2,8 +2,9 @@ collections:
   why-plan:
     output: true
     order:
+      - It's a Gift of Love.md
       - Protect Your Loved Ones.md
       - Get Peace of Mind.md
-      - It's a Gift of Love.md
       - Avoid Delays & Disputes.md
+      - Avoid Extra Costs.md
       - Make Your Wishes Known.md

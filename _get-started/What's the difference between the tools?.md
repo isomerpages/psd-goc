@@ -45,3 +45,8 @@ savings.</p>
 </ul>
 <h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today. Start with our <a href="https://www.planyourlegacy.gov.sg/its-easy-to-get-started/" rel="noopener nofollow" target="_blank">Step-by-Step Guide</a>.</h4>
 <p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HEotqRxSCbc?rel=0"></iframe>
+</div>
+<p></p>
+<p></p>
