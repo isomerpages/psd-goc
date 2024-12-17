@@ -66,7 +66,9 @@ plan.</p>
 <p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
 distributed when you pass on.</p>
 <p><strong>How it becomes a gift of love:</strong> Ensure your CPF savings
-go to the right people without delays.</p>
+go to the right people without delays. Without a CPF nomination, it can
+take up to 6 months for the Public Trustee’s Office to identify which of
+your family members are eligible to claim your savings.</p>
 <p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
