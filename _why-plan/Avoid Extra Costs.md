@@ -17,7 +17,8 @@ charges, and medical costs due to prolonged decision-making. Save significant
 costs and safeguard their future. Take action today with one of these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoint someone you trust to make decisions regarding
-your personal welfare, property, and affairs if you lose mental capacity.</p>
+your personal welfare, property and affairs in the event that you lose
+mental capacity.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Quickly grant loved
 ones access to your savings and avoid costly legal disputes over who should
 manage your affairs.</p>
