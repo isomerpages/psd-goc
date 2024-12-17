@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Plan your gesture of love today</strong></h2>
 <p>A well-planned legacy is a timeless act of love, offering care and easing
-burdens for your cherished ones.</p>
+burdens for those you cherish.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="gift of love" src="/images/img_cpf_nomination_v2.jpg">
 </div>
