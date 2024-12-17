@@ -63,10 +63,10 @@ plan.</p>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>Purpose:</strong> Ensure your CPF savings go to the right people
-without delays.</p>
-<p><strong>How It Becomes a Gift of Love:</strong> Gives assurance that your
-retirement savings will benefit those you care about.</p>
+<p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
+distributed when you pass on.</p>
+<p><strong>How it becomes a gift of love:</strong> Ensure your CPF savings
+go to the right people without delays.</p>
 <p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
