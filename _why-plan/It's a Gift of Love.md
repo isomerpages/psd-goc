@@ -13,10 +13,10 @@ and care, easing the burden on those you cherish the most.</p>
 <p>Express your love not just through words, but through meaningful actions
 that will resonate for years to come. Take action today with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>Purpose:</strong> Allows you to appoint someone you trust to make
-decisions on your behalf if you lose the mental capacity to do so.</p>
-<p><strong>How It Becomes a Gift of Love:</strong> Demonstrate trust and love
-by appointing your trusted person to make important decsions for you.</p>
+<p><strong>Purpose:</strong> Appoint someone you trust to make decisions on
+your behalf in the event that you lose mental capacity to do so.</p>
+<p><strong>How it becomes a gift of love:</strong> Demonstrate trust and love
+by appointing your trusted person to make important decisions for you.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
