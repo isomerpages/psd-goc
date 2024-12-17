@@ -15,9 +15,10 @@ that will resonate for years to come. Take action today with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoint someone you trust to make decisions on
 your behalf in the event that you lose mental capacity to do so.</p>
-<p><strong>How it becomes a gift of love:</strong> Lighten the burden on those
-you cherish. Ensure a trusted person has the legal right to make important
-decisions on your behalf, to care for you and those you cherish.</p>
+<p><strong>How it becomes a gift of love:</strong> Ensure those your cherish
+do not encounter unnecessary difficulties. Give them, or a trusted person,
+the legal right to make important decisions on your behalf, to care for
+you and those you cherish.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
