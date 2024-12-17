@@ -75,8 +75,9 @@ minutes).</p>
 <p><strong>Purpose:</strong> Specify how your money, property and possessions
 are to be distributed, and who to take care of your dependants after your
 death.</p>
-<p><strong>How It Becomes a Gift of Love: </strong>Ensures clarity and reduces
-uncertainty about the handling of your assets and responsibilities.</p>
+<p><strong>How it becomes a gift of love: </strong>Ensure your loved ones
+are provided for when you have passed on. Provide clarity and reduce uncertainty
+about the handling of your assets and responsibilities.</p>
 <p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
