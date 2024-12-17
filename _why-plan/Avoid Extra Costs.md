@@ -22,7 +22,7 @@ mental capacity.</p>
 <p><strong>How it reduces extra costs: </strong>Avoid costly legal disputes
 over who should manage your affairs. Grant your loved ones the legal right
 to access your savings if necessary to manage daily expenses.</p>
-<p><strong>How Much It Costs Now:</strong>
+<p><strong>Cost of planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,7 +34,7 @@ to access your savings if necessary to manage daily expenses.</p>
 on the issuer.</p>
 </li>
 </ul>
-<p><strong>What If You Don't Do It?</strong>
+<p><strong>Cost of not planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
