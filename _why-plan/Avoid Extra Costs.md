@@ -19,9 +19,9 @@ costs and safeguard their future. Take action today with one of these tools.</p>
 <p><strong>Purpose:</strong> Appoint someone you trust to make decisions regarding
 your personal welfare, property and affairs in the event that you lose
 mental capacity.</p>
-<p><strong>How it reduces extra costs: </strong>Grant loved ones the legal
-right to access to your savings and avoid costly legal disputes over who
-should manage your affairs.</p>
+<p><strong>How it reduces extra costs: </strong>Avoid costly legal disputes
+over who should manage your affairs. Grant your loved ones the legal right
+to access to your savings if needed to manage daily expenses.</p>
 <p><strong>How Much It Costs Now:</strong>
 </p>
 <ul data-tight="true" class="tight">
