@@ -50,10 +50,10 @@ your Donees.</p>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">now</a>.</strong>
 </p>
-<h4><strong>Advance Care Plan (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Records your healthcare preferences for potential
+<h4><strong>Advance Care Planning (ACP)</strong></h4>
+<p><strong>Purpose:</strong> Record your healthcare preferences for potential
 end-of-life or mental incapacity situations.</p>
-<p><strong>How It Makes Your Wishes Known:</strong> Makes your medical preferences
+<p><strong>How it makes your wishes known:</strong> Make your medical preferences
 explicit, so that they may be honoured.</p>
 <p><strong>What to do:</strong>
 </p>
@@ -74,7 +74,8 @@ plan.</p>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>Purpose:</strong> Specifies who will receive your CPF savings.</p>
+<p><strong>Purpose:</strong> Specify how you'd like your CPF savings to be
+distributed when you pass on.</p>
 <p><strong>How It Makes Your Wishes Known:</strong> Clearly communicates your
 intended beneficiaries, avoiding misinterpretation.</p>
 <p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
