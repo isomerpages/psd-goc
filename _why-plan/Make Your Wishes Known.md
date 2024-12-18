@@ -54,7 +54,9 @@ your Donees.</p>
 <p><strong>Purpose:</strong> Record your healthcare preferences for potential
 end-of-life or mental incapacity situations.</p>
 <p><strong>How it makes your wishes known:</strong> Make your medical preferences
-explicit, so that they may be honoured.</p>
+explicit, so that your doctors and those you trust can tailor your care
+and treatment in a way that respects your preferences, when you are not
+able to speak for yourself.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -76,7 +78,7 @@ plan.</p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose:</strong> Specify how you'd like your CPF savings to be
 distributed when you pass on.</p>
-<p><strong>How It Makes Your Wishes Known:</strong> Clearly communicates your
+<p><strong>How it makes your wishes known:</strong> Clearly communicates your
 intended beneficiaries, avoiding misinterpretation.</p>
 <p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
