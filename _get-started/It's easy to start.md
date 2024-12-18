@@ -2,7 +2,9 @@
 title: It's easy to start
 permalink: /its-easy-to-get-started/
 variant: tiptap
-description: ""
+description: Start your legacy planning with our step-by-step guides to making
+  your with Lasting Power of Attorney, CPF Nomination, Advance Care Planning,
+  and Will.
 ---
 <h2>Step-by-step guide</h2>
 <p>We understand that life can get hectic, and finding time to plan for the
@@ -26,7 +28,7 @@ property and bank accounts.</p>
 <h4><strong>Advance Care Planning (30 minutes to start)</strong></h4>
 <p>Share your preferences so that your doctors and those you trust can tailor
 your care and treatment accordingly, when you are not able to speak for
-yourself. It includes indicating the activities you enjoy, and worries
+yourself. This includes indicating the activities you enjoy, and worries
 you may have about your medical care.</p>
 <p>Step 1: Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a>
 </p>

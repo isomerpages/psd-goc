@@ -2,7 +2,8 @@
 title: Protect Your Loved Ones
 permalink: /protect-your-loved-ones/
 variant: tiptap
-description: ""
+description: Life is full of unexpected twists, but planning your legacy ensures
+  your loved ones are protected. Safeguard those you care about today
 ---
 <h2><strong>Safeguard those you care about</strong></h2>
 <p>Life is full of unexpected twists, but planning your legacy ensures your

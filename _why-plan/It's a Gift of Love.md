@@ -2,7 +2,9 @@
 title: It's a Gift of Love
 permalink: /gift-of-love/
 variant: tiptap
-description: ""
+description: A well-planned legacy is a lasting gift of love. It shows
+  thoughtfulness and care, easing the burden on those you cherish the most. Plan
+  your gesture of love today
 ---
 <h2><strong>Plan your gesture of love today</strong></h2>
 <p>A well-planned legacy is a lasting gift of love. It shows thoughtfulness

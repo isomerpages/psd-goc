@@ -2,7 +2,10 @@
 title: Make Your Wishes Known
 permalink: /make-your-wishes-known/
 variant: tiptap
-description: ""
+description: Your legacy is yours to define. Make sure your voice is heard, even
+  when you’re not there to speak. Planning ensures your wishes are respected,
+  leaving no room for doubt. Take the first step to shape the future on your
+  terms.
 ---
 <h2><strong>Shape your legacy, your way</strong></h2>
 <p>Define your legacy and ensure your wishes are honoured by planning for

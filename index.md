@@ -1,10 +1,9 @@
 ---
 layout: homepage
 title: Plan Your Legacy Today
-description: Plan your legacy today. Sudden death and mental incapacity can
-  happen to any of us. Yet few of us plan for these. Don’t leave your loved ones
-  struggling to pick up the pieces. Take action with Lasting Power of Attorney,
-  CPF Nomination, Advance Care Planning, and Wills.
+description: Sudden death and mental incapacity can happen to any of us. Yet few
+  of us plan for these. Don’t leave your loved ones struggling to pick up the
+  pieces. Plan your legacy today
 image: /images/logo_my_legacyv2.png
 permalink: /
 notification: ""

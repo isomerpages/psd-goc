@@ -2,7 +2,9 @@
 title: Get Peace of Mind
 permalink: /peace-of-mind/
 variant: tiptap
-description: ""
+description: Legacy planning ensures your wishes are honoured and your loved
+  ones are provided for, freeing you from worry. Relieve your anxieties about
+  the future today
 ---
 <h2><strong>Relieve your anxieties about the future today</strong></h2>
 <p>Legacy planning ensures your wishes are honoured and your loved ones are
