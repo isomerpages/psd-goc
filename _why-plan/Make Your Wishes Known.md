@@ -17,7 +17,7 @@ and purpose.</p>
 <p>Your legacy is yours to define. Make sure your voice is heard, even when
 you’re not there to speak. Planning ensures your wishes are respected,
 leaving no room for doubt. Take the first step to shape the future on your
-terms. Take action with one of these tools.</p>
+terms. Take action with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose: </strong>Allows you to appoint someone you trust to make
 decisions on your behalf if you lose the mental capacity to do so.</p>
