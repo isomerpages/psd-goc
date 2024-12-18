@@ -25,20 +25,26 @@ you and those you cherish when you are unable to do so.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Decide who you want to appoint to make decisions on your behalf
-and complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
-minutes)</p>
+<p>Step 1 - Consider who you wish to appoint as your Donee(s) and the powers
+to be granted to them.</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to certify your LPA.</p>
+<p>Step 2 - Complete the online LPA <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">form</a> (10 minutes)</p>
 </li>
 <li>
-<p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
+<p>Step 3 - Your Donee(s) will receive SMS notifications to accept the appointment(s).</p>
+</li>
+<li>
+<p>Step 4 - After your Donee(s) have accepted the appointment(s), schedule
+an appointment with a <a href="https://go.gov.sg/lpa-ci" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">Certificate Issuer</a> to certify your LPA.</p>
+</li>
+<li>
+<p>Step 5 - Meet your Certificate Issuer, who will ensure you understand
 the purpose of the LPA and the scope of authority you have conferred on
-your trusted persons (also known as Donees).</p>
+your trusted persons.</p>
 </li>
 </ul>
-<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Communicate your healthcare and personal care

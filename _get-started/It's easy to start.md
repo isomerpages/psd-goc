@@ -30,8 +30,7 @@ property and bank accounts.</p>
 your care and treatment accordingly, when you are not able to speak for
 yourself. This includes indicating the activities you enjoy, and worries
 you may have about your medical care.</p>
-<p>Step 1: Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a>
-</p>
+<p>Step 1: Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a>.</p>
 <p>Step 2: Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
 register your plan. You can meet your facilitator online or in person.</p>
 <p>➡️ <strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
