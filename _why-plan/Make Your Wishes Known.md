@@ -20,7 +20,8 @@ leaving no room for doubt. Take the first step to shape the future on your
 terms. Take action with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose: </strong>Appoint someone you trust to make decisions
-on your behalf in the event that you lose the mental capacity to do so.</p>
+on your behalf in the event that you lose the mental capacity to do so.
+These decisions cover your personal welfare, property and finances.</p>
 <p><strong>How It Makes Your Wishes Known: </strong>Ensures decisions are
 made by someone you trust should you lose mental capacity.</p>
 <p><strong>What to do:</strong>
