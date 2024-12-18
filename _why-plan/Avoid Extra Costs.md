@@ -17,17 +17,18 @@ charges, and medical costs due to prolonged decision-making. Save significant
 costs and safeguard their future. Take action today with one of these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Appoint someone you trust to make decisions regarding
-your personal welfare, property and affairs in the event that you lose
-mental capacity.</p>
+your personal welfare and property &amp; affairs matters in the event that
+you lose mental capacity.</p>
 <p><strong>How it reduces extra costs: </strong>Without an LPA in place,<strong> </strong>those
-caring for you will have to apply for the legal right to manage your affairs
-and access your savings to fund daily expenses. Avoid costly court applications
-and legal disputes over who should manage your affairs.</p>
+caring for you will have to apply to Court for a Deputyship order to manage
+your affairs and access your savings to fund daily expenses. Avoid costly
+court applications and legal disputes over who should manage your affairs.</p>
 <p><strong>Cost of planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>LPA application fee - <strong>$75 (waived for Singaporeans)</strong>.</p>
+<p>LPA application fee - <strong>$70 for Singaporeans using Form 1</strong>  <strong>(waived until 31 Mar 2026).</strong> Fees
+for other citizenship and form types can be found <a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.msf.gov.sg%2fdocs%2fdefault%2dsource%2fopg%2flpa%5ffees%5ftable.pdf&amp;umid=FF4EC07B-296E-5F06-8344-BF98DC1FF6CE&amp;auth=ce6a3f6d14c1e3e3f878a8a607dd7ee2cb794b08-d62b2a96ca615fc575b0a7e1d1d4beef0e2da318" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Certification by Certificate Issuer - <strong>$25 to $80</strong>, depending
@@ -38,11 +39,8 @@ on the issuer.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Court applications to appoint a deputy if no LPA is in place: <strong>$3,000 to $10,000 or more</strong>.</p>
-</li>
-<li>
-<p>Additional legal and administrative fees due to delays in accessing your
-funds.</p>
+<p>Court applications to appoint a deputy if you did not make an LPA: Starts
+from <strong>$3,000</strong>, if a lawyer is engaged.</p>
 </li>
 </ul>
 <p><strong>What to do:</strong>
