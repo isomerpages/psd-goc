@@ -8,8 +8,8 @@ description: Your legacy is yours to define. Make sure your voice is heard, even
   terms.
 ---
 <h2><strong>Shape your legacy, your way</strong></h2>
-<p>Define your legacy and ensure your wishes are honoured by planning for
-the future with clarity and purpose.</p>
+<p>Ensure your wishes are honoured by planning for the future with clarity
+and purpose.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/make_your_wishes_known_2.jpg">
@@ -17,8 +17,7 @@ the future with clarity and purpose.</p>
 <p>Your legacy is yours to define. Make sure your voice is heard, even when
 you’re not there to speak. Planning ensures your wishes are respected,
 leaving no room for doubt. Take the first step to shape the future on your
-terms.</p>
-<h3>Take action today with any of the four tools below:</h3>
+terms. Take action with one of these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose: </strong>Allows you to appoint someone you trust to make
 decisions on your behalf if you lose the mental capacity to do so.</p>
