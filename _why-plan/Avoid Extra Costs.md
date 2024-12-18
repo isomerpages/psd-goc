@@ -38,7 +38,7 @@ for other citizenship and form types can be found <a href="https://ddei5-0-ctp.t
 on the issuer.</p>
 </li>
 </ul>
-<p><strong>Cost of not planning:</strong>
+<p><strong>Cost of NOT planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -50,15 +50,22 @@ from <strong>$3,000</strong>, if a lawyer is engaged.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Decide who you want to appoint to make decisions on your behalf
-and complete a <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10
-minutes)</p>
+<p>Step 1 - Consider who you wish to appoint as your Donee(s) and the powers
+to be granted to them.</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to certify your LPA.</p>
+<p>Step 2 - Complete the online LPA <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">form</a> (10 minutes)</p>
 </li>
 <li>
-<p>Step 3 - Meet your Certificate Issuer, who will ensure you understand
+<p>Step 3 - Your Donee(s) will receive SMS notifications to accept the appointment(s).</p>
+</li>
+<li>
+<p>Step 4 - After your Donee(s) have accepted the appointment(s), schedule
+an appointment with a <a href="https://go.gov.sg/lpa-ci" rel="noopener nofollow" target="_blank">Certificate Issuer</a> to
+certify your LPA.</p>
+</li>
+<li>
+<p>Step 5 - Meet your Certificate Issuer, who will ensure you understand
 the purpose of the LPA and the scope of authority you have conferred on
 your trusted persons.</p>
 </li>
@@ -66,11 +73,12 @@ your trusted persons.</p>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Document your medical preferences for future
-scenarios.</p>
+<p><strong>Purpose:</strong> Document your medical and healthcare preferences
+for situations where you no longer have the mental capacity to make decisions
+or speak for yourself.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Clarifies your preferences,
 reducing misunderstandings and potentially costly prolonged treatments.</p>
-<p><strong>How Much It Costs Now:</strong>
+<p><strong>Cost of planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,7 +90,7 @@ fee for facilitating an ACP, so do ask about any fees in advance.</p>
 a list of ACP providers.</p>
 </li>
 </ul>
-<p><strong>What If You Don't Do It?</strong>
+<p><strong>Cost of NOT planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -115,19 +123,19 @@ plan.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Ensure your loved ones
 receive your CPF savings quickly, preventing disputes and additional administrative
 costs.</p>
-<p><strong>How Much It Costs Now:</strong>
+<p><strong>Cost of planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Free</strong> for CPF members.</p>
 </li>
 </ul>
-<p><strong>What If You Don't Do It?</strong>
+<p><strong>Cost of NOT planning?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unclaimed CPF savings require legal procedures that may cost <strong>$1,000 to $5,000 or more</strong>,
-depending on the complexity.</p>
+<p>Un-nominated CPF savings will be transferred to the Public Trustee for
+intestate distribution where a statutory fee will be imposed.</p>
 </li>
 <li>
 <p>Delays in accessing funds may result in additional financial strain on
@@ -141,22 +149,19 @@ minutes).</p>
 and dependents cared for.</p>
 <p><strong>How It Avoids Delays &amp; Costs: </strong>Clearly state your
 intentions to ensure quick asset distribution and prevent costly disputes.</p>
-<p><strong>How Much It Costs Now:</strong>
+<p><strong>Cost of planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Writing a basic will: <strong>$200 to $500</strong> through professional
+<p>Writing a basic will starts from <strong>$200</strong> through professional
 services.</p>
 </li>
-<li>
-<p>More complex wills may cost <strong>$1,000 or more</strong>.</p>
-</li>
 </ul>
-<p><strong>What If You Don't Do It?</strong>
+<p><strong>Cost of NOT planning:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dying without a will: Court proceedings and legal fees may cost <strong>$2,000 to $10,000 or more</strong>.</p>
+<p>Dying without a will: Costly court proceedings and legal fees.</p>
 </li>
 <li>
 <p>Family disputes can lead to additional legal fees and delays in asset
