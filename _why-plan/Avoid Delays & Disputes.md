@@ -6,7 +6,7 @@ description: Legacy planning ensures your intentions are clear, allows your
   loved ones to have quick access to your savings, preserving harmony and
   preventing conflict. Maintain unity with thoughtful planning today
 ---
-<h2><strong>Maintain Unity with Thoughtful Planning</strong></h2>
+<h2><strong>Maintain unity with thoughtful planning</strong></h2>
 <p>Legacy planning ensures your intentions are clear, allows your loved ones
 to have quick access to your savings, preserving harmony and preventing
 conflict.</p>
