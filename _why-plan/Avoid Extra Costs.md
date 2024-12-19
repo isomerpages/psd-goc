@@ -7,7 +7,7 @@ description: Without proper legacy planning, your loved ones may face high legal
   decision-making. Taking action now can save significant costs and safeguard
   their future.
 ---
-<h2><strong>Avoid extra costs. Plan ahead.</strong></h2>
+<h2><strong>Avoid extra costs by planning ahead</strong></h2>
 <p>Legacy planning allows you and your loved ones to avoid unnecessary costs,
 and reduce the financial and emotional toll of delays and disputes.</p>
 <p></p>
