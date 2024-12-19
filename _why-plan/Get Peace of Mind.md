@@ -86,7 +86,7 @@ minutes).</p>
 <p><strong>Purpose:</strong> Specify how you would like your money, property
 and possessions to be distributed, and whom you entrust to take care of
 your dependants after your death.</p>
-<p><strong>How it brings peace of mind:</strong> Ensure clarity and reduce
+<p><strong>How it brings peace of mind:</strong> Provide clarity and reduce
 uncertainty about the handling of your assets and responsibilities.</p>
 <p>➡️ <strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
