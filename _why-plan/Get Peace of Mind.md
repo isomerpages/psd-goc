@@ -52,7 +52,7 @@ your trusted persons.</p>
 <h4><strong>Advance Care Plan (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Outlines your future healthcare preferences should
 you lose mental capacity.</p>
-<p><strong>How It Brings Peace of Mind:</strong> Provides certainty that your
+<p><strong>How it brings peace of mind:</strong> Provides certainty that your
 healthcare preferences have been communicated to your loved ones and decisions
 made will be in your best interest.</p>
 <p><strong>What to do:</strong>
