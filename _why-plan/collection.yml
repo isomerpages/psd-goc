@@ -2,9 +2,9 @@ collections:
   why-plan:
     output: true
     order:
-      - "Plan Your Legacy: It's a Gift of Love.md"
-      - "Plan Your Legacy: Protect Your Loved Ones.md"
-      - "Plan Your Legacy: Get Peace of Mind.md"
-      - "Plan Your Legacy: Avoid Delays & Disputes.md"
-      - "Plan Your Legacy: Avoid Extra Costs.md"
-      - "Plan Your Legacy: Make Your Wishes Known.md"
+      - It's a Gift of Love.md
+      - Protect Your Loved Ones.md
+      - Get Peace of Mind.md
+      - Avoid Delays & Disputes.md
+      - Avoid Extra Costs.md
+      - Make Your Wishes Known.md

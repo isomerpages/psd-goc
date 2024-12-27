@@ -1,30 +1,29 @@
 ---
-title: "Plan Your Legacy: Get Peace of Mind"
-permalink: /peace-of-mind/
+title: Protect Your Loved Ones
+permalink: /protect-your-loved-ones/
 variant: tiptap
-description: "Plan Your Legacy: A Singapore Government Initiative. Legacy
-  planning ensures your wishes are honoured and your loved ones are provided
-  for, freeing you from worry. Relieve your anxieties about the future today"
+description: "Plan Your Legacy: A Singapore Government Initiative. Life is full
+  of unexpected twists, but planning your legacy ensures your loved ones are
+  protected. Safeguard those you care about today"
 image: /images/meta_image.png
 ---
-<h2><strong>Relieve your anxieties about the future today</strong></h2>
-<p>Legacy planning ensures your wishes are honoured and your loved ones are
-provided for, freeing you from worry.</p>
+<h2><strong>Safeguard those you care about</strong></h2>
+<p>Life is full of unexpected twists, but planning your legacy ensures your
+loved ones are protected.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="peace of mind" src="/images/peace_of_mind.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="protect your loved ones" src="/images/protect_your_loved_one.jpg">
 </div>
-<p>Planning your legacy gives you control over what lies ahead. With a clear
-roadmap, you’ll feel confident knowing that your wishes will be honoured
-and that your family will be taken care of. Say goodbye to uncertainty
-and hello to peace of mind for the road ahead. Take action today with these
-tools.</p>
+<p>By making thoughtful decisions now, you can safeguard their financial
+stability, emotional well-being, and future. Let your care and foresight
+shape a secure foundation for the people you hold dear. Take action today
+with these tools.</p>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>Purpose: </strong>Appoint trusted persons to make decisions on
+<p><strong>Purpose:</strong> Appoint trusted persons to make decisions on
 your behalf in the event that you lose mental capacity.</p>
-<p><strong>How it brings peace of mind:</strong> Knowing someone you trust
-has been given the legal right to act in your best interests will reduce
-your worries about the future.</p>
+<p><strong>How it protects loved ones:</strong> Ensure your loved ones have
+the legal right to make personal welfare decisions for you and access your
+financial accounts to manage daily expenses.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -51,12 +50,11 @@ your trusted persons.</p>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Communicate your healthcare and personal care
-preferences for a situation where you lose mental capacity or cannot speak
-for yourself.</p>
-<p><strong>How it brings peace of mind:</strong> Know that your preferences
-will be communicated to your doctors and loved ones, and decisions made
-will be in your best interest.</p>
+<p><strong>Purpose:</strong> Document your future healthcare preferences in
+case you lose mental capacity.</p>
+<p><strong>How it protects loved ones: </strong>Give your loved ones clarity
+on your healthcare preferences, and reduce the stress they may experience
+from making medical decisions on your behalf.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -75,20 +73,23 @@ plan.</p>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
+<p></p>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>Purpose:</strong> Ensure your CPF savings go to the right people
-without delays.</p>
-<p><strong>How it brings peace of mind:</strong> Be assured that your CPF
-savings will benefit those you care about.
-<br>
-<br>➡️ <strong>Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
+<p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
+distributed when you pass on.</p>
+<p><strong>How it protects loved ones:</strong> Ensure your CPF savings are
+distributed swiftly and conveniently in cash, and provide your loved ones
+with financial security. Without a CPF nomination, it can take up to six
+months for the Public Trustee’s Office to identify which of your family
+members are eligible to claim your savings.</p>
+<p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
+<p></p>
 <h4><strong>Will</strong></h4>
-<p><strong>Purpose:</strong> Specify how you would like your money, property
-and possessions to be distributed, and whom you entrust to take care of
-your dependants after your death.</p>
-<p><strong>How it brings peace of mind:</strong> Provide clarity and reduce
-uncertainty about the handling of your assets and responsibilities.</p>
+<p><strong>Purpose:</strong> Specify how your money, property and possessions
+are to be distributed, and who to take care of your dependants after your
+death.</p>
+<p><strong>How it protects loved ones:</strong> Ensure your loved ones are
+provided for when you have passed on.</p>
 <p>➡️ <strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
-<p></p>

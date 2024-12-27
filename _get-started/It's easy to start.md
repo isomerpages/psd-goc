@@ -1,5 +1,5 @@
 ---
-title: "Plan Your Legacy: It's easy to start"
+title: It's easy to start
 permalink: /its-easy-to-get-started/
 variant: tiptap
 description: "Plan Your Legacy: A Singapore Government Initiative. Start your

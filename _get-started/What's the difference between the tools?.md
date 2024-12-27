@@ -1,5 +1,5 @@
 ---
-title: "Plan Your Legacy: What's the difference between the tools?"
+title: What's the difference between the tools?
 permalink: /whats-the-difference-between-the-tools/
 variant: tiptap
 description: "Plan Your Legacy: A Singapore Government Initiative. Legacy

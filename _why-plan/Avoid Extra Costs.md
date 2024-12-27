@@ -1,5 +1,5 @@
 ---
-title: "Plan Your Legacy: Avoid Extra Costs"
+title: Avoid Extra Costs
 permalink: /avoid-extra-costs/
 variant: tiptap
 description: "Plan Your Legacy: A Singapore Government Initiative. Without
