@@ -2,5 +2,5 @@ collections:
   get-started:
     output: true
     order:
-      - "Plan Your Legacy: What's the difference between the tools?.md"
+      - What's the difference between the tools?.md
       - "Plan Your Legacy: It's easy to start.md"
