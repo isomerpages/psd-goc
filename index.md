@@ -4,7 +4,7 @@ title: "Plan Your Legacy Today: A Singapore Government Initiative"
 description: Sudden death and mental incapacity can happen to any of us. Yet few
   of us plan for these. Don’t leave your loved ones struggling to pick up the
   pieces. Plan your legacy today. A Singapore Government Initiative.
-image: /images/logo_my_legacyv2.png
+image: /images/meta_image.png
 permalink: /
 notification: ""
 sections:
