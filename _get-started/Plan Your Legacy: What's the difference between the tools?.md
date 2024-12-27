@@ -1,11 +1,13 @@
 ---
-title: What's the difference between the tools?
+title: "Plan Your Legacy: What's the difference between the tools?"
 permalink: /whats-the-difference-between-the-tools/
 variant: tiptap
-description: Legacy planning involves documenting your preferences and decisions
-  on various matters pertaining to your care, welfare, finances, etc. so that
-  these are known and respected if you lose mental capacity or pass on. Use our
-  four tools to get started on legacy planning today
+description: "Plan Your Legacy: A Singapore Government Initiative. Legacy
+  planning involves documenting your preferences and decisions on various
+  matters pertaining to your care, welfare, finances, etc. so that these are
+  known and respected if you lose mental capacity or pass on. Use our four tools
+  to get started on legacy planning today"
+image: /images/meta_image.png
 ---
 <p>Legacy planning involves documenting your preferences and decisions on
 various matters pertaining to your care, welfare, finances, etc. so that

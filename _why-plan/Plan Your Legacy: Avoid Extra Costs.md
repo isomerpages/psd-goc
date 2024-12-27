@@ -1,11 +1,12 @@
 ---
-title: Avoid Extra Costs
+title: "Plan Your Legacy: Avoid Extra Costs"
 permalink: /avoid-extra-costs/
 variant: tiptap
-description: Without proper legacy planning, your loved ones may face high legal
-  fees, administrative charges, and medical costs due to prolonged
-  decision-making. Taking action now can save significant costs and safeguard
-  their future.
+description: "Plan Your Legacy: A Singapore Government Initiative. Without
+  proper legacy planning, your loved ones may face high legal fees,
+  administrative charges, and medical costs due to prolonged decision-making.
+  Taking action now can save significant costs and safeguard their future."
+image: /images/meta_image.png
 ---
 <h2><strong>Avoid extra costs by planning ahead</strong></h2>
 <p>Legacy planning allows you and your loved ones to avoid unnecessary costs,

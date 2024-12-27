@@ -1,10 +1,11 @@
 ---
-title: It's easy to start
+title: "Plan Your Legacy: It's easy to start"
 permalink: /its-easy-to-get-started/
 variant: tiptap
-description: Start your legacy planning with our step-by-step guides to making
-  your with Lasting Power of Attorney, CPF Nomination, Advance Care Planning,
-  and Will.
+description: "Plan Your Legacy: A Singapore Government Initiative. Start your
+  legacy planning with our step-by-step guides to making your with Lasting Power
+  of Attorney, CPF Nomination, Advance Care Planning, and Will."
+image: /images/meta_image.png
 ---
 <h2>Step-by-step guide</h2>
 <p>We understand that life can get hectic, and finding time to plan for the

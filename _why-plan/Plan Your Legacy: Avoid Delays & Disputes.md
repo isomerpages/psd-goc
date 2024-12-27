@@ -1,27 +1,33 @@
 ---
-title: Protect Your Loved Ones
-permalink: /protect-your-loved-ones/
+title: "Plan Your Legacy: Avoid Delays & Disputes"
+permalink: /avoid-delay-and-disputes/
 variant: tiptap
-description: Life is full of unexpected twists, but planning your legacy ensures
-  your loved ones are protected. Safeguard those you care about today
+description: "Plan Your Legacy: A Singapore Government Initiative. Legacy
+  planning ensures your intentions are clear, allows your loved ones to have
+  quick access to your savings, preserving harmony and preventing conflict.
+  Maintain unity with thoughtful planning today"
+image: /images/meta_image.png
 ---
-<h2><strong>Safeguard those you care about</strong></h2>
-<p>Life is full of unexpected twists, but planning your legacy ensures your
-loved ones are protected.</p>
+<h2><strong>Maintain unity with thoughtful planning</strong></h2>
+<p>Legacy planning ensures your intentions are clear, allows your loved ones
+to have quick access to your savings, preserving harmony and preventing
+conflict.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="protect your loved ones" src="/images/protect_your_loved_one.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="avoid delays and disputes" src="/images/img_will_update.jpg">
 </div>
-<p>By making thoughtful decisions now, you can safeguard their financial
-stability, emotional well-being, and future. Let your care and foresight
-shape a secure foundation for the people you hold dear. Take action today
-with these tools.</p>
+<p>Delays and disputes can tear families apart when plans are unclear and
+there are delays in access to funds in the event of mishaps. Legacy planning
+helps you make your intentions known and avoid misunderstandings. Take
+the step to prevent conflict and safeguard your loved ones’ future.</p>
+<h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
-<p><strong>Purpose:</strong> Appoint trusted persons to make decisions on
-your behalf in the event that you lose mental capacity.</p>
-<p><strong>How it protects loved ones:</strong> Ensure your loved ones have
-the legal right to make personal welfare decisions for you and access your
-financial accounts to manage daily expenses.</p>
+<p><strong>Purpose:</strong> Allows you to appoint someone you trust to make
+decisions in your personal welfare and property &amp; affairs matters if
+you lose the mental capacity to do so.</p>
+<p><strong>How It Avoids Delays &amp; Disputes: </strong>Ensure your loved
+ones have quick access to your savings should you lose mental capacity,
+preventing conflict over how and who should manage your affairs.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -47,12 +53,10 @@ your trusted persons.</p>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">now</a>.</strong>
 </p>
-<h4><strong>Advance Care Planning (ACP)</strong></h4>
-<p><strong>Purpose:</strong> Document your future healthcare preferences in
-case you lose mental capacity.</p>
-<p><strong>How it protects loved ones: </strong>Give your loved ones clarity
-on your healthcare preferences, and reduce the stress they may experience
-from making medical decisions on your behalf.</p>
+<h4><strong>Advance Care Plan (ACP)</strong></h4>
+<p><strong>Purpose:</strong> Details your medical preferences for future scenarios.</p>
+<p><strong>How It Avoids Delays &amp; Disputes:</strong> Reduce misunderstandings
+among family members about your healthcare preferences.</p>
 <p><strong>What to do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -71,23 +75,19 @@ plan.</p>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
-<p></p>
 <h4><strong>CPF Nomination</strong></h4>
-<p><strong>Purpose:</strong> Decide how you'd like your CPF savings to be
-distributed when you pass on.</p>
-<p><strong>How it protects loved ones:</strong> Ensure your CPF savings are
-distributed swiftly and conveniently in cash, and provide your loved ones
-with financial security. Without a CPF nomination, it can take up to six
-months for the Public Trustee’s Office to identify which of your family
-members are eligible to claim your savings.</p>
+<p><strong>Purpose: </strong>Directs your CPF savings to specific individuals.</p>
+<p><strong>How It Avoids Delays &amp; Disputes:</strong> Ensure your loved
+ones quickly receives your CPF savings upon your death and eliminates uncertainty
+and potential disagreements over the distribution of your CPF funds.</p>
 <p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
-<p></p>
 <h4><strong>Will</strong></h4>
-<p><strong>Purpose:</strong> Specify how your money, property and possessions
-are to be distributed, and who to take care of your dependants after your
-death.</p>
-<p><strong>How it protects loved ones:</strong> Ensure your loved ones are
-provided for when you have passed on.</p>
-<p>➡️ <strong>Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
+<p><strong>Purpose:</strong> Outlines how your assets are to be distributed
+and dependents cared for.</p>
+<p><strong>How It Avoids Delays &amp; Disputes:</strong> Prevent delays and
+disputes by clearly stating your intentions for how your assets are to
+be distributed upon your death.</p>
+<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
+<p></p>
