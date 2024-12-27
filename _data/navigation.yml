@@ -1,7 +1,20 @@
 logo: /images/logo_my_legacyv2.png
 links:
   - title: Why Plan
-    collection: why-plan
+    url: /gift-of-love
+    sublinks:
+      - title: It's a Gift of Love
+        url: /gift-of-love
+      - title: Protect Your Loved Ones
+        url: /protect-your-loved-ones
+      - title: Get Peace of Mind
+        url: /peace-of-mind
+      - title: Avoid Delays & Disputes
+        url: /avoid-delay-and-disputes
+      - title: Avoid Extra Costs
+        url: /avoid-extra-costs
+      - title: Make Your Wishes Known
+        url: /make-your-wishes-known
   - title: Get Started
     url: /whats-the-difference-between-the-tools
     sublinks:
