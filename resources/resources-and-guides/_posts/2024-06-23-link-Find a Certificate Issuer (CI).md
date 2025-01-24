@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx
+external: https://go.gov.sg/lpa-ci
 ---
