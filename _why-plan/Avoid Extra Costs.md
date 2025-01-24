@@ -55,7 +55,8 @@ from <strong>$3,000</strong>, if a lawyer is engaged.</p>
 (called Donees) and the powers to be granted to them.</p>
 </li>
 <li>
-<p>Step 2 - Complete the online LPA <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">form</a> (10 minutes).</p>
+<p>Step 2 - Complete the online LPA <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">form</a> (10
+minutes).</p>
 </li>
 <li>
 <p>Step 3 - Your Donee(s) will receive SMS notifications to accept the appointment(s).</p>
@@ -70,7 +71,7 @@ the purpose of the LPA and the scope of authority you have conferred on
 your trusted persons.</p>
 </li>
 </ul>
-<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">now</a>.</strong>
+<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/lpa/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>Advance Care Planning (ACP)</strong></h4>
 <p><strong>Purpose:</strong> Document your medical and healthcare preferences
@@ -86,7 +87,7 @@ reducing misunderstandings and potentially costly prolonged treatments.</p>
 fee for facilitating an ACP, so do ask about any fees in advance.</p>
 </li>
 <li>
-<p>You may visit&nbsp;<a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener" target="_blank"><u>the ACP Directory</u></a>&nbsp;for
+<p>You may visit&nbsp;<a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener" target="_blank"><u>the ACP Directory</u></a>&nbsp;for
 a list of ACP providers.</p>
 </li>
 </ul>
@@ -104,11 +105,11 @@ a list of ACP providers.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (30
+<p>Step 1 - Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (30
 minutes).</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
+<p>Step 2 - Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
 register your plan.</p>
 </li>
 <li>
@@ -116,7 +117,7 @@ register your plan.</p>
 plan.</p>
 </li>
 </ul>
-<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/" rel="noopener nofollow" target="_blank">now</a>.</strong>
+<p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose: </strong>Directs your CPF savings to specific individuals.</p>
@@ -142,7 +143,7 @@ intestate distribution where a statutory fee will be imposed.</p>
 your family.</p>
 </li>
 </ul>
-<p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
+<p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
 <p><strong>Purpose:</strong> Outlines how your assets are to be distributed
@@ -168,6 +169,6 @@ services.</p>
 distribution.</p>
 </li>
 </ul>
-<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/" rel="noopener nofollow" target="_blank">writing a will.</a>
+<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>
