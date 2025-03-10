@@ -9,17 +9,23 @@ description: "Plan Your Legacy: A Singapore Government Initiative. Legacy
 image: /images/meta_image.png
 ---
 <h2><strong>Maintain unity with thoughtful planning</strong></h2>
-<p>Legacy planning ensures your intentions are clear, allows your loved ones
-to have quick access to your savings, preserving harmony and preventing
-conflict.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="avoid delays and disputes" src="/images/img_will_update.jpg">
 </div>
-<p>Delays and disputes can tear families apart when plans are unclear and
-there are delays in access to funds in the event of mishaps. Legacy planning
-helps you make your intentions known and avoid misunderstandings. Take
-the step to prevent conflict and safeguard your loved ones’ future.</p>
+<p>Legacy planning ensures your intentions are clear, allowing your loved
+ones access your savings quickly while preserving harmony and preventing
+conflict. Legacy planning benefits them in two critical scenarios:</p>
+<h4><strong>1. Loss of mental capacity</strong>&nbsp;</h4>
+<p>Life is unpredictable. Situations such as accidents and sudden illnesses
+can lead to a loss of mental capacity, leaving you unable to make decisions
+for yourself. Without prior planning, your loved ones may face delays in
+accessing your bank accounts or making important medical decisions on your
+behalf. Disputes over who should manage your finances or healthcare could
+arise, leading to family disagreements and legal complications.&nbsp;</p>
+<h4><strong>2. Death</strong>&nbsp;</h4>
+<p>Without proper end-of-life planning, your loved ones may struggle with&nbsp;asset
+distribution and after-life arrangements, potentially causing disagreements
+and unnecessary emotional stress.&nbsp;</p>
 <h3>Take action today with any of the four tools below:</h3>
 <h4><strong>Lasting Power of Attorney (LPA)</strong></h4>
 <p><strong>Purpose:</strong> Allows you to appoint someone you trust to make
