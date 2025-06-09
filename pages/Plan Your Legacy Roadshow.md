@@ -11,6 +11,30 @@ guests.</p>
 <p>Walk away with easy-to-use Legacy Planning tools and practical strategies
 that will safeguard your family’s future — and prepare yourself and your
 loved ones for life’s uncertainties.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Date: 19 and 20 July 2025</strong>
 </p>
 <p><strong>Time: 10am to 6pm</strong>
@@ -19,6 +43,30 @@ loved ones for life’s uncertainties.</p>
 </p>
 <p>Guest of Honour: Mr Ong Ye Kung, Coordinating Minister for Social Policies
 and Minister for Health</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Programme Highlights</strong>
 </p>
 <p></p>
