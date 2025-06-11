@@ -4,7 +4,7 @@ permalink: /plan-your-legacy-roadshow/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>[Insert Poster]</p>
 <p><strong>Don’t leave your family’s future to chance! </strong>Join us for
 an unmissable event on <strong>19 and 20 July</strong> for expert panels,
 interactive booths, 1-to-1 consultations, and appearances by celebrity
@@ -397,7 +397,30 @@ CPF nomination, Wills, and other legacy planning matters.</p>
 <p>One-to-One consultation sessions will be offered for those who have queries
 on legacy planning. <strong>Appointment slots will be released on 16 Jun 2025.</strong> Limited
 slots are available on a first-come-first-serve basis.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Getting Here</u></strong>
 </p>
 <p><strong>FREE SHUTTLE SERVICE</strong>
