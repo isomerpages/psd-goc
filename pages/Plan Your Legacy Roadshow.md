@@ -68,12 +68,10 @@ and Minister for Health</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Programme Highlights</strong>
+<p><strong><u>Programme Highlights</u></strong>
 </p>
-<p></p>
 <p><strong>19 Jul 2025, Saturday</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -162,7 +160,6 @@ Muslims need to consider and have your questions addressed by our experts.</p>
 <p></p>
 <p><strong>20 Jul 2025, Sunday</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -352,7 +349,6 @@ the webinar.</p>
 </p>
 </li>
 </ul>
-<p></p>
 <p>Limited slots are available for the certification sessions, and sign-ups
 will be on a first-come-first-serve basis.</p>
 <p></p>
