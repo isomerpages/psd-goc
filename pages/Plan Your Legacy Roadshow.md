@@ -137,6 +137,24 @@ easy tools to protect your future and loved ones.</p>
 <p>Learn about Lasting Power of Attorney, Advance Care Planning, CPF Nomination,
 and Trusts. Bring your questions and take control of tomorrow.</p>
 <p></p>
+<p><strong><u>Our Experts:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mr Josephus Tan </strong>(Managing Director, Invictus Law Corporation)​</p>
+</li>
+<li>
+<p><strong>Dr Lam Ee Ling, Adeline Sarah </strong>(Senior Consultant, Tan
+Tock Seng Hospital)​</p>
+</li>
+<li>
+<p><strong>Mr Sammy Leong </strong>(Case Manager, SATA CommHealth)</p>
+</li>
+</ul>
+<p><strong>The session will be moderated by Mr Andrew Lee​</strong>
+</p>
+<p>(Assistant General Counsel, Kaplan Higher Education Academy Pte Ltd).</p>
+<p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tzj4wj0nhys55mvjhmxzjdsr" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - What is Legacy Planning?</a>
 </p>
 </td>
@@ -153,6 +171,27 @@ planning?</p>
 <p></p>
 <p>Join us to find out on the different aspects of legacy planning which
 Muslims need to consider and have your questions addressed by our experts.</p>
+<p></p>
+<p><strong><u>Our Experts:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Ms Syafiqah Ahmad Fu'ad </strong>(Lawyer, FND Legal)​</p>
+</li>
+<li>
+<p><strong>Ustaz Muhammad Ridhwaan Radzi </strong>(Managing Director, Islamic
+Finance Singapore)​</p>
+</li>
+<li>
+<p><strong>Dr Nur Farhan Alami </strong>(Consultant Geriatrician, Alami Clinic
+by Dr Farhan)</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>The session will be moderated by Ms Serene Gan ​</strong>
+</p>
+<p>(Deputy Head of Legal, International Property Group).</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tuymqav3b4ybjy1gvso8dw7e" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Islamic Legacy Planning</a>
 </p>
@@ -193,6 +232,29 @@ yourself not being able to be their caregiver anymore?</p>
 in helping their care recipients legacy plan, with a focus on support for
 those caring for individuals with chronic conditions or disabilities.</p>
 <p></p>
+<p><strong><u>Our Experts:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mr Richard Siaw </strong>(General Litigator, R. S. Solomon LLC)​</p>
+</li>
+<li>
+<p><strong>Ms Jiang Weiting </strong>(Psychologist, Dementia Singapore)​</p>
+</li>
+<li>
+<p><strong>Ms Geethanjali Chandra </strong>(Senior Case Manager, Stroke Support
+Station)​</p>
+</li>
+<li>
+<p><strong>Mr Isaac Lee </strong>(Associate Senior Social Worker, Montfort
+Care)</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>The session will be moderated by Ms Yvette Anthony </strong>(Director
+(Employment Law APAC), ​Western Digital).</p>
+<p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/5nf2tnvjhu5o7kr4h7e6l9zk" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Legacy Planning for Caregivers</a>
 </p>
 </td>
@@ -232,6 +294,30 @@ What will their future hold?</p>
 <p>Join us as our experts share on the aspects to consider when helping an
 individual with special needs plan their legacy, to ensure that their future
 is safeguarded.</p>
+<p></p>
+<p><strong><u>Our Experts:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mr Bernard Chung </strong>(Partner (Trust and Estates), Balkenende
+Chew &amp; Chia) ​</p>
+</li>
+<li>
+<p><strong>Ms Wheeki Goh&nbsp;</strong>(Assistant Director (Community Engagement),
+SG Enable) ​</p>
+</li>
+<li>
+<p><strong>Dr Bhavani Sriram </strong>(Paediatric Practitioner, Shankar Surgery)​</p>
+</li>
+<li>
+<p><strong>Ms Sandra Tan </strong>(Senior Medical Social Worker, HCA Hospice
+Care)</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>The session will be moderated by Ms Catherine Yong </strong>(Legal
+Counsel Asia/Pacific,​ Schaeffler (Singapore) Pte Ltd).</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/i6dzy1xk2fqcvxvjritf6ztu" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Planning for Individuals with Special Needs</a>
 </p>
@@ -302,23 +388,6 @@ the webinar.</p>
 <p></p>
 <p><u>Details of the upcoming LPA webinars:</u>
 </p>
-<p>LPA Webinar (Mandarin)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 10 Jun 2025 (Tuesday)</p>
-</li>
-<li>
-<p>Time: 6pm to 8pm</p>
-</li>
-<li>
-<p>Speaker: Low Seow Ling</p>
-</li>
-<li>
-<p>Webinar link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lpa-webinar-10june</a>
-</p>
-</li>
-</ul>
-<p></p>
 <p>LPA Webinar (English)</p>
 <ul data-tight="true" class="tight">
 <li>
