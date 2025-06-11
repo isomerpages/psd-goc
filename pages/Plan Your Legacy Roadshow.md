@@ -364,17 +364,17 @@ information on the different aspects for legacy planning.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Complete your LPA Form 1 Application: </strong>Need help with
-your LPA? Our volunteers are ready to guide you through the online LPA
-process. They will also guide you to book for a certification appointment
+<p><strong>Complete your Lasting Power of Attorney (LPA) Form 1 Application: </strong>Need
+help with your LPA? Our volunteers are ready to guide you through the online
+LPA process. They will also guide you to book for a certification appointment
 at your preferred location after your complete the application.</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Certify your Lasting Power of Attorney (LPA) :</strong> Book your
-session with a Certificate Issuer to certify your LPA application at <strong>$30</strong> only.</p>
+<p><strong>Certify your LPA:</strong> Book your session with a Certificate
+Issuer to certify your LPA application at <strong>$30</strong> only.</p>
 <p><strong>Interested attendees must attend a compulsory LPA webinar to be eligible to sign up for the certification sessions.</strong> Instructions
 on how to sign up for the certification sessions will be provided after
 the webinar.</p>
