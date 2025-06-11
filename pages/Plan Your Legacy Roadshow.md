@@ -127,7 +127,7 @@ stand a chance to win prizes!</p>
 <p>1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Panel Discussion on Legacy Planning (LPA, ACP, CPF Nomination, Trust)</strong>
+<p><strong>Panel Discussion on Legacy Planning (Lasting Power of Attorney, Advance Care Planning, CPF Nomination, Trust)</strong>
 </p>
 <p></p>
 <p>Ever wondered who would make decisions for you if you no longer can? Join
@@ -141,19 +141,18 @@ and Trusts. Bring your questions and take control of tomorrow.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Josephus Tan </strong>(Managing Director, Invictus Law Corporation)​</p>
+<p><strong>Mr Josephus Tan, </strong>Managing Director, Invictus Law Corporation</p>
 </li>
 <li>
-<p><strong>Dr Lam Ee Ling, Adeline Sarah </strong>(Senior Consultant, Tan
-Tock Seng Hospital)​</p>
+<p><strong>Dr Lam Ee Ling, Adeline Sarah, </strong>Senior Consultant, Tan
+Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Mr Sammy Leong </strong>(Case Manager, SATA CommHealth)</p>
+<p><strong>Mr Sammy Leong, </strong>Case Manager, SATA CommHealth</p>
 </li>
 </ul>
-<p><strong>The session will be moderated by Mr Andrew Lee​</strong>
-</p>
-<p>(Assistant General Counsel, Kaplan Higher Education Academy Pte Ltd).</p>
+<p><strong>The session will be moderated by Mr Andrew Lee, </strong>Assistant
+General Counsel, Kaplan Higher Education Academy Pte Ltd.</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tzj4wj0nhys55mvjhmxzjdsr" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - What is Legacy Planning?</a>
 </p>
@@ -176,22 +175,21 @@ Muslims need to consider and have your questions addressed by our experts.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Syafiqah Ahmad Fu'ad </strong>(Lawyer, FND Legal)​</p>
+<p>​<strong>Ustaz Muhammad Ridhwaan Radzi, </strong>Managing Director, Islamic
+Finance Singapore</p>
 </li>
 <li>
-<p><strong>Ustaz Muhammad Ridhwaan Radzi </strong>(Managing Director, Islamic
-Finance Singapore)​</p>
+<p><strong>Ms Syafiqah Ahmad Fu'ad, </strong>Lawyer, FND Legal</p>
 </li>
 <li>
-<p><strong>Dr Nur Farhan Alami </strong>(Consultant Geriatrician, Alami Clinic
-by Dr Farhan)</p>
+<p><strong>Dr Nur Farhan Alami, </strong>Consultant Geriatrician, Alami Clinic
+by Dr Farhan</p>
 </li>
 </ul>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>The session will be moderated by Ms Serene Gan ​</strong>
-</p>
-<p>(Deputy Head of Legal, International Property Group).</p>
+<p><strong>The session will be moderated by Ms Serene Gan, </strong>Deputy
+Head of Legal, International Property Group.</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tuymqav3b4ybjy1gvso8dw7e" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Islamic Legacy Planning</a>
 </p>
@@ -236,24 +234,24 @@ those caring for individuals with chronic conditions or disabilities.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Richard Siaw </strong>(General Litigator, R. S. Solomon LLC)​</p>
+<p><strong>Mr Richard Siaw, </strong>General Litigator, R. S. Solomon LLC</p>
 </li>
 <li>
-<p><strong>Ms Jiang Weiting </strong>(Psychologist, Dementia Singapore)​</p>
+<p><strong>Ms Jiang Weiting, </strong>Psychologist, Dementia Singapore​</p>
 </li>
 <li>
-<p><strong>Ms Geethanjali Chandra </strong>(Senior Case Manager, Stroke Support
-Station)​</p>
+<p><strong>Ms Geethanjali Chandra, </strong>Senior Case Manager, Stroke Support
+Station</p>
 </li>
 <li>
-<p><strong>Mr Isaac Lee </strong>(Associate Senior Social Worker, Montfort
-Care)</p>
+<p><strong>Mr Isaac Lee, </strong>Associate Senior Social Worker, Montfort
+Care</p>
 </li>
 </ul>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>The session will be moderated by Ms Yvette Anthony </strong>(Director
-(Employment Law APAC), ​Western Digital).</p>
+<p><strong>The session will be moderated by Ms Yvette Anthony, </strong>Director
+(Employment Law APAC), ​Western Digital.</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/5nf2tnvjhu5o7kr4h7e6l9zk" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Legacy Planning for Caregivers</a>
 </p>
@@ -299,25 +297,23 @@ is safeguarded.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Bernard Chung </strong>(Partner (Trust and Estates), Balkenende
-Chew &amp; Chia) ​</p>
+<p><strong>Mr Bernard Chung, </strong>Partner (Trust and Estates), Balkenende
+Chew &amp; Chia ​</p>
 </li>
 <li>
-<p><strong>Ms Wheeki Goh&nbsp;</strong>(Assistant Director (Community Engagement),
-SG Enable) ​</p>
+<p><strong>Ms Wheeki Goh, </strong>Assistant Director (Community Engagement),
+SG Enable ​</p>
 </li>
 <li>
-<p><strong>Dr Bhavani Sriram </strong>(Paediatric Practitioner, Shankar Surgery)​</p>
+<p><strong>Dr Bhavani Sriram, </strong>Paediatric Practitioner, Shankar Surgery</p>
 </li>
 <li>
-<p><strong>Ms Sandra Tan </strong>(Senior Medical Social Worker, HCA Hospice
-Care)</p>
+<p><strong>Ms Sandra Tan, </strong>Senior Medical Social Worker, HCA Hospice
+Care</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>The session will be moderated by Ms Catherine Yong </strong>(Legal
-Counsel Asia/Pacific,​ Schaeffler (Singapore) Pte Ltd).</p>
+<p><strong>The session will be moderated by Ms Catherine Yong, </strong>Legal
+Counsel Asia/Pacific,​ Schaeffler (Singapore) Pte Ltd.</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/i6dzy1xk2fqcvxvjritf6ztu" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Planning for Individuals with Special Needs</a>
 </p>
@@ -379,12 +375,11 @@ at your preferred location after your complete the application.</p>
 <li>
 <p><strong>Certify your Lasting Power of Attorney (LPA) :</strong> Book your
 session with a Certificate Issuer to certify your LPA application at <strong>$30</strong> only.</p>
-</li>
-</ul>
-<p></p>
 <p><strong>Interested attendees must attend a compulsory LPA webinar to be eligible to sign up for the certification sessions.</strong> Instructions
 on how to sign up for the certification sessions will be provided after
 the webinar.</p>
+</li>
+</ul>
 <p></p>
 <p><u>Details of the upcoming LPA webinars:</u>
 </p>
@@ -442,29 +437,24 @@ informed decision when submitting your nomination</p>
 <p>Act as witnesses for your nomination</p>
 </li>
 </ul>
-</li>
-</ul>
 <p>We're here to help you kick start your legacy planning journey through
 making a CPF nomination.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p><strong>Make your Advance Care Plan (ACP)</strong>: Approach an ACP volunteer
 for a guided experience to make your ACP online.</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Legacy Planning Consultation Session</strong>: Need guidance on
 legacy planning tools? Book a free 20-minute consultation session with
 legal professionals from Pro Bono SG and PEGUAM. Our experienced lawyers
 will help answer your questions about Lasting Power of Attorney (LPA),
 CPF nomination, Wills, and other legacy planning matters.</p>
-</li>
-</ul>
 <p>One-to-One consultation sessions will be offered for those who have queries
 on legacy planning. <strong>Appointment slots will be released on 16 Jun 2025.</strong> Limited
 slots are available on a first-come-first-serve basis.</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -491,9 +481,7 @@ slots are available on a first-come-first-serve basis.</p>
 </table>
 <p><strong><u>Getting Here</u></strong>
 </p>
-<p><strong>FREE SHUTTLE SERVICE</strong>
-</p>
-<p>between Bedok MRT Station and Heartbeat@Bedok!</p>
+<p><strong>FREE SHUTTLE SERVICE </strong>between Bedok MRT Station and Heartbeat@Bedok!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>By MRT</u></strong>
