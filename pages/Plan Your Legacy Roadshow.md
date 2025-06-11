@@ -4,6 +4,7 @@ permalink: /plan-your-legacy-roadshow/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <p><strong>Don’t leave your family’s future to chance! </strong>Join us for
 an unmissable event on <strong>19 and 20 July</strong> for expert panels,
 interactive booths, 1-to-1 consultations, and appearances by celebrity
@@ -449,4 +450,7 @@ Avenue 3.
 <p>Weekends &amp; Public Holidays (Saturday, Sunday &amp; PH):
 <br>• 7:00 AM – 10:30 PM: $0.02 per minute
 <br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00)</p>
+<p></p>
+<p>For additional information, please refer to our Frequently Asked Questions
+(FAQ) page.</p>
 <p></p>
