@@ -356,7 +356,7 @@ information on the different aspects for legacy planning.</p>
 <p>Ashtronaut</p>
 </li>
 </ul>
-<p><strong><u>Easy steps to kickstart your Legacy Planning</u></strong>
+<p><strong>Easy steps to kickstart your Legacy Planning</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -410,15 +410,13 @@ the webinar.</p>
 <li>
 <p>Webinar link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lpa-webinar-21june</a>
 </p>
-<p>Limited slots are available for the certification sessions, and sign-ups
-will be on a first-come-first-serve basis.</p>
+<p></p>
 </li>
 </ul>
+<p><strong><em>Limited slots are available for the certification sessions, and signs-ups will be on a first-come-first-serve basis</em></strong>
+</p>
+<p></p>
 </li>
-</ul>
-<p></p>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Make your CPF Nomination: </strong>Need help with making your
 CPF nomination? Our friendly CPF volunteers would be delighted to explain
@@ -434,11 +432,11 @@ informed decision when submitting your nomination</p>
 </li>
 <li>
 <p>Act as witnesses for your nomination</p>
-<p>We're here to help you kick start your legacy planning journey through
-making a CPF nomination.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+<p>We're here to help you kick start your legacy planning journey through
+making a CPF nomination.</p>
 <p></p>
 </li>
 <li>
