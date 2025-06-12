@@ -45,7 +45,7 @@ loved ones for life’s uncertainties.</p>
 </p>
 <p><strong>Venue: Atrium at Heartbeat@Bedok, 11 Bedok North Street 1, Singapore 469662</strong>
 </p>
-<p><strong>Guest of Honour: Mr Ong Ye Kung, Minister for Health and Coordinating Minister for Social Policie</strong>
+<p><strong>Guest of Honour: Mr Ong Ye Kung, Minister for Health and Coordinating Minister for Social Policies</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
