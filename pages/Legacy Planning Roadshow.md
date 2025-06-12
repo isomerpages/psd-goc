@@ -13,7 +13,7 @@ an unmissable event on <strong>19 and 20 July</strong> for expert panels,
 interactive booths, 1-to-1 consultations, and appearances by celebrity
 guests.</p>
 <p>Walk away with easy-to-use Legacy Planning tools and practical strategies
-that will safeguard your family’s future — and prepare yourself and your
+that will safeguard your family’s future and prepare yourself and your
 loved ones for life’s uncertainties.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -96,7 +96,7 @@ loved ones for life’s uncertainties.</p>
 <p>11.15am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Official opening of event by Guest of Honour, Mr Ong Ye Kung, Coordinating Minister for Social Policies and</strong>  <strong>Minster for Health</strong>
+<p><strong>Official opening of event by Guest of Honour, Mr Ong Ye Kung,  Minster for Health and Coordinating Minister for Social Policies</strong>
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ loved ones for life’s uncertainties.</p>
 <p>11.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Celebrity Appearance by Lin Ru Ping and Das!</strong>
+<p><strong>Celebrity Appearance by Lin Ru Ping and Das</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -153,7 +153,6 @@ Tock Seng Hospital</p>
 </ul>
 <p><strong>The session will be moderated by Mr Andrew Lee, </strong>Assistant
 General Counsel, Kaplan Higher Education Academy Pte Ltd.</p>
-<p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tzj4wj0nhys55mvjhmxzjdsr" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - What is Legacy Planning?</a>
 </p>
 </td>
@@ -186,9 +185,7 @@ Finance Singapore</p>
 by Dr Farhan</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>The session will be moderated by Ms Serene Gan, </strong>Deputy
+<p><strong>&nbsp;The session will be moderated by Ms Serene Gan, </strong>Deputy
 Head of Legal, International Property Group.</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tuymqav3b4ybjy1gvso8dw7e" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Islamic Legacy Planning</a>
@@ -248,8 +245,7 @@ Station</p>
 Care</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>The session will be moderated by Ms Yvette Anthony, </strong>Director
 (Employment Law APAC), ​Western Digital.</p>
 <p></p>
@@ -262,7 +258,7 @@ Care</p>
 <p>12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Celebrity Appearance by Marcus Chin and Haslinda Ali!</strong>
+<p><strong>Celebrity Appearance by Marcus Chin and Haslinda Ali</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -360,7 +356,7 @@ information on the different aspects for legacy planning.</p>
 <p>Ashtronaut</p>
 </li>
 </ul>
-<p><strong>Easy steps to kickstart your Legacy Planning</strong>
+<p><strong><u>Easy steps to kickstart your Legacy Planning</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -378,13 +374,12 @@ Issuer to certify your LPA application at <strong>$30</strong> only.</p>
 <p><strong>Interested attendees must attend a compulsory LPA webinar to be eligible to sign up for the certification sessions.</strong> Instructions
 on how to sign up for the certification sessions will be provided after
 the webinar.</p>
-</li>
-</ul>
 <p></p>
 <p><u>Details of the upcoming LPA webinars:</u>
 </p>
-<p>LPA Webinar (English)</p>
-<ul data-tight="true" class="tight">
+<p><strong>LPA Webinar (English)</strong>
+</p>
+</li>
 <li>
 <p>Date: 17 Jun 2025 (Tuesday)</p>
 </li>
@@ -397,11 +392,10 @@ the webinar.</p>
 <li>
 <p>Webinar link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lpa-webinar-17june</a>
 </p>
-</li>
-</ul>
 <p></p>
-<p>LPA Webinar (English)</p>
-<ul data-tight="true" class="tight">
+<p><strong>LPA Webinar (English)</strong>
+</p>
+</li>
 <li>
 <p>Date: 21 Jun 2025 (Saturday)</p>
 </li>
@@ -414,10 +408,11 @@ the webinar.</p>
 <li>
 <p>Webinar link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lpa-webinar-21june</a>
 </p>
-</li>
-</ul>
 <p>Limited slots are available for the certification sessions, and sign-ups
 will be on a first-come-first-serve basis.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -435,15 +430,21 @@ informed decision when submitting your nomination</p>
 </li>
 <li>
 <p>Act as witnesses for your nomination</p>
-</li>
-</ul>
 <p>We're here to help you kick start your legacy planning journey through
 making a CPF nomination.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 </li>
 <li>
 <p><strong>Make your Advance Care Plan (ACP)</strong>: Approach an ACP volunteer
 for a guided experience to make your ACP online.</p>
 </li>
+</ul>
+<p></p>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Legacy Planning Consultation Session</strong>: Need guidance on
 legacy planning tools? Book a free 20-minute consultation session with
@@ -482,23 +483,38 @@ slots are available on a first-come-first-serve basis.</p>
 <p><strong><u>Getting Here</u></strong>
 </p>
 <p><strong>FREE SHUTTLE SERVICE </strong>between Bedok MRT Station and Heartbeat@Bedok!</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong><u>By MRT</u></strong>
 </p>
-</li>
-</ul>
 <p>Nearest Station: Bedok MRT Station (EW5) on the East-West Line</p>
 <p>Walking Directions:
 <br>From Bedok MRT Station, it's approximately an 8-minute walk (~500 meters)
 to Heartbeat@Bedok.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>By Bus</u></strong>
 </p>
-</li>
-</ul>
 <p>Nearest Bus Stops:</p>
 <p>• Bedok North Street 1 – Opp Bedok Ctrl Post Office (84359) – 4-minute
 walk</p>
@@ -506,26 +522,41 @@ walk</p>
 <p>• Bedok North Street 1 – Bef Heartbeat @ Bedok (84659) – 5-minute walk</p>
 <p>Bus Services:
 <br>14, 28, 30, 31, 67, 69, 137, 155, 168, 222, 228</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>By Car</u></strong>
 </p>
-</li>
-</ul>
 <p>Directions:
 <br>• From the Pan Island Expressway (PIE), take the exit towards Bedok North
 Avenue 3.
 <br>• Turn right onto Bedok North Avenue 3.
 <br>• Then, turn right onto Bedok North Street 1.
 <br>• Heartbeat@Bedok will be on your left.</p>
-<p><strong>Parking Rates at Heartbeat@Bedok</strong>
+<p><strong><em>Parking Rates at Heartbeat@Bedok</em></strong>
 </p>
-<p>Weekdays (Monday to Friday):
-<br>• 7:00 AM – 12:00 PM: $0.02 per minute
-<br>• 12:00 PM – 2:00 PM: Free parking
-<br>• 2:00 PM – 10:30 PM: $0.02 per minute
-<br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00)</p>
-<p>Weekends &amp; Public Holidays (Saturday, Sunday &amp; PH):
-<br>• 7:00 AM – 10:30 PM: $0.02 per minute
-<br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00</p>
+<p><em>Weekdays (Monday to Friday): <br>• 7:00 AM – 12:00 PM: $0.02 per minute <br>• 12:00 PM – 2:00 PM: Free parking <br>• 2:00 PM – 10:30 PM: $0.02 per minute <br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00)</em>
+</p>
+<p><em>Weekends &amp; Public Holidays (Saturday, Sunday &amp; PH): <br>• 7:00 AM – 10:30 PM: $0.02 per minute <br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00</em>
+</p>
