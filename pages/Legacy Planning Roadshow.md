@@ -127,7 +127,7 @@ stand a chance to win prizes!</p>
 <p>1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Panel Discussion on Legacy Planning (Lasting Power of Attorney, Advance Care Planning, CPF Nomination, Trust)</strong>
+<p><strong>Panel Discussion on Legacy Planning</strong>
 </p>
 <p></p>
 <p>Ever wondered who would make decisions for you if you no longer can? Join
@@ -135,7 +135,7 @@ our experts as they demystify legacy planning and reveal essential and
 easy tools to protect your future and loved ones.</p>
 <p></p>
 <p>Learn about Lasting Power of Attorney, Advance Care Planning, CPF Nomination,
-and Trusts. Bring your questions and take control of tomorrow.</p>
+Wills and Trust. Bring your questions and take control of tomorrow.</p>
 <p></p>
 <p><strong><u>Our Experts:</u></strong>
 </p>
