@@ -361,9 +361,10 @@ information on the different aspects for legacy planning.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Complete your Lasting Power of Attorney (LPA) Form 1 Application: </strong>Need
-help with your LPA? Our volunteers are ready to guide you through the online
-LPA process. They will also guide you to book for a certification appointment
-at your preferred location after your complete the application.</p>
+help with filling your LPA application? Our volunteers are ready to guide
+you through the online LPA process. They will also guide you to book for
+a certification appointment at your preferred location after your complete
+the application.</p>
 </li>
 </ul>
 <p></p>
@@ -379,7 +380,7 @@ the webinar.</p>
 </p>
 <p><strong>LPA Webinar (English)</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Date: 17 Jun 2025 (Tuesday)</p>
 </li>
@@ -392,10 +393,11 @@ the webinar.</p>
 <li>
 <p>Webinar link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lpa-webinar-17june</a>
 </p>
-<p></p>
+</li>
+</ul>
 <p><strong>LPA Webinar (English)</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Date: 21 Jun 2025 (Saturday)</p>
 </li>
@@ -410,6 +412,8 @@ the webinar.</p>
 </p>
 <p>Limited slots are available for the certification sessions, and sign-ups
 will be on a first-come-first-serve basis.</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
