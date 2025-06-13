@@ -502,7 +502,31 @@ on legacy planning.</p>
 <p><strong>FREE SHUTTLE SERVICE </strong>between Bedok MRT Station and Heartbeat@Bedok!</p>
 <p><em>Pick up from Bedok MRT Station to Heartbeat@Bedok every 20min from 9.45am to 5.15pm.</em>
 </p>
-<p><strong><u>By MRT</u></strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>By MRT</strong>
 </p>
 <p>Nearest Station: Bedok MRT Station (EW5) on the East-West Line</p>
 <p>Walking Directions:
@@ -532,7 +556,7 @@ to Heartbeat@Bedok.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>By Bus</u></strong>
+<p><strong>By Bus</strong>
 </p>
 <p>Nearest Bus Stops:</p>
 <p>• Bedok North Street 1 – Opp Bedok Ctrl Post Office (84359) – 4-minute
@@ -565,7 +589,7 @@ walk</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>By Car</u></strong>
+<p><strong>By Car</strong>
 </p>
 <p>Directions:
 <br>• From the Pan Island Expressway (PIE), take the exit towards Bedok North
