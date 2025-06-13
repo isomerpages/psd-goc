@@ -85,8 +85,9 @@ plan.</p>
 <h4><strong>CPF Nomination</strong></h4>
 <p><strong>Purpose: </strong>Directs your CPF savings to specific individuals.</p>
 <p><strong>How It Avoids Delays &amp; Disputes:</strong> Ensure your loved
-ones quickly receives your CPF savings upon your death and eliminates uncertainty
-and potential disagreements over the distribution of your CPF funds.</p>
+ones quickly receive your CPF savings quickly in the event of your death,
+and eliminate uncertainty and potential disagreements over the distribution
+of your CPF funds.</p>
 <p><strong>➡️ Start </strong><a href="https://www.cpf.gov.sg/member/account-services/providing-for-your-loved-ones/making-a-cpf-nomination?utm_source=PYLavoiddelays&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">now</a><strong> </strong>(5
 minutes).</p>
 <h4><strong>Will</strong></h4>
