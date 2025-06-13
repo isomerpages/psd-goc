@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSF_Plan_Your_Legacy_Today_Roadshow_KV_FA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSF_Plan_Your_Legacy_Today_Roadshow_KV_FA_12June.png">
 </div>
 <p><strong>Don’t leave your family’s future to chance! </strong>Join us for
 an unmissable event on <strong>19 and 20 July</strong> for expert panels,
