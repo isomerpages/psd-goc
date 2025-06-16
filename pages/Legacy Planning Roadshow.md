@@ -471,7 +471,7 @@ on legacy planning.</p>
 <p>Islamic Legacy Planning matters –&nbsp;<a href="https://go.gov.sg/legalconsult-peguam" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/legalconsult-peguam</a>
 </p>
 <p></p>
-<p><em>Limited slots are available on a first-come-first-serve basis. If you are unable to get a slot at the event, you may email Pro Bono SG <a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fgo.gov.sg%2flegalconsult%2dpbsg&amp;amp;umid=CAE50E4C-376B-E406-988A-2B5F8B5AEDC9&amp;amp;auth=803235fe10e369863a6ca1390ca71d34b2f8aba4-62a5c8f342cf8c2bda371271965abb3b7b278765" rel="noopener noreferrer nofollow" target="_blank">athelp@probono.sg</a>&nbsp;to register for their legal clinics.</em>
+<p><em>Limited slots are available on a first-come-first-serve basis. If you are unable to get a slot at the event, you may email Pro Bono SG at <a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fgo.gov.sg%2flegalconsult%2dpbsg&amp;amp;umid=CAE50E4C-376B-E406-988A-2B5F8B5AEDC9&amp;amp;auth=803235fe10e369863a6ca1390ca71d34b2f8aba4-62a5c8f342cf8c2bda371271965abb3b7b278765" rel="noopener noreferrer nofollow" target="_blank">help@probono.sg</a>&nbsp;to register for their legal clinics.</em>
 </p>
 </li>
 </ul>
