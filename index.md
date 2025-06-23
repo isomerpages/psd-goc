@@ -6,7 +6,11 @@ description: Sudden death and mental incapacity can happen to any of us. Yet few
   pieces. Plan your legacy today. A Singapore Government Initiative.
 image: /images/meta_image.png
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 Scamshield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information on how to protect yourself against scams, please visit the <a
+  href="">ScamShield</a>
 sections:
   - hero:
       title: Hero title
