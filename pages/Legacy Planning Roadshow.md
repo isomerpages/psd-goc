@@ -376,48 +376,9 @@ the application.</p>
 <li>
 <p><strong>Certify your LPA:</strong> Book your session with a Certificate
 Issuer to certify your LPA application at <strong>$30</strong> only.</p>
-<p><strong>Interested attendees must attend a compulsory LPA webinar to be eligible to sign up for the certification sessions.</strong> Instructions
-on how to sign up for the certification sessions will be provided after
-the webinar.</p>
-<p></p>
-<p><u>Details of the upcoming LPA webinars:</u>
+<p><strong>Interested attendees must attend a compulsory LPA webinar to be eligible to sign up for the certification sessions.</strong> 
 </p>
-<p><strong>LPA Webinar (English)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 17 Jun 2025 (Tuesday)</p>
-</li>
-<li>
-<p>Time: 6pm to 8pm</p>
-</li>
-<li>
-<p>Speaker: Dr Ho Ying Jie</p>
-</li>
-<li>
-<p>Webinar link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lpa-webinar-17june</a>
-</p>
-</li>
-</ul>
-<p><strong>LPA Webinar (English)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 21 Jun 2025 (Saturday)</p>
-</li>
-<li>
-<p>Time: 10am to 12pm</p>
-</li>
-<li>
-<p>Speaker: Low Seow Ling and Dr Ho Ying Jie</p>
-</li>
-<li>
-<p>Webinar link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lpa-webinar-21june</a>
-</p>
-<p></p>
-</li>
-</ul>
-<p><strong><em>Limited slots are available for the certification sessions, and signs-ups will be on a first-come-first-serve basis</em></strong>
+<p><strong><em>Limited slots are available for the certification sessions, and signs-ups will be on a first-come-first-serve basis.</em></strong>
 </p>
 <p></p>
 </li>
