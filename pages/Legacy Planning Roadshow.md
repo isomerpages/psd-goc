@@ -388,9 +388,7 @@ Issuer to certify your LPA application at <strong>$30</strong> only.</p>
 </p>
 </li>
 </ul>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>Limited slots are available for the certification sessions, and signs-ups will be on a first-come-first-serve basis.</em></strong>
+<p><strong><em>&nbsp;Limited slots are available for the certification sessions, and signs-ups will be on a first-come-first-serve basis.</em></strong>
 </p>
 <p></p>
 </li>
