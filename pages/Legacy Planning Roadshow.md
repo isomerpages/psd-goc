@@ -376,9 +376,19 @@ the application.</p>
 <li>
 <p><strong>Certify your LPA:</strong> Book your session with a Certificate
 Issuer to certify your LPA application at <strong>$30</strong> only.</p>
-<p><strong>Interested attendees must attend a compulsory LPA webinar to be eligible to sign up for the certification sessions.</strong> 
+<p><strong>Interested attendees must view the webinar recording to be eligible to sign up for the certification sessions.</strong>
 </p>
-<p><strong><em>Limited slots are available for the certification sessions, and signs-ups will be on a first-come-first-serve basis.</em></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>English webinar – </strong><a href="https://youtu.be/W7z64q-gRqY" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/W7z64q-gRqY</a>
+</p>
+</li>
+<li>
+<p><strong>Chinese webinar – </strong><a href="https://youtu.be/W7z64q-gRqY" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/4vGdff3TTpA</a>
+</p>
+</li>
+</ul>
+<p><strong><em>&nbsp;Limited slots are available for the certification sessions, and signs-ups will be on a first-come-first-serve basis.</em></strong>
 </p>
 <p></p>
 </li>
