@@ -576,5 +576,8 @@ Avenue 3.
 </p>
 <p><em>Weekdays (Monday to Friday): <br>• 7:00 AM – 12:00 PM: $0.02 per minute <br>• 12:00 PM – 2:00 PM: Free parking <br>• 2:00 PM – 10:30 PM: $0.02 per minute <br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00)</em>
 </p>
-<p><em>Weekends &amp; Public Holidays (Saturday, Sunday &amp; PH): <br>• 7:00 AM – 10:30 PM: $0.02 per minute <br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00</em>
+<p><em>Weekends &amp; Public Holidays (Saturday, Sunday &amp; PH): <br>• 7:00 AM – 10:30 PM: $0.02 per minute <br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00)</em>
+</p>
+<p></p>
+<p><a href="https://www.planyourlegacy.gov.sg/event-faq/" rel="noopener nofollow" target="_blank">Event FAQ</a>
 </p>
