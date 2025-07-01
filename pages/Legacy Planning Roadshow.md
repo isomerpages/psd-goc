@@ -579,5 +579,5 @@ Avenue 3.
 <p><em>Weekends &amp; Public Holidays (Saturday, Sunday &amp; PH): <br>• 7:00 AM – 10:30 PM: $0.02 per minute <br>• 10:30 PM – 7:00 AM: $0.02 per minute (capped at $5.00)</em>
 </p>
 <p></p>
-<p><a href="https://www.planyourlegacy.gov.sg/event-faq/" rel="noopener nofollow" target="_blank">Event FAQ</a>
+<p><a href="https://www.planyourlegacy.gov.sg/event-faq/" rel="noopener nofollow" target="_blank">Click here for Event FAQ</a>
 </p>
