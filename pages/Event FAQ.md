@@ -28,8 +28,8 @@ description: ""
 <p></p>
 <p>While this is our only planned roadshow for the year, we would love to
 keep you updated on our other activities. Do follow us on social media
-channels – My Legacy FB and IG &lt;to insert link&gt; for the latest announcements
-and ways to stay connected.</p>
+channels – My Legacy <a href="https://www.facebook.com/mylegacylifesg" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/mylegacysg/" rel="noopener nofollow" target="_blank">Instagram</a>for the latest announcements and ways to stay connected.</p>
 </td>
 </tr>
 <tr>
