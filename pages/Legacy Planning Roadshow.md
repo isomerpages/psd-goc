@@ -93,7 +93,7 @@ loved ones for life’s uncertainties.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.15am</p>
+<p>11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Official opening of event by Guest of Honour, Mr Ong Ye Kung, Minster for Health and Coordinating Minister for Social Policies</strong>
