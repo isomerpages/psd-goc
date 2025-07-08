@@ -308,8 +308,8 @@ SG Enable ​</p>
 Care</p>
 </li>
 </ul>
-<p><strong>The session will be moderated by Ms Catherine Yong, </strong>Legal
-Counsel Asia/Pacific,​ Schaeffler (Singapore) Pte Ltd.</p>
+<p><strong>The session will be moderated by Ms Catherine Yong, </strong>VP
+Real Estate Management Asia/Pacific, Schaeffler (Singapore) Pte Ltd.</p>
 <p></p>
 <p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/i6dzy1xk2fqcvxvjritf6ztu" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - Planning for Individuals with Special Needs</a>
 </p>
