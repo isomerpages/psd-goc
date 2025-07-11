@@ -14,7 +14,8 @@ interactive booths, 1-to-1 consultations, and appearances by celebrity
 guests.</p>
 <p>Walk away with easy-to-use Legacy Planning tools and practical strategies
 that will safeguard your family’s future and prepare yourself and your
-loved ones for life’s uncertainties.</p>
+loved ones for life’s uncertainties. Unsure how to start - take our <a href="https://go.gov.sg/lpquiz" rel="noopener nofollow" target="_blank">legacy planning style quiz</a> to
+get a recommendation.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -96,7 +97,7 @@ loved ones for life’s uncertainties.</p>
 <p>11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Official opening of event by Guest of Honour, Mr Ong Ye Kung, Minster for Health and Coordinating Minister for Social Policies</strong>
+<p><strong>Official opening of event by Guest of Honour, Mr Ong Ye Kung, Minister for Health and Coordinating Minister for Social Policies</strong>
 </p>
 </td>
 </tr>
