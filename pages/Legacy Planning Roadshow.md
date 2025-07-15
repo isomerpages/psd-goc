@@ -133,7 +133,7 @@ stand a chance to win prizes!</p>
 <p></p>
 <hr>
 <hr>
-<p><em>Registration slots for 'Panel Discussion Talk - What is Legacy Planning?' has been closed as the slots have been fully taken up. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em>
+<p><em>Registration slots for 'Panel Discussion Talk - What is Legacy Planning?' has been closed as the slots have been <u>fully taken up</u>. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em>
 </p>
 <p></p>
 <hr>
