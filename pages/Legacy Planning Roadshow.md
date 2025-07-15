@@ -131,6 +131,16 @@ stand a chance to win prizes!</p>
 <p><strong>Panel Discussion on Legacy Planning</strong>
 </p>
 <p></p>
+<hr>
+<hr>
+<p><em>Registration slots for 'Panel Discussion Talk - What is Legacy Planning?' has been closed as the slots have been <u>fully taken up</u>. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em>
+</p>
+<p></p>
+<hr>
+<hr>
+<p></p>
+<p></p>
+<p></p>
 <p>Ever wondered who would make decisions for you if you no longer can? Join
 our experts as they demystify legacy planning and reveal essential and
 easy tools to protect your future and loved ones.</p>
@@ -154,8 +164,7 @@ Tock Seng Hospital</p>
 </ul>
 <p><strong>The session will be moderated by Mr Andrew Lee, </strong>Assistant
 General Counsel, Kaplan Higher Education Academy Pte Ltd.</p>
-<p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tzj4wj0nhys55mvjhmxzjdsr" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - What is Legacy Planning?</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -238,8 +247,8 @@ those caring for individuals with chronic conditions or disabilities.</p>
 <p><strong>Ms Jiang Weiting, </strong>Psychologist, Dementia Singapore​</p>
 </li>
 <li>
-<p><strong>Ms Geethanjali Chandra, </strong>Senior Case Manager, Stroke Support
-Station</p>
+<p><strong>Ms Geethanjali Chandra, </strong>Assistant Manager (Care and Support
+Department), Stroke Support Station</p>
 </li>
 <li>
 <p><strong>Mr Isaac Lee, </strong>Associate Senior Social Worker, Montfort
