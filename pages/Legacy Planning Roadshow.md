@@ -154,8 +154,12 @@ Tock Seng Hospital</p>
 </ul>
 <p><strong>The session will be moderated by Mr Andrew Lee, </strong>Assistant
 General Counsel, Kaplan Higher Education Academy Pte Ltd.</p>
-<p><em>Our registration slots for 'Panel Discussion Talk - What is Legacy Planning?' are currently full. However, walk-ins are welcome and will be admitted on a first-come, first-served basis, subject to availability.</em>
+<p></p>
+<blockquote>
+<p><em>Registration slots for '<u>Panel Discussion Talk - What is Legacy Planning?</u>' has been closed as the slots have been fully taken up. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em>
 </p>
+<p></p>
+</blockquote>
 </td>
 </tr>
 <tr>
