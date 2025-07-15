@@ -131,8 +131,15 @@ stand a chance to win prizes!</p>
 <p><strong>Panel Discussion on Legacy Planning</strong>
 </p>
 <p></p>
-<p><strong><em>Registration slots for 'Panel Discussion Talk - What is Legacy Planning?' has been closed as the slots have been fully taken up. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em></strong>
+<hr>
+<hr>
+<p><em>Registration slots for 'Panel Discussion Talk - What is Legacy Planning?' has been closed as the slots have been fully taken up. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em>
 </p>
+<p></p>
+<hr>
+<hr>
+<p></p>
+<p></p>
 <p></p>
 <p>Ever wondered who would make decisions for you if you no longer can? Join
 our experts as they demystify legacy planning and reveal essential and
