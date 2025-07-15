@@ -238,8 +238,8 @@ those caring for individuals with chronic conditions or disabilities.</p>
 <p><strong>Ms Jiang Weiting, </strong>Psychologist, Dementia Singapore​</p>
 </li>
 <li>
-<p><strong>Ms Geethanjali Chandra, </strong>Senior Case Manager, Stroke Support
-Station</p>
+<p><strong>Ms Geethanjali Chandra, </strong>Assistant Manager (Care and Support
+Department), Stroke Support Station</p>
 </li>
 <li>
 <p><strong>Mr Isaac Lee, </strong>Associate Senior Social Worker, Montfort
