@@ -154,7 +154,7 @@ Tock Seng Hospital</p>
 </ul>
 <p><strong>The session will be moderated by Mr Andrew Lee, </strong>Assistant
 General Counsel, Kaplan Higher Education Academy Pte Ltd.</p>
-<p><strong>Sign up here:</strong>  <a href="https://cal.gov.sg/tzj4wj0nhys55mvjhmxzjdsr" rel="noopener noreferrer nofollow" target="_blank">Panel Discussion Talk - What is Legacy Planning?</a>
+<p><em>Our registration slots for 'Panel Discussion Talk - What is Legacy Planning?' are currently full. However, walk-ins are welcome and will be admitted on a first-come, first-served basis, subject to availability.</em>
 </p>
 </td>
 </tr>
