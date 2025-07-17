@@ -155,7 +155,7 @@ Tock Seng Hospital</p>
 <p><strong>The session will be moderated by Mr Andrew Lee, </strong>Assistant
 General Counsel, Kaplan Higher Education Academy Pte Ltd.</p>
 <hr>
-<p><strong><em>Registration slots for 'Panel Discussion Talk - What is Legacy Planning?' has been closed as the slots have been <u>fully taken up</u>. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em></strong>
+<p><strong><em>Registration for the Panel Discussion on Legacy Planning is now closed, as all available slots have been filled.</em></strong><em> Walk-in attendees are welcome and will be admitted on a first-come, first-served basis, subject to venue capacity and availability.</em>
 </p>
 <p></p>
 </td>
@@ -191,7 +191,7 @@ by Dr Farhan</p>
 <p><strong>&nbsp;The session will be moderated by Ms Serene Gan, </strong>Deputy
 Head of Legal, International Property Group.</p>
 <hr>
-<p><strong><em>Registration slots for 'Panel Discussion Talk - Islamic Legacy Planning' has been closed as the slots have been <u>fully taken up</u>. However, walk-ins are welcomed and will be admitted on a first-come, first-served basis, subject to availability.</em></strong>
+<p><strong><em>Registration for the Panel Discussion on Islamic Legacy Planning is now closed, as all available slots have been filled.</em></strong><em> Walk-in attendees are welcome and will be admitted on a first-come, first-served basis, subject to venue capacity and availability.</em>
 </p>
 <hr>
 </td>
