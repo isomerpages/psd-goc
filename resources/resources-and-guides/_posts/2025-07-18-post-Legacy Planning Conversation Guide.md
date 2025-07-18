@@ -143,7 +143,7 @@ explaining.</p>
 <p><strong>This might not be a one-day affair, and that’s ok. </strong>Break
 down the conversation into various topics you’d want to discuss and give
 them time and space to think about each before starting a new one.</p>
-<p><strong>Allow them to clarify with you or assist them in clarifying their questions with professionals or official sources. </strong>
+<p><strong>Allow them to clarify with you or assist them in clarifying their questions with professionals or official sources.</strong>
 </p>
 <p>For seniors, remember that they may require a slower pace in understanding
 a new topic.</p>
