@@ -31,8 +31,12 @@ property and bank accounts.</p>
 your care and treatment accordingly, when you are not able to speak for
 yourself. This includes indicating the activities you enjoy, and worries
 you may have about your medical care.</p>
-<p>Step 1: Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">Advance Care Plan</a>.</p>
-<p>Step 2: Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
+<p>Step 1: Use the <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">myACP</a> service
+to prepare an Advance Care Plan (ACP) online.</p>
+<p>Step 2: Get each Nominated Healthcare Spokesperson (NHS) to accept their
+appointment.</p>
+<p>Step 3: Share ACP with NHS once registered</p>
+<p>Alternatively, you may schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
 register your plan. You can meet your facilitator online or in person.</p>
 <p>➡️ <strong>Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
@@ -42,7 +46,7 @@ death. Make an appointment or draft your own will.</p>
 <p>➡️ <strong>Here's <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">how</a>.</strong>
 </p>
 <p></p>
-<h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today. </h4>
+<h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today.</h4>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
