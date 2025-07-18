@@ -301,8 +301,8 @@ is safeguarded.</p>
 Chew &amp; Chia ​</p>
 </li>
 <li>
-<p><strong>Ms Wheeki Goh, </strong>Assistant Director (Community Engagement),
-SG Enable ​</p>
+<p><strong>Ms Wheeki Goh, </strong>Assistant Director (Future Care Planning
+Unit), SG Enable ​</p>
 </li>
 <li>
 <p><strong>Dr Bhavani Sriram, </strong>Paediatric Practitioner, Shankar Surgery</p>
