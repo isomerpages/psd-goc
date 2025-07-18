@@ -70,6 +70,8 @@ appointment.</p>
 <p>Step 3 - Share ACP with NHS once registered.</p>
 </li>
 </ul>
+<p>Alternatively, you may schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank"><u>ACP facilitator</u></a> to
+register your plan. You can meet your facilitator online or in person.</p>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLgiftoflove&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">now</a>.</strong>
 </p>
 <h4><strong>CPF Nomination</strong></h4>
