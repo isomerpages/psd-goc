@@ -105,16 +105,15 @@ a list of ACP providers.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1 - Create your <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">Advance Care Plan</a> (30
-minutes).</p>
+<p>Step 1 - Use the <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank"><u>myACP</u></a> service
+to prepare an Advance Care Plan (ACP) online.</p>
 </li>
 <li>
-<p>Step 2 - Schedule an appointment with an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">ACP facilitator</a> to
-register your plan.</p>
+<p>Step 2 - Get each Nominated Healthcare Spokesperson (NHS) to accept their
+appointment.</p>
 </li>
 <li>
-<p>Step 3 - Meet your ACP facilitator online or in person to discuss your
-plan.</p>
+<p>Step 3 - Share ACP with NHS once registered.</p>
 </li>
 </ul>
 <p><strong>➡️ Start <a href="https://mylegacy.life.gov.sg/find-a-service/acp/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">now</a>.</strong>
