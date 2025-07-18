@@ -140,5 +140,21 @@ explaining.</p>
 <p>If you’re up for it, <strong>offer to carry out the responsibilities relating to their legacy plans</strong>.</p>
 <p><strong><u>Introduce Topics Gradually</u></strong>
 </p>
+<p><strong>This might not be a one-day affair, and that’s ok. </strong>Break
+down the conversation into various topics you’d want to discuss and give
+them time and space to think about each before starting a new one.</p>
+<p><strong>Allow them to clarify with you or assist them in clarifying their questions with professionals or official sources. </strong>
+</p>
+<p>For seniors, remember that they may require a slower pace in understanding
+a new topic.</p>
+<p><strong><u>Be There for Them, Beyond the Conversation</u></strong>
+</p>
+<p>Even if you may not be the one nominated to execute their legacy plans,
+you can continue to be there for them.</p>
+<p><strong>Offer practical support </strong>by guiding them through the process,
+accompanying them for appointments, making these plans together, assisting
+with the paperwork and bridging the conversation with other loved ones.</p>
+<p>At the end of the day, <strong>your care, effort and love will speak to them</strong>.
+All the best!</p>
 <p></p>
 <p></p>
