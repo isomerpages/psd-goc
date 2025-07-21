@@ -67,6 +67,11 @@ sections:
           description: It only takes a few minutes to start planning for the unexpected.
           linktext: Learn more
           url: /its-easy-to-get-started/
+        - title: What's your planning style?
+          description: Unsure how to start? Our legacy planning style quiz can give a
+            recommendation.
+          linktext: Try it now
+          url: https://go.gov.sg/lpquiz
   - infobar:
       id: infobar
       description: '<iframe title="Embedded Form" style="width: 100%; height: 750px;
