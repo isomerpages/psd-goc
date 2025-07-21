@@ -18,6 +18,8 @@ links:
   - title: Get Started
     url: /whats-the-difference-between-the-tools
     sublinks:
+      - title: What's my Planning Style?
+        url: https://go.gov.sg/lpquiz
       - title: Know the 4 Tools
         url: /whats-the-difference-between-the-tools/
       - title: Step-by-Step Guide
@@ -37,9 +39,5 @@ links:
         url: https://ask.gov.sg/mylegacy
       - title: Resources
         url: /resources
-      - title: Legacy Planning Roadshow
-        url: /legacy-planning-roadshow/
-      - title: Event FAQ
-        url: /event-faq/
   - title: Contact Us
     url: https://mylegacy.life.gov.sg/contact/?utm_source=PYLhome&utm_medium=referral&utm_campaign=PYLT

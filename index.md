@@ -58,6 +58,11 @@ sections:
           description: What's the difference between our 4 tools, and do you need all 4?
           linktext: Learn more
           url: /whats-the-difference-between-the-tools/
+        - title: What's your planning style?
+          description: Unsure how to start? Our legacy planning style quiz can give a
+            recommendation.
+          linktext: Try it now
+          url: https://go.gov.sg/lpquiz
         - title: 5 reasons to start planning
           description: Make your wishes known. Avoid delays and disputes. Protect your
             loved ones.

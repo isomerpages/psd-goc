@@ -1,0 +1,6 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Event FAQ.md
+      - Legacy Planning Roadshow.md
