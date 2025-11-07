@@ -19,7 +19,7 @@ Thank you for visiting planyourlegacy.gov.sg. By accessing and using this Web Si
 
 #### Privacy Policy
 
-5. [Click here to review this Web Site Privacy Statement.](https://www.psd.gov.sg/privacy-statement)
+5. [Click here to review this Web Site Privacy Statement.](https://www.psd.gov.sg/privacy/)
 
 #### Restrictions on use of Materials
 
