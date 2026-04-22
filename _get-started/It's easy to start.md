@@ -43,14 +43,14 @@ register your plan. You can meet your facilitator online or in person.</p>
 <h4><strong>Will (1 hour to start)</strong></h4>
 <p>Decide what happens to your money, property and possessions after your
 death. Make an appointment or draft your own will.</p>
-<p>➡️ <strong>Here's <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/?utm_source=PYLstepbystep&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">how</a>.</strong>
+<p>➡️ <strong>Here's <a href="https://mylegacy.life.gov.sg/find-a-service/will-learning-tool" rel="noopener nofollow" target="_blank">how</a>.</strong>
 </p>
 <p></p>
 <h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today.</h4>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HEotqRxSCbc?rel=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HEotqRxSCbc?rel=0"></iframe>
 </div>
 <p></p>
 <p></p>
