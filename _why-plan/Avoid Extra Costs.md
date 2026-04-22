@@ -168,6 +168,6 @@ services.</p>
 distribution.</p>
 </li>
 </ul>
-<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/?utm_source=PYLavoidcosts&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">writing a will.</a>
+<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/find-a-service/will-learning-tool" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>

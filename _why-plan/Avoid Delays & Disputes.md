@@ -97,6 +97,6 @@ and dependents cared for.</p>
 <p><strong>How It Avoids Delays &amp; Disputes:</strong> Prevent delays and
 disputes by clearly stating your intentions for how your assets are to
 be distributed upon your death.</p>
-<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/?utm_source=PYLavoiddelays&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">writing a will.</a>
+<p><strong>➡️ Learn more</strong> about <a href="https://mylegacy.life.gov.sg/find-a-service/will-learning-tool" rel="noopener nofollow" target="_blank">writing a will.</a>
 </p>
 <p></p>

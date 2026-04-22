@@ -35,7 +35,7 @@ and ACP to avoid potential disagreements on how to care for you.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A <a href="https://mylegacy.life.gov.sg/end-of-life-planning/write-a-will/?utm_source=PYLtoolsdifference&amp;utm_medium=referral&amp;utm_campaign=PYLT" rel="noopener nofollow" target="_blank">will</a> sets
+<p>A <a href="https://mylegacy.life.gov.sg/find-a-service/will-learning-tool" rel="noopener nofollow" target="_blank">will</a> sets
 out how you would like your assets to be distributed. However, your CPF
 savings will not be covered by a will.</p>
 </li>
@@ -51,7 +51,7 @@ savings.</p>
 <h4>Sudden death and loss of mental capacity can happen to any of us. Don't wait till it's too late. Plan your legacy today. Start with our <a href="https://www.planyourlegacy.gov.sg/its-easy-to-get-started/" rel="noopener nofollow" target="_blank">Step-by-Step Guide</a>.</h4>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HEotqRxSCbc?rel=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HEotqRxSCbc?rel=0"></iframe>
 </div>
 <p></p>
 <p></p>
