@@ -31,7 +31,7 @@ court applications and legal disputes over who should manage your affairs.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>LPA application fee - <strong>$70 for Singaporeans using Form 1</strong>  <strong>(waived until 31 Mar 2026).</strong> Fees
+<p>LPA application fee - <strong>No application fee for Singaporeans using Form 1.</strong> Fees
 for other citizenship and form types can be found <a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.msf.gov.sg%2fdocs%2fdefault%2dsource%2fopg%2flpa%5ffees%5ftable.pdf&amp;umid=FF4EC07B-296E-5F06-8344-BF98DC1FF6CE&amp;auth=ce6a3f6d14c1e3e3f878a8a607dd7ee2cb794b08-d62b2a96ca615fc575b0a7e1d1d4beef0e2da318" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
