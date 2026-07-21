@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://go.gov.sg/lpbrochure
+external: https://go.gov.sg/lpbrochuresrequest
 ---
